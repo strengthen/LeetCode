@@ -1,7 +1,7 @@
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
-# Welcome to my blog：[【山青咏芝】](https://www.cnblogs.com/strengthen/)
+# Welcome to my blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 
-# [【LeetCode汇总目录 | LeetCode Solution Summary】](https://www.cnblogs.com/strengthen/p/9895524.html)
+# [LeetCode汇总目录 | LeetCode Solution Summary](https://www.cnblogs.com/strengthen/p/9895524.html)
 
 | 序号Serial | 题名(Title) | 通过率Acceptance | 难度Difficulty |
 | ------------------  | ----------  | --------------- | -------------- |
