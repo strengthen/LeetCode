@@ -5,45 +5,45 @@
 
 | 序号Serial | 题名(Title) | 通过率Acceptance | 难度Difficulty |
 | ------------------  | ----------  | --------------- | -------------- |
-|	1	|	[ 两数之和 - Two Sum](https://www.cnblogs.com/strengthen/p/9697856.html)	|	39.10%	|	Easy	|
+|	1	|	[两数之和 - Two Sum](https://www.cnblogs.com/strengthen/p/9697856.html)	|	39.10%	|	Easy	|
 |	2	|	[两数相加 - Add Two Numbers ](https://www.cnblogs.com/strengthen/p/9697862.html)	|	29.40%	|	Medium	|
-|	3	|	[ 无重复字符的最长子串 - Longest Substring Without Repeating Characters](https://www.cnblogs.com/strengthen/p/9858659.html)	|	25.20%	|	Medium	|
+|	3	|	[无重复字符的最长子串 - Longest Substring Without Repeating Characters](https://www.cnblogs.com/strengthen/p/9858659.html)	|	25.20%	|	Medium	|
 |	4	|	[两个排序数组的中位数 - Median of Two Sorted Arrays ](https://www.cnblogs.com/strengthen/p/9858777.html)	|	24.20%	|	Hard	|
 |	5	|	[最长回文子串 - Longest Palindromic Substring ](https://www.cnblogs.com/strengthen/p/9860395.html)	|	25.6% 	|	Medium	|
-|	6	|	[ Z字形变换 - ZigZag Conversion](https://www.cnblogs.com/strengthen/p/9872595.html)	|	29.00%	|	 Medium	|
+|	6	|	[Z字形变换 - ZigZag Conversion](https://www.cnblogs.com/strengthen/p/9872595.html)	|	29.00%	|	 Medium	|
 |	7	|	[反转整数 - Reverse Integer ](https://www.cnblogs.com/strengthen/p/9697892.html)	|	24.50%	|	Easy	|
 |	8	|	[字符串转整数 (atoi) - String to Integer (atoi) ](https://www.cnblogs.com/strengthen/p/9881572.html)	|	14.20%	|	Medium	|
-|	9	|	[  回文数 - Palindrome Number](https://www.cnblogs.com/strengthen/p/9697895.html)	|	39.20%	|	Easy	|
-|	10	|	[ 正则表达式匹配 - Regular Expression Matching](https://www.cnblogs.com/strengthen/p/9883662.html)	|	24.40%	|	Hard	|
-|	11	|	[ 盛最多水的容器 - Container With Most Water](https://www.cnblogs.com/strengthen/p/9883829.html)	|	39.70%	|	Medium	|
+|	9	|	[回文数 - Palindrome Number](https://www.cnblogs.com/strengthen/p/9697895.html)	|	39.20%	|	Easy	|
+|	10	|	[正则表达式匹配 - Regular Expression Matching](https://www.cnblogs.com/strengthen/p/9883662.html)	|	24.40%	|	Hard	|
+|	11	|	[盛最多水的容器 - Container With Most Water](https://www.cnblogs.com/strengthen/p/9883829.html)	|	39.70%	|	Medium	|
 |	12	|	[整数转罗马数字 - Integer to Roman ](https://www.cnblogs.com/strengthen/p/9883993.html)	|	48.10%	|	Medium	|
 |	13	|	[罗马数字转整数 - Roman to Integer](https://www.cnblogs.com/strengthen/p/9697900.html)	|	49.90%	|	Easy	|
 |	14	|	[最长公共前缀 - Longest Common Prefix ](https://www.cnblogs.com/strengthen/p/9697903.html)	|	32.10%	|	Easy	|
-|	15	|	[ 三数之和 - 3Sum](https://www.cnblogs.com/strengthen/p/9884470.html)	|	22.30%	|	Medium	|
+|	15	|	[三数之和 - 3Sum](https://www.cnblogs.com/strengthen/p/9884470.html)	|	22.30%	|	Medium	|
 |	16	|	[最接近的三数之和 - 3Sum Closest ](https://www.cnblogs.com/strengthen/p/9885069.html)	|	32.90%	|	Medium	|
-|	17	|	[ 电话号码的字母组合 - Letter Combinations of a Phone Number](https://www.cnblogs.com/strengthen/p/9888168.html)	|	38.60%	|	Medium	|
-|	18	|	[ 四数之和 - 4Sum](https://www.cnblogs.com/strengthen/p/9889017.html)	|	28.60%	|	Medium	|
-|	19	|	[ 删除链表的倒数第N个节点 - Remove Nth Node From End of List](https://www.cnblogs.com/strengthen/p/9890204.html)	|	33.60%	|	Medium	|
-|	20	|	[ 有效的括号 - Valid Parentheses](https://www.cnblogs.com/strengthen/p/9697906.html)	|	34.80%	|	Easy	|
+|	17	|	[电话号码的字母组合 - Letter Combinations of a Phone Number](https://www.cnblogs.com/strengthen/p/9888168.html)	|	38.60%	|	Medium	|
+|	18	|	[四数之和 - 4Sum](https://www.cnblogs.com/strengthen/p/9889017.html)	|	28.60%	|	Medium	|
+|	19	|	[删除链表的倒数第N个节点 - Remove Nth Node From End of List](https://www.cnblogs.com/strengthen/p/9890204.html)	|	33.60%	|	Medium	|
+|	20	|	[有效的括号 - Valid Parentheses](https://www.cnblogs.com/strengthen/p/9697906.html)	|	34.80%	|	Easy	|
 |	21	|	[合并两个有序链表 - Merge Two Sorted Lists](https://www.cnblogs.com/strengthen/p/9697907.html)	|	43.70%	|	Easy	|
 |	22	|	[括号生成 - Generate Parentheses ](https://www.cnblogs.com/strengthen/p/9890477.html)	|	50.90%	|	Medium 	|
 |	23	|	[合并K个排序链表 - Merge k Sorted Lists ](https://www.cnblogs.com/strengthen/p/9891419.html)	|	30.90%	|	Hard	|
-|	24	|	[ 两两交换链表中的节点 - Swap Nodes in Pairs](https://www.cnblogs.com/strengthen/p/9892062.html)	|	41.40%	|	Medium	|
+|	24	|	[两两交换链表中的节点 - Swap Nodes in Pairs](https://www.cnblogs.com/strengthen/p/9892062.html)	|	41.40%	|	Medium	|
 |	25	|	[k个一组翻转链表 - Reverse Nodes in k-Group ](https://www.cnblogs.com/strengthen/p/9892367.html)	|	33.80%	|	Hard	|
 |	26	|	[删除排序数组中的重复项 - Remove Duplicates from Sorted Array ](https://www.cnblogs.com/strengthen/p/9697912.html)	|	38.20%	|	Easy	|
 |	27	|	[移除元素 - Remove Element ](https://www.cnblogs.com/strengthen/p/9697916.html)	|	42.30%	|	 Easy	|
 |	28	|	[实现strStr() - Implement strStr() ](https://www.cnblogs.com/strengthen/p/9697924.html)	|	30.20%	|	 Easy	|
 |	29	|	[两数相除 - Divide Two Integers ](https://www.cnblogs.com/strengthen/p/9894980.html)	|	15.70%	|	Medium	|
-|	30	|	[ 与所有单词相关联的字串 - Substring with Concatenation of All Words](https://www.cnblogs.com/strengthen/p/9897592.html)	|	22.50%	|	Hard	|
-|	31	|	[ 下一个排列 - Next Permutation](https://www.cnblogs.com/strengthen/p/9897957.html)	|	29.40%	|	Medium	|
-|	32	|	[ 最长有效括号 - Longest Valid Parentheses](https://www.cnblogs.com/strengthen/p/9898451.html)	|	24.10%	|	Hard	|
+|	30	|	[与所有单词相关联的字串 - Substring with Concatenation of All Words](https://www.cnblogs.com/strengthen/p/9897592.html)	|	22.50%	|	Hard	|
+|	31	|	[下一个排列 - Next Permutation](https://www.cnblogs.com/strengthen/p/9897957.html)	|	29.40%	|	Medium	|
+|	32	|	[最长有效括号 - Longest Valid Parentheses](https://www.cnblogs.com/strengthen/p/9898451.html)	|	24.10%	|	Hard	|
 |	33	|	[搜索旋转排序数组 - Search in Rotated Sorted Array ](https://www.cnblogs.com/strengthen/p/9899997.html)	|	32.20%	|	Medium	|
-|	34	|	[ 在排序数组中查找元素的第一个和最后一个位置 - Find First and Last Position of Element in Sorted Array](https://www.cnblogs.com/strengthen/p/9900149.html)	|	32.20%	|	Medium	|
+|	34	|	[在排序数组中查找元素的第一个和最后一个位置 - Find First and Last Position of Element in Sorted Array](https://www.cnblogs.com/strengthen/p/9900149.html)	|	32.20%	|	Medium	|
 |	35	|	[搜索插入位置 - Search Insert Position ](https://www.cnblogs.com/strengthen/p/9697930.html)	|	40.00%	|	Easy	|
-|	36	|	[ 有效的数独 - Valid Sudoku](https://www.cnblogs.com/strengthen/p/9900296.html)	|	39.90%	|	Medium	|
-|	37	|	[ 解数独 - Sudoku Solver](https://www.cnblogs.com/strengthen/p/9900641.html)	|	34.00%	|	Hard	|
+|	36	|	[有效的数独 - Valid Sudoku](https://www.cnblogs.com/strengthen/p/9900296.html)	|	39.90%	|	Medium	|
+|	37	|	[解数独 - Sudoku Solver](https://www.cnblogs.com/strengthen/p/9900641.html)	|	34.00%	|	Hard	|
 |	38	|	[报数 - Count and Say ](https://www.cnblogs.com/strengthen/p/9697940.html)	|	38.20%	|	Easy	|
-|	39	|	[ 组合总和 - Combination Sum](https://www.cnblogs.com/strengthen/p/9900712.html)	|	44.30%	|	Medium	|
+|	39	|	[组合总和 - Combination Sum](https://www.cnblogs.com/strengthen/p/9900712.html)	|	44.30%	|	Medium	|
 | 40 |   |   |   |
 | 41 |   |   |   |
 | 42 |   |   |   |
