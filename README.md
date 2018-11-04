@@ -1,6 +1,10 @@
-![Leetcode](./LeetCodeBySwift.png?style=centerme)
-# Welcome to my blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
+# 【最新Weekly Contest题目】请将滚动条下拉查看！每周日准时同步更新官网最新出的题目。
 
+# please scroll down to view "Latest Weekly Contest Title"! I will update the latest titles of official website on Sunday.
+
+![Leetcode](./LeetCodeBySwift.png?style=centerme)
+
+# Welcome to my blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 # [LeetCode目录 | LeetCode Solution Summary](https://www.cnblogs.com/strengthen/p/9895524.html)
 
 | 序号Serial | 题名(Title) | 通过率Acceptance | 难度Difficulty |
@@ -917,30 +921,30 @@
 | 910 |   |   |   |
 | 911 |   |   |   |
 | 912 |   |   |   |
-| 913 |   |   |   |
-| 914 |   |   |   |
-| 915 |   |   |   |
-| 916 |   |   |   |
-| 917 |   |   |   |
-| 918 |   |   |   |
-| 919 |   |   |   |
-| 920 |   |   |   |
-| 921 |   |   |   |
-| 922 |   |   |   |
-| 923 |   |   |   |
-| 924 |   |   |   |
-| 925 |   |   |   |
-| 926 |   |   |   |
-| 927 |   |   |   |
-| 928 |   |   |   |
-| 929 |   |   |   |
-| 930 |   |   |   |
-| 931 |   |   |   |
-| 932 |   |   |   |
-| 933 |   |   |   |
-| 934 |   |   |   |
-| 935 |   |   |   |
-| 936 |   |   |   |
+|	913	|	[猫与老鼠 - Cat and Mouse](https://www.cnblogs.com/strengthen/p/9858200.html)	|	23.00%	|	Hard	|
+|	914	|	[一副牌中的X - X of a Kind in a Deck of Cards](https://www.cnblogs.com/strengthen/p/9856704.html)	|	33.00%	|	Easy	|
+|	915	|	[将分区数组分成不相交的间隔 - Partition Array into Disjoint Intervals](https://www.cnblogs.com/strengthen/p/9856730.html)	|	40.00%	|	Medium	|
+|	916	|	[单词子集 - Word Subsets](https://www.cnblogs.com/strengthen/p/9857027.html)	|	42.80%	|	Medium	|
+|	917	|	[仅仅反转字母 - Reverse Only Letters]()	|	56.10%	|	Easy	|
+|	918	|	[环形子数组的最大和 - Maximum Sum Circular Subarray]()	|	26.10%	|	Medium	|
+|	919	|	[完全二叉树插入器 - Complete Binary Tree Inserter]()	|	54.00%	|	Medium	|
+|	920	|	[播放列表的数量 - Number of Music Playlists]()	|	40.40%	|	Hard	|
+|	921	|	[使括号有效的最少添加 - Minimum Add to Make Parentheses Valid](https://www.cnblogs.com/strengthen/p/9828360.html)	|	70.10%	|	Medium	|
+|	922	|	[按奇偶排序数组 II - Sort Array By Parity II](https://www.cnblogs.com/strengthen/p/9828530.html)	|	66.40%	|	Easy	|
+|	923	|	[三数之和的多种可能 - 3Sum With Multiplicity](https://www.cnblogs.com/strengthen/p/9830546.html)	|	28.10%	|	Medium	|
+|	924	|	[尽量减少恶意软件的传播 - Minimize Malware Spread](https://www.cnblogs.com/strengthen/p/9832226.html)	|	35.50%	|	Hard	|
+|	925	|	[长按键入 - Long Pressed Name](https://www.cnblogs.com/strengthen/p/9824714.html)	|	44.60%	|	Easy	|
+|	926	|	[将字符串翻转到单调递增 - Flip String to Monotone Increasing](https://www.cnblogs.com/strengthen/p/9824906.html)	|	42.80%	|	Medium	|
+|	927	|	[三等分 - Three Equal Parts](https://www.cnblogs.com/strengthen/p/9826329.html)	|	26.70%	|	Hard	|
+|	928	|	[尽量减少恶意软件的传播 II - Minimize Malware Spread II](https://www.cnblogs.com/strengthen/p/9825788.html)	|	37.00%	|	Hard	|
+|	929	|	[独特的电子邮件地址 - Unique Email Addresses](https://www.cnblogs.com/strengthen/p/9865133.html)	|	80.30%	|	Easy	|
+|	930	|	[和相同的二元子数组 - Binary Subarrays With Sum](https://www.cnblogs.com/strengthen/p/9865173.html)	|	33.10%	|	Medium	|
+|	931	|	[下降路径最小和 - Minimum Falling Path Sum](https://www.cnblogs.com/strengthen/p/9865369.html)	|	55.20%	|	Medium	|
+|	932	|	[漂亮数组 - Beautiful Array](https://www.cnblogs.com/strengthen/p/9865478.html)	|	44.30%	|	Medium	|
+|	933	|	[最近的请求次数 - Number of Recent Calls](https://www.cnblogs.com/strengthen/p/9903392.html)	|	58.50%	|	Easy	|
+|	934	|	[最短的桥 - Shortest Bridge](https://www.cnblogs.com/strengthen/p/9903939.html)	|	38.60%	|	Medium	|
+|	935	|	[骑士拨号器 - Knight Dialer](https://www.cnblogs.com/strengthen/p/9903415.html)	|	31.00%	|	Medium	|
+|	936	|	[LeetCode936. 戳印序列 - Stamping The Sequence](https://www.cnblogs.com/strengthen/p/9904208.html)	|	18.50%	|	Hard	|
 | 937 |   |   |   |
 | 938 |   |   |   |
 | 939 |   |   |   |
