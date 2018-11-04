@@ -1,6 +1,6 @@
 # "最新Weekly Contest题目":请将滚动条下拉查看题号！
 
-# The latest Weekly Contest Title: please scroll down to view the title.
+# The Latest Weekly Contest Title: please scroll down to view the title.
 
 # 每周日准时同步更新官网最新出的题目。
 
