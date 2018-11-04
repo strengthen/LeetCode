@@ -5,9 +5,7 @@
 # 每周日准时同步更新官网最新出的题目。
 
 # Every Sunday, I will update the latest titles of official website on time.
-
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
-
 # Welcome to my blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 # [LeetCode目录 | LeetCode Solution Summary](https://www.cnblogs.com/strengthen/p/9895524.html)
 
