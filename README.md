@@ -946,7 +946,7 @@
 |	933	|	[最近的请求次数 - Number of Recent Calls](https://www.cnblogs.com/strengthen/p/9903392.html)	|	58.50%	|	Easy	|
 |	934	|	[最短的桥 - Shortest Bridge](https://www.cnblogs.com/strengthen/p/9903939.html)	|	38.60%	|	Medium	|
 |	935	|	[骑士拨号器 - Knight Dialer](https://www.cnblogs.com/strengthen/p/9903415.html)	|	31.00%	|	Medium	|
-|	936	|	[LeetCode936. 戳印序列 - Stamping The Sequence](https://www.cnblogs.com/strengthen/p/9904208.html)	|	18.50%	|	Hard	|
+|	936	|	[戳印序列 - Stamping The Sequence](https://www.cnblogs.com/strengthen/p/9904208.html)	|	18.50%	|	Hard	|
 | 937 |   |   |   |
 | 938 |   |   |   |
 | 939 |   |   |   |
