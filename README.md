@@ -6,8 +6,9 @@
 
 # Every Sunday, I will update the latest titles of official website on time.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
-# Welcome to my blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
-# [LeetCode目录 | LeetCode Solution Summary](https://www.cnblogs.com/strengthen/p/9895524.html)
+# Welcome to my technology blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
+
+# [LeetCode目录 | LeetCode Solution Catalog](https://www.cnblogs.com/strengthen/p/9895524.html)
 
 | 序号Serial | 题名(Title) | 通过率Acceptance | 难度Difficulty |
 | ------------------  | ----------  | --------------- | -------------- |
