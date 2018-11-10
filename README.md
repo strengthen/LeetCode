@@ -51,69 +51,69 @@
 |	37	|	[解数独 - Sudoku Solver](https://www.cnblogs.com/strengthen/p/9900641.html)	|	34.00%	|	Hard	|
 |	38	|	[报数 - Count and Say ](https://www.cnblogs.com/strengthen/p/9697940.html)	|	38.20%	|	Easy	|
 |	39	|	[组合总和 - Combination Sum](https://www.cnblogs.com/strengthen/p/9900712.html)	|	44.30%	|	Medium	|
-| 40 |   |   |   |
-| 41 |   |   |   |
-| 42 |   |   |   |
-| 43 |   |   |   |
-| 44 |   |   |   |
-| 45 |   |   |   |
-| 46 |   |   |   |
-| 47 |   |   |   |
-| 48 |   |   |   |
-| 49 |   |   |   |
-| 50 |   |   |   |
-| 51 |   |   |   |
-| 52 |   |   |   |
-| 53 |   |   |   |
-| 54 |   |   |   |
-| 55 |   |   |   |
-| 56 |   |   |   |
-| 57 |   |   |   |
-| 58 |   |   |   |
-| 59 |   |   |   |
-| 60 |   |   |   |
-| 61 |   |   |   |
-| 62 |   |   |   |
-| 63 |   |   |   |
-| 64 |   |   |   |
-| 65 |   |   |   |
-| 66 |   |   |   |
-| 67 |   |   |   |
-| 68 |   |   |   |
-| 69 |   |   |   |
-| 70 |   |   |   |
-| 71 |   |   |   |
-| 72 |   |   |   |
-| 73 |   |   |   |
-| 74 |   |   |   |
-| 75 |   |   |   |
-| 76 |   |   |   |
-| 77 |   |   |   |
-| 78 |   |   |   |
-| 79 |   |   |   |
-| 80 |   |   |   |
-| 81 |   |   |   |
-| 82 |   |   |   |
-| 83 |   |   |   |
-| 84 |   |   |   |
-| 85 |   |   |   |
-| 86 |   |   |   |
-| 87 |   |   |   |
-| 88 |   |   |   |
-| 89 |   |   |   |
-| 90 |   |   |   |
-| 91 |   |   |   |
-| 92 |   |   |   |
-| 93 |   |   |   |
-| 94 |   |   |   |
-| 95 |   |   |   |
-| 96 |   |   |   |
-| 97 |   |   |   |
-| 98 |   |   |   |
-| 99 |   |   |   |
-| 100 |   |   |   |
-| 101 |   |   |   |
-| 102 |   |   |   |
+|	40	|	[组合总和 II - Combination Sum II](https://www.cnblogs.com/strengthen/p/9901355.html)	|	38.40%	|	Medium	|
+|	41	|	[缺失的第一个正数 - First Missing Positive](https://www.cnblogs.com/strengthen/p/9901428.html)	|	27.10%	|	Hard	|
+|	42	|	[接雨水 - Trapping Rain Water ](https://www.cnblogs.com/strengthen/p/9903130.html)	|	39.80%	|	Hard	|
+|	43	|	[字符串相乘 - Multiply Strings](https://www.cnblogs.com/strengthen/p/9907355.html)	|	28.90%	|	Medium	|
+|	44	|	[通配符匹配 - Wildcard Matching ](https://www.cnblogs.com/strengthen/p/9907424.html)	|	21.70%	|	Hard	|
+|	45	|	[跳跃游戏 II - Jump Game II](https://www.cnblogs.com/strengthen/p/9907513.html)	|	26.50%	|	Hard	|
+|	46	|	[全排列 - Permutations ](https://www.cnblogs.com/strengthen/p/9907570.html)	|	50.90%	|	Medium	|
+|	47	|	[全排列 II - Permutations II](https://www.cnblogs.com/strengthen/p/9907631.html)	|	37.40%	|	Medium	|
+|	48	|	[旋转图像 - Rotate Image](https://www.cnblogs.com/strengthen/p/9907843.html)	|	44.70%	|	Medium	|
+|	49	|	[字母异位词分组 - Group Anagrams](https://www.cnblogs.com/strengthen/p/9907946.html)	|	42.10%	|	Medium	|
+|	50	|	[Pow(x, n) - Pow(x, n)](https://www.cnblogs.com/strengthen/p/9908025.html)	|	26.80%	|	Medium	|
+|	51	|	[N皇后 - N-Queens](https://www.cnblogs.com/strengthen/p/9910395.html)	|	35.8% 	|	Hard	|
+|	52 	|	[N皇后 II - N-Queens II](https://www.cnblogs.com/strengthen/p/9910438.html)	|	49.10%	|	Hard	|
+|	53	|	[最大子序和 - Maximum Subarray ](https://www.cnblogs.com/strengthen/p/9697944.html)	|	41.60%	|	Easy	|
+|	54	|	[螺旋矩阵 - Spiral Matrix](https://www.cnblogs.com/strengthen/p/9917757.html)	|	28.50%	|	Medium	|
+|	55	|	[跳跃游戏 - Jump Game ](https://www.cnblogs.com/strengthen/p/9917793.html)	|	30.40%	|	Medium	|
+|	56	|	[合并区间 - Merge Intervals](https://www.cnblogs.com/strengthen/p/9917865.html)	|	33.50%	|	Medium	|
+|	57	|	[插入区间 - Insert Interval ](https://www.cnblogs.com/strengthen/p/9917924.html)	|	30.00%	|	Hard	|
+|	58	|	[最后一个单词的长度 - Length of Last Word ](https://www.cnblogs.com/strengthen/p/9697952.html)	|	32.00%	|	Easy	|
+|	59	|	[螺旋矩阵 II - Spiral Matrix II](https://www.cnblogs.com/strengthen/p/9920694.html)	|	43.60%	|	Medium	|
+|	60	|	[第k个排列 - Permutation Sequence](https://www.cnblogs.com/strengthen/p/9920849.html)	|	31.00%	|	Medium	|
+|	61	|	[旋转链表 - Rotate List ](https://www.cnblogs.com/strengthen/p/9920940.html)	|	25.60%	|	Medium	|
+|	62	|	[不同路径 - Unique Paths](https://www.cnblogs.com/strengthen/p/9921029.html)	|	44.90%	|	Medium	|
+|	63	|	[不同路径 II - Unique Paths II](https://www.cnblogs.com/strengthen/p/9921730.html)	|	32.70%	|	Medium	|
+|	64	|	[最小路径和 - Minimum Path Sum](https://www.cnblogs.com/strengthen/p/9922166.html)	|	43.60%	|	Medium	|
+|	65	|	[有效数字 - Valid Number ](https://www.cnblogs.com/strengthen/p/9922311.html)	|	13.30%	|	Hard	|
+|	66	|	[加一 - Plus One](https://www.cnblogs.com/strengthen/p/9697954.html)	|	40.00%	|	Easy	|
+|	67	|	[二进制求和 - Add Binary](https://www.cnblogs.com/strengthen/p/9697968.html)	|	36.30%	|	Easy	|
+|	68	|	[文本左右对齐 - Text Justification](https://www.cnblogs.com/strengthen/p/9923814.html)	|	21.40%	|	Hard	|
+|	69	|	[x 的平方根 - Sqrt(x) ](https://www.cnblogs.com/strengthen/p/9697974.html)	|	29.70%	|	Easy	|
+|	70	|	[爬楼梯 - Climbing Stairs ](https://www.cnblogs.com/strengthen/p/9697979.html)	|	42.20%	|	Easy	|
+|	71	|	[简化路径 - Simplify Path](https://www.cnblogs.com/strengthen/p/9924010.html)	|	27.30%	|	Medium	|
+|	72	|	[编辑距离 - Edit Distance](https://www.cnblogs.com/strengthen/p/9927706.html)	|	34.70%	|	Hard	|
+|	73	|	[矩阵置零 - Set Matrix Zeroes](https://www.cnblogs.com/strengthen/p/9928348.html)	|	37.90%	|	Medium	|
+|	74	|	[搜索二维矩阵 - Search a 2D Matrix](https://www.cnblogs.com/strengthen/p/9929505.html)	|	34.40%	|	Medium	|
+|	75	|	[颜色分类 - Sort Colors](https://www.cnblogs.com/strengthen/p/9929610.html)	|	 40.2%	|	Medium	|
+|	76	|	[最小覆盖子串 - Minimum Window Substring](https://www.cnblogs.com/strengthen/p/9931643.html)	|	28.60%	|	Hard	|
+|	77	|	[组合 - Combinations ](https://www.cnblogs.com/strengthen/p/9933809.html)	|	44.10%	|	Medium	|
+|	78	|	[子集 - Subsets](https://www.cnblogs.com/strengthen/p/9933967.html)	|	48.50%	|	Medium	|
+|	79	|	[单词搜索 - Word Search](https://www.cnblogs.com/strengthen/p/9934341.html)	|	29.20%	|	Medium	|
+|	80	|	[删除排序数组中的重复项 II - Remove Duplicates from Sorted Array II](https://www.cnblogs.com/strengthen/p/9935071.html)	|	38.40%	|	Medium	|
+|	81	|	[搜索旋转排序数组 II - Search in Rotated Sorted Array II](https://www.cnblogs.com/strengthen/p/9935182.html)	|	32.40%	|	Medium	|
+|	82	|	[删除排序链表中的重复元素 II - Remove Duplicates from Sorted List II](https://www.cnblogs.com/strengthen/p/9935318.html)	|	31.20%	|	Medium	|
+|	83	|	[删除排序链表中的重复元素 - Remove Duplicates from Sorted List ](https://www.cnblogs.com/strengthen/p/9697982.html)	|	41.10%	|	Easy	|
+|	84	|	[柱状图中最大的矩形 - Largest Rectangle in Histogram](https://www.cnblogs.com/strengthen/p/9935470.html)	|	29.10%	|	Hard	|
+|	85	|	[最大矩形 - Maximal Rectangle](https://www.cnblogs.com/strengthen/p/9935569.html)	|	31.20%	|	Hard	|
+|	86	|	[分隔链表 - Partition List](https://www.cnblogs.com/strengthen/p/9935628.html)	|	35.10%	|	Medium	|
+|	87	|	[扰乱字符串 - Scramble String](https://www.cnblogs.com/strengthen/p/9935700.html)	|	30.40%	|	Hard	|
+|	88	|	[合并两个有序数组 - Merge Sorted Array ](https://www.cnblogs.com/strengthen/p/9697984.html)	|	33.70%	|	Easy	|
+|	89	|	[格雷编码 - Gray Code](https://www.cnblogs.com/strengthen/p/9936181.html)	|	43.90%	|	Medium 	|
+|	90	|	[子集 II - Subsets II](https://www.cnblogs.com/strengthen/p/9936308.html)	|	40.10%	|	Medium	|
+|	91	|	[解码方法 - Decode Ways](https://www.cnblogs.com/strengthen/p/9936642.html)	|	21.20%	|	Medium	|
+|	92	|	[反转链表 II - Reverse Linked List II ](https://www.cnblogs.com/strengthen/p/9936739.html)	|	32.90%	|	Medium	|
+|	93	|	[复原IP地址 - Restore IP Addresses ](https://www.cnblogs.com/strengthen/p/9936814.html)	|	29.70%	|	Medium	|
+|	94	|	[二叉树的中序遍历 - Binary Tree Inorder Traversal ](https://www.cnblogs.com/strengthen/p/9936920.html)	|	52.90%	|	Medium	|
+|	95	|	[不同的二叉搜索树 II - Unique Binary Search Trees II](https://www.cnblogs.com/strengthen/p/9936976.html)	|	33.60%	|	Medium	|
+|	96	|	[不同的二叉搜索树 - Unique Binary Search Trees](https://www.cnblogs.com/strengthen/p/9936994.html)	|	43.70%	|	Medium	|
+|	97	|	[交错字符串 - Interleaving String ](https://www.cnblogs.com/strengthen/p/9937036.html)	|	26.30%	|	Medium	|
+|	98	|	[验证二叉搜索树 - Validate Binary Search Tree](https://www.cnblogs.com/strengthen/p/9937199.html)	|	24.60%	|	Medium	|
+|	99	|	[恢复二叉搜索树 - Recover Binary Search Tree](https://www.cnblogs.com/strengthen/p/9937254.html)	|	32.70%	|	Medium	|
+|	100	|	[相同的树 - Same Tree ](https://www.cnblogs.com/strengthen/p/9697990.html)	|	48.60%	|	Hard	|
+|	101	|	[对称二叉树 - Symmetric Tree ](https://www.cnblogs.com/strengthen/p/9697993.html)	|	41.70%	|	Easy	|
+|	102	|	[二叉树的层次遍历 - Binary Tree Level Order Traversal ](https://www.cnblogs.com/strengthen/p/9937389.html)	|	 45.3%	|	Medium 	
 | 103 |   |   |   |
 | 104 |   |   |   |
 | 105 |   |   |   |
@@ -1112,4 +1112,3 @@
 | 1098 |   |   |   |
 | 1099 |   |   |   |
 | 1100 |   |   |   |
-
