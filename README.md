@@ -2,9 +2,9 @@
 
 # The Latest Weekly Contest Title: Please drop the scroll bar to the latest title.
 
-# 每周日准时同步更新LeetCode网站最新题目！
+# 每周日准时同步更新来自LeetCode网站最新题目！
 
-# Every Sunday, I will update the latest title on LeetCode website on time.
+# Every Sunday, I will update the latest title from LeetCode website on time.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # Welcome to my technology blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 
