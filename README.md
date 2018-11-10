@@ -1,4 +1,4 @@
-# "最新Weekly Contest题目":请将滚动条下拉至最新题号！
+# 最新Weekly Contest题目:请将滚动条下拉至最新题号！
 
 # The Latest Weekly Contest Title: Please drop the scroll bar to the latest title.
 
