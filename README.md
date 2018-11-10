@@ -86,7 +86,7 @@
 |	72	|	[编辑距离 - Edit Distance](https://www.cnblogs.com/strengthen/p/9927706.html)	|	34.70%	|	Hard	|
 |	73	|	[矩阵置零 - Set Matrix Zeroes](https://www.cnblogs.com/strengthen/p/9928348.html)	|	37.90%	|	Medium	|
 |	74	|	[搜索二维矩阵 - Search a 2D Matrix](https://www.cnblogs.com/strengthen/p/9929505.html)	|	34.40%	|	Medium	|
-|	75	|	[颜色分类 - Sort Colors](https://www.cnblogs.com/strengthen/p/9929610.html)	|	 40.2%	|	Medium	|
+|	75	|	[颜色分类 - Sort Colors](https://www.cnblogs.com/strengthen/p/9929610.html)	|	40.2%	| Medium	|
 |	76	|	[最小覆盖子串 - Minimum Window Substring](https://www.cnblogs.com/strengthen/p/9931643.html)	|	28.60%	|	Hard	|
 |	77	|	[组合 - Combinations ](https://www.cnblogs.com/strengthen/p/9933809.html)	|	44.10%	|	Medium	|
 |	78	|	[子集 - Subsets](https://www.cnblogs.com/strengthen/p/9933967.html)	|	48.50%	|	Medium	|
