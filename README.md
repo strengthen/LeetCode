@@ -1,10 +1,10 @@
-# "最新Weekly Contest题目":请将滚动条下拉查看题号！
+# "最新Weekly Contest题目":请将滚动条下拉至最新题号！
 
-# The Latest Weekly Contest Title: please scroll down to view the title.
+# The Latest Weekly Contest Title: Please drop the scroll bar to the latest title.
 
-# 每周日准时同步更新官网最新出的题目。
+# 每周日准时同步更新LeetCode网站最新题目！
 
-# Every Sunday, I will update the latest titles of official website on time.
+# Every Sunday, I will update the latest title on LeetCode website on time.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # Welcome to my technology blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 
