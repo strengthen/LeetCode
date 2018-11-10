@@ -113,7 +113,7 @@
 |	99	|	[恢复二叉搜索树 - Recover Binary Search Tree](https://www.cnblogs.com/strengthen/p/9937254.html)	|	32.70%	|	Medium	|
 |	100	|	[相同的树 - Same Tree ](https://www.cnblogs.com/strengthen/p/9697990.html)	|	48.60%	|	Hard	|
 |	101	|	[对称二叉树 - Symmetric Tree ](https://www.cnblogs.com/strengthen/p/9697993.html)	|	41.70%	|	Easy	|
-|	102	|	[二叉树的层次遍历 - Binary Tree Level Order Traversal ](https://www.cnblogs.com/strengthen/p/9937389.html)	|	 45.3%	|	Medium 	
+|	102	|	[二叉树的层次遍历 - Binary Tree Level Order Traversal ](https://www.cnblogs.com/strengthen/p/9937389.html)	|	45.3%	|	Medium 	
 | 103 |   |   |   |
 | 104 |   |   |   |
 | 105 |   |   |   |
