@@ -14,7 +14,7 @@
 
 # [LeetCode目录 | LeetCode Solution Catalog](https://www.cnblogs.com/strengthen/p/9895524.html)
 
-| 序号Serial | 题名(Title) | 通过率Acceptance | 难度Difficulty |
+| 序号Serial | 题名Title | 通过率Acceptance | 难度Difficulty |
 | ------------------  | ----------  | --------------- | -------------- |
 |	1	|	[两数之和 - Two Sum](https://www.cnblogs.com/strengthen/p/9697856.html)	|	39.10%	|	Easy	|
 |	2	|	[两数相加 - Add Two Numbers ](https://www.cnblogs.com/strengthen/p/9697862.html)	|	29.40%	|	Medium	|
@@ -117,7 +117,7 @@
 |	99	|	[恢复二叉搜索树 - Recover Binary Search Tree](https://www.cnblogs.com/strengthen/p/9937254.html)	|	32.70%	|	Medium	|
 |	100	|	[相同的树 - Same Tree ](https://www.cnblogs.com/strengthen/p/9697990.html)	|	48.60%	|	Hard	|
 |	101	|	[对称二叉树 - Symmetric Tree ](https://www.cnblogs.com/strengthen/p/9697993.html)	|	41.70%	|	Easy	|
-|	102	|	[二叉树的层次遍历 - Binary Tree Level Order Traversal ](https://www.cnblogs.com/strengthen/p/9937389.html)	|	45.3%	|	Medium 	
+|	102	|	[二叉树的层次遍历 - Binary Tree Level Order Traversal ](https://www.cnblogs.com/strengthen/p/9937389.html)	|	45.30%	|	Medium 	
 | 103 |   |   |   |
 | 104 |   |   |   |
 | 105 |   |   |   |
