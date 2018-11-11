@@ -1,6 +1,10 @@
+# 已更新至 -> [LeetCode940.不同的子序列 II](https://www.cnblogs.com/strengthen/p/9942132.html)
+
+# Updated -> [LeetCode940.Distinct Subsequences II](https://www.cnblogs.com/strengthen/p/9942132.html)
+
 # 最新Weekly Contest题目:请将滚动条下拉至最新题号！
 
-# The Latest Weekly Contest Title: Please drop the scroll bar to the latest title.
+# The Latest Weekly Contest Title: Please drop the scroll bar to the latest title!
 
 # 每周日准时同步更新来自LeetCode网站最新题目！
 
@@ -948,10 +952,10 @@
 |	934	|	[最短的桥 - Shortest Bridge](https://www.cnblogs.com/strengthen/p/9903939.html)	|	38.60%	|	Medium	|
 |	935	|	[骑士拨号器 - Knight Dialer](https://www.cnblogs.com/strengthen/p/9903415.html)	|	31.00%	|	Medium	|
 |	936	|	[戳印序列 - Stamping The Sequence](https://www.cnblogs.com/strengthen/p/9904208.html)	|	18.50%	|	Hard	|
-| 937 |   |   |   |
-| 938 |   |   |   |
-| 939 |   |   |   |
-| 940 |   |   |   |
+|	937	|	[重新排列日志文件 - Reorder Log Files](https://www.cnblogs.com/strengthen/p/9942450.html)	|	53.30%	|	Easy |
+|	938	|	[二叉搜索树的范围和 - Range Sum of BST](https://www.cnblogs.com/strengthen/p/9941881.html)	|	84.90%	|	Medium |
+|	939	|	[最小面积矩形 - Minimum Area Rectangle](https://www.cnblogs.com/strengthen/p/9942063.html)	|	34.70%	|	Medium |
+|	940	|	[不同的子序列 II - Distinct Subsequences II](https://www.cnblogs.com/strengthen/p/9942132.html)	|	28.20%	|	Hard |
 | 941 |   |   |   |
 | 942 |   |   |   |
 | 943 |   |   |   |
