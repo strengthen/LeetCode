@@ -1,7 +1,3 @@
-# 已更新至 -> [LeetCode940.不同的子序列 II](https://www.cnblogs.com/strengthen/p/9942132.html)
-
-# Updated -> [LeetCode940.Distinct Subsequences II](https://www.cnblogs.com/strengthen/p/9942132.html)
-
 # 最新Weekly Contest题目:请将滚动条下拉至最新题号！
 
 # The Latest Weekly Contest Title: Please drop the scroll bar to the latest title!
