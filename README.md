@@ -928,10 +928,10 @@
 |	914	|	[一副牌中的X - X of a Kind in a Deck of Cards](https://www.cnblogs.com/strengthen/p/9856704.html)	|	33.00%	|	Easy	|
 |	915	|	[将分区数组分成不相交的间隔 - Partition Array into Disjoint Intervals](https://www.cnblogs.com/strengthen/p/9856730.html)	|	40.00%	|	Medium	|
 |	916	|	[单词子集 - Word Subsets](https://www.cnblogs.com/strengthen/p/9857027.html)	|	42.80%	|	Medium	|
-|	917	|	[仅仅反转字母 - Reverse Only Letters]()	|	56.10%	|	Easy	|
-|	918	|	[环形子数组的最大和 - Maximum Sum Circular Subarray]()	|	26.10%	|	Medium	|
+|	917	|	[仅仅反转字母 - Reverse Only Letters](https://www.cnblogs.com/strengthen/p/9750841.html)	|	56.10%	|	Easy	|
+|	918	|	[环形子数组的最大和 - Maximum Sum Circular Subarray](https://www.cnblogs.com/strengthen/p/9750938.html)	|	26.10%	|	Medium	|
 |	919	|	[完全二叉树插入器 - Complete Binary Tree Inserter]()	|	54.00%	|	Medium	|
-|	920	|	[播放列表的数量 - Number of Music Playlists]()	|	40.40%	|	Hard	|
+|	920	|	[播放列表的数量 - Number of Music Playlists](https://www.cnblogs.com/strengthen/p/9750997.html)	|	40.40%	|	Hard	|
 |	921	|	[使括号有效的最少添加 - Minimum Add to Make Parentheses Valid](https://www.cnblogs.com/strengthen/p/9828360.html)	|	70.10%	|	Medium	|
 |	922	|	[按奇偶排序数组 II - Sort Array By Parity II](https://www.cnblogs.com/strengthen/p/9828530.html)	|	66.40%	|	Easy	|
 |	923	|	[三数之和的多种可能 - 3Sum With Multiplicity](https://www.cnblogs.com/strengthen/p/9830546.html)	|	28.10%	|	Medium	|
