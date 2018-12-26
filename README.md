@@ -114,104 +114,104 @@
 |	100	|	[相同的树 - Same Tree ](https://www.cnblogs.com/strengthen/p/9697990.html)	|	48.60%	|	Hard	|
 |	101	|	[对称二叉树 - Symmetric Tree ](https://www.cnblogs.com/strengthen/p/9697993.html)	|	41.70%	|	Easy	|
 |	102	|	[二叉树的层次遍历 - Binary Tree Level Order Traversal ](https://www.cnblogs.com/strengthen/p/9937389.html)	|	45.30%	|	Medium 	
-|	103	|	[二叉树的锯齿形层次遍历 - Binary Tree Zigzag Level Order Traversal]()	|	39.00%	|	Medium	|
-|	104	|	[二叉树的最大深度 - Maximum Depth of Binary Tree]()	|	57.60%	|	Easy	|
-|	105	|	[从前序与中序遍历序列构造二叉树 - Construct Binary Tree from Preorder and Inorder Traversal]()	|	37.60%	|	Medium	|
-|	106	|	[从中序与后序遍历序列构造二叉树 - Construct Binary Tree from Inorder and Postorder Traversal]()	|	36.40%	|	Medium	|
-|	107	|	[二叉树的层次遍历 II - Binary Tree Level Order Traversal II]()	|	44.30%	|	Easy	|
-|	108	|	[将有序数组转换为二叉搜索树 - Convert Sorted Array to Binary Search Tree]()	|	47.40%	|	Easy	|
-|	109	|	[有序链表转换二叉搜索树 - Convert Sorted List to Binary Search Tree]()	|	38.10%	|	Medium	|
-|	110	|	[平衡二叉树 - Balanced Binary Tree]()	|	39.60%	|	Easy	|
-|	111	|	[二叉树的最小深度 - Minimum Depth of Binary Tree]()	|	34.30%	|	Easy	|
-|	112	|	[路径总和 - Path Sum]()	|	36.20%	|	Easy	|
-|	113	|	[路径总和 II - Path Sum II]()	|	38.10%	|	Medium	|
-|	114	|	[二叉树展开为链表 - Flatten Binary Tree to Linked List]()	|	39.40%	|	Medium	|
-|	115	|	[不同的子序列 - Distinct Subsequences ]()	|	33.60%	|	Hard	|
-|	116	|	[填充同一层的兄弟节点 - Populating Next Right Pointers in Each Node]()	|	36.50%	|	Medium	|
-|	117	|	[填充同一层的兄弟节点 II - Populating Next Right Pointers in Each Node II]()	|	33.40%	|	Medium	|
-|	118	|	[杨辉三角 - Pascal's Triangle]()	|	42.80%	|	Easy	|
-|	119	|	[杨辉三角 II - Pascal's Triangle II]()	|	40.40%	|	Easy	|
-|	120	|	[三角形最小路径和 - Triangle]()	|	37.00%	|	Medium	|
-|	121	|	[买卖股票的最佳时机 I - Best Time to Buy and Sell Stock]()	|	44.90%	|	Easy	|
-|	122	|	[买卖股票的最佳时机 II - Best Time to Buy and Sell Stock II]()	|	49.70%	|	Easy	|
-|	123	|	[买卖股票的最佳时机 III - Best Time to Buy and Sell Stock III]()	|	31.90%	|	Hard	|
-|	124	|	[二叉树中的最大路径和 - Binary Tree Maximum Path Sum]()	|	28.40%	|	Hard	|
-|	125	|	[验证回文串 - Valid Palindrome]()	|	29.00%	|	Easy	|
-|	126	|	[单词接龙 II - Word Ladder II]()	|	16.00%	|	Hard	|
-|	127	|	[单词接龙 - Word Ladder]()	|	21.60%	|	Medium	|
-|	128	|	[最长连续序列 - Longest Consecutive Sequence]()	|	39.80%	|	Hard	|
-|	129	|	[求根到叶子节点数字之和 - Sum Root to Leaf Numbers]()	|	40.00%	|	Medium	|
-|	130	|	[被围绕的区域 - Surrounded Regions]()	|	21.20%	|	Medium	|
-|	131	|	[分割回文串 - Palindrome Partitioning]()	|	38.00%	|	Medium	|
-|	132	|	[分割回文串 II - Palindrome Partitioning II]()	|	26.00%	|	Hard	|
-|	133	|	[克隆图 - Clone Graph]()	|	25.10%	|	Medium	|
-|	134	|	[加油站 - Gas Station]()	|	31.80%	|	Medium	|
-|	135	|	[分发糖果 - Candy]()	|	26.70%	|	Hard	|
-|	136	|	[只出现一次的数字 - Single Number]()	|	57.50%	|	Easy	|
-|	137	|	[只出现一次的数字 II - Single Number II]()	|	44.20%	|	Medium	|
-|	138	|	[复制带随机指针的链表 - Copy List with Random Pointer]()	|	25.60%	|	Medium	|
-|	139	|	[单词拆分 - Word Break]()	|	33.10%	|	Medium	|
-|	140	|	[单词拆分 II - Word Break II]()	|	25.80%	|	Hard	|
-|	141	|	[环形链表 - Linked List Cycle ]()	|	34.60%	|	Easy	|
-|	142	|	[环形链表 II - Linked List Cycle II]()	|	29.90%	|	Medium	|
-|	143	|	[重排链表 - Reorder List]()	|	28.60%	|	Medium	|
-|	144	|	[二叉树的前序遍历 - Binary Tree Preorder Traversal]()	|	49.00%	|	Medium	|
-|	145	|	[二叉树的后序遍历 - Binary Tree Postorder Traversal]()	|	45.20%	|	Hard	|
-|	146	|	[LRU缓存机制 - LRU Cache ]()	|	22.20%	|	Hard	|
-|	147	|	[对链表进行插入排序 - Insertion Sort List]()	|	35.40%	|	Medium	|
-|	148	|	[排序链表 - Sort List]()	|	32.40%	|	Medium	|
-|	149	|	[直线上最多的点数 - Max Points on a Line]()	|	15.30%	|	Hard	|
-|	150	|	[逆波兰表达式求值 - Evaluate Reverse Polish Notation]()	|	30.30%	|	Medium	|
-|	151	|	[翻转字符串里的单词 - Reverse Words in a String]()	|	15.70%	|	Medium	|
-|	152	|	[乘积最大子序列 - Maximum Product Subarray]()	|	27.80%	|	Medium	|
-|	153	|	[寻找旋转排序数组中的最小值 - Find Minimum in Rotated Sorted Array]()	|	41.80%	|	Medium	|
-|	154	|	[寻找旋转排序数组中的最小值 II - Find Minimum in Rotated Sorted Array II]()	|	38.50%	|	Hard	|
-|	155	|	[最小栈 - Min Stack]()	|	33.90%	|	 Easy	|
-|	156	|	[二叉树的上下颠倒 $ Binary Tree Upside Down]()	|	48.30%	|	Medium	|
-|	157	|	[用Read4来读取N个字符 $ Read N Characters Given Read4]()	|	27.90%	|	Easy	|
-|	158	|	[用Read4来读取N个字符II $ Read N Characters Given Read4 II]()	|	24.30%	|	Hard	|
-|	159	|	[具有最多两个不同字符的最长子串 $ Longest Substring with At Most Two Distinct Characters]()	|	44.40%	|	Hard	|
-|	160	|	[相交链表 - Intersection of Two Linked Lists ]()	|	30.80%	|	Easy	|
-|	161	|	[一次编辑距离 $ One Edit Distance]()	|	31.30%	|	Medium	|
-|	162	|	[寻找峰值 - Find Peak Element ]()	|	40.00%	|	Medium	|
-|	163	|	[缺失区间 $ Missing Ranges]()	|	22.80%	|	Medium	|
-|	164	|	[最大间距 - Maximum Gap]()	|	31.20%	|	Hard	|
-|	165	|	[比较版本号 - Compare Version Numbers]()	|	21.80%	|	Medium	|
-|	166	|	[分数到小数 - Fraction to Recurring Decimal]()	|	18.70%	|	Medium	|
-|	167	|	[两数之和 II - 输入有序数组 - Two Sum II - Input array is sorted]()	|	47.90%	|	Easy	|
-|	168	|	[Excel表列名称 - Excel Sheet Column Title]()	|	28.10%	|	Easy	|
-|	169	|	[求众数 - Majority Element]()	|	50.10%	|	Easy	|
-|	170	|	[两数之和之三 - 数据结构设计 $ Two Sum III - Data structure design]()	|	28.40%	|	Easy	|
-|	171	|	[Excel表列序号 - Excel Sheet Column Number]()	|	50.00%	|	Easy	|
-|	172	|	[阶乘后的零 - Factorial Trailing Zeroes]()	|	36.90%	|	Easy	|
-|	173	|	[二叉搜索树迭代器 - Binary Search Tree Iterator]()	|	45.10%	|	Medium	|
-|	174	|	[地下城游戏 - Dungeon Game]()	|	25.60%	|	Hard	|
-|	175	|	[组合两个表 - Combine Two Tables]()	|	46.40%	|	Easy	|
-|	176	|	[第二高的薪水 - Second Highest Salary]()	|	24.80%	|	Easy	|
-|	177	|	[第N高的薪水 - Nth Highest Salary]()	|	23.10%	|	Medium	|
-|	178	|	[分数排名 - Rank Scores]()	|	32.50%	|	Medium	|
-|	179	|	[最大数 - Largest Number]()	|	24.50%	|	Medium	|
-|	180	|	[连续出现的数字 - Consecutive Numbers]()	|	30.30%	|	Medium	|
-|	181	|	[超过经理收入的员工 - Employees Earning More Than Their Managers]()	|	42.60%	|	Easy	|
-|	182	|	[查找重复的电子邮箱 - Duplicate Emails]()	|	49.90%	|	Easy	|
-|	183	|	[从不订购的客户 - Customers Who Never Order]()	|	40.40%	|	Easy	|
-|	184	|	[部门工资最高的员工 - Department Highest Salary]()	|	25.10%	|	Medium	|
-|	185	|	[部门工资前三高的员工 - Department Top Three Salaries]()	|	21.90%	|	Hard	|
-|	186	|	[翻转字符串中的单词 II $ Reverse Words in a String II]()	|	34.30%	|	Medium	|
-|	187	|	[重复的DNA序列 - Repeated DNA Sequences]()	|	34.40%	|	Medium	|
-|	188	|	[买卖股票的最佳时机 IV - Best Time to Buy and Sell Stock IV]()	|	25.40%	|	Hard	|
-|	189	|	[旋转数组 - Rotate Array]()	|	27.50%	|	Easy	|
-|	190	|	[颠倒二进制位 - Reverse Bits]()	|	29.20%	|	Easy	|
-|	191	|	[位1的个数 - Number of 1 Bits]()	|	40.90%	|	Easy	|
-|	192	|	[统计词频 - Word Frequency]()	|	26.40%	|	Medium	|
-|	193	|	[有效电话号码 - Valid Phone Numbers]()	|	25.00%	|	Easy	|
-|	194	|	[转置文件 - Transpose File]()	|	22.00%	|	Medium	|
-|	195	|	[第十行 - Tenth Line]()	|	34.00%	|	Easy	|
-|	196	|	[删除重复的电子邮箱 - Delete Duplicate Emails]()	|	28.40%	|	Easy	|
-|	197	|	[上升的温度 - Rising Temperature]()	|	32.40%	|	Easy	|
-|	198	|	[打家劫舍 - House Robber]()	|	40.40%	|	Easy	|
-|	199	|	[二叉树的右视图 - Binary Tree Right Side View]()	|	45.00%	|	Medium	|
-|	200	|	[岛屿的个数 - Number of Islands]()	|	38.60%	|	Medium	|
+|	103	|	[二叉树的锯齿形层次遍历 - Binary Tree Zigzag Level Order Traversal](https://www.cnblogs.com/strengthen/p/9945152.html)	|	39.00%	|	Medium	|
+|	104	|	[二叉树的最大深度 - Maximum Depth of Binary Tree](https://www.cnblogs.com/strengthen/p/9701156.html)	|	57.60%	|	Easy	|
+|	105	|	[从前序与中序遍历序列构造二叉树 - Construct Binary Tree from Preorder and Inorder Traversal](https://www.cnblogs.com/strengthen/p/9950714.html)	|	37.60%	|	Medium	|
+|	106	|	[从中序与后序遍历序列构造二叉树 - Construct Binary Tree from Inorder and Postorder Traversal](https://www.cnblogs.com/strengthen/p/9950782.html)	|	36.40%	|	Medium	|
+|	107	|	[二叉树的层次遍历 II - Binary Tree Level Order Traversal II](https://www.cnblogs.com/strengthen/p/9703035.html)	|	44.30%	|	Easy	|
+|	108	|	[将有序数组转换为二叉搜索树 - Convert Sorted Array to Binary Search Tree](https://www.cnblogs.com/strengthen/p/9709029.html)	|	47.40%	|	Easy	|
+|	109	|	[有序链表转换二叉搜索树 - Convert Sorted List to Binary Search Tree](https://www.cnblogs.com/strengthen/p/9951174.html)	|	38.10%	|	Medium	|
+|	110	|	[平衡二叉树 - Balanced Binary Tree](https://www.cnblogs.com/strengthen/p/9708855.html)	|	39.60%	|	Easy	|
+|	111	|	[二叉树的最小深度 - Minimum Depth of Binary Tree](https://www.cnblogs.com/strengthen/p/9708887.html)	|	34.30%	|	Easy	|
+|	112	|	[路径总和 - Path Sum](https://www.cnblogs.com/strengthen/p/9709165.html)	|	36.20%	|	Easy	|
+|	113	|	[路径总和 II - Path Sum II](https://www.cnblogs.com/strengthen/p/9951816.html)	|	38.10%	|	Medium	|
+|	114	|	[二叉树展开为链表 - Flatten Binary Tree to Linked List](https://www.cnblogs.com/strengthen/p/9951931.html)	|	39.40%	|	Medium	|
+|	115	|	[不同的子序列 - Distinct Subsequences ](https://www.cnblogs.com/strengthen/p/9952756.html)	|	33.60%	|	Hard	|
+|	116	|	[填充同一层的兄弟节点 - Populating Next Right Pointers in Each Node](https://www.cnblogs.com/strengthen/p/9953049.html)	|	36.50%	|	Medium	|
+|	117	|	[填充同一层的兄弟节点 II - Populating Next Right Pointers in Each Node II](https://www.cnblogs.com/strengthen/p/9953121.html)	|	33.40%	|	Medium	|
+|	118	|	[杨辉三角 - Pascal's Triangle](https://www.cnblogs.com/strengthen/p/9709270.html)	|	42.80%	|	Easy	|
+|	119	|	[杨辉三角 II - Pascal's Triangle II](https://www.cnblogs.com/strengthen/p/9709592.html)	|	40.40%	|	Easy	|
+|	120	|	[三角形最小路径和 - Triangle](https://www.cnblogs.com/strengthen/p/9953183.html)	|	37.00%	|	Medium	|
+|	121	|	[买卖股票的最佳时机 I - Best Time to Buy and Sell Stock](https://www.cnblogs.com/strengthen/p/9709771.html)	|	44.90%	|	Easy	|
+|	122	|	[买卖股票的最佳时机 II - Best Time to Buy and Sell Stock II](https://www.cnblogs.com/strengthen/p/9709856.html)	|	49.70%	|	Easy	|
+|	123	|	[买卖股票的最佳时机 III - Best Time to Buy and Sell Stock III](https://www.cnblogs.com/strengthen/p/9953284.html)	|	31.90%	|	Hard	|
+|	124	|	[二叉树中的最大路径和 - Binary Tree Maximum Path Sum](https://www.cnblogs.com/strengthen/p/9956287.html)	|	28.40%	|	Hard	|
+|	125	|	[验证回文串 - Valid Palindrome](https://www.cnblogs.com/strengthen/p/9709977.html)	|	29.00%	|	Easy	|
+|	126	|	[单词接龙 II - Word Ladder II](https://www.cnblogs.com/strengthen/p/9958336.html)	|	16.00%	|	Hard	|
+|	127	|	[单词接龙 - Word Ladder](https://www.cnblogs.com/strengthen/p/9957561.html)	|	21.60%	|	Medium	|
+|	128	|	[最长连续序列 - Longest Consecutive Sequence](https://www.cnblogs.com/strengthen/p/9958427.html)	|	39.80%	|	Hard	|
+|	129	|	[求根到叶子节点数字之和 - Sum Root to Leaf Numbers](https://www.cnblogs.com/strengthen/p/9958594.html)	|	40.00%	|	Medium	|
+|	130	|	[被围绕的区域 - Surrounded Regions](https://www.cnblogs.com/strengthen/p/9963065.html)	|	21.20%	|	Medium	|
+|	131	|	[分割回文串 - Palindrome Partitioning](https://www.cnblogs.com/strengthen/p/9963124.html)	|	38.00%	|	Medium	|
+|	132	|	[分割回文串 II - Palindrome Partitioning II](https://www.cnblogs.com/strengthen/p/9963223.html)	|	26.00%	|	Hard	|
+|	133	|	[克隆图 - Clone Graph](https://www.cnblogs.com/strengthen/p/9963297.html)	|	25.10%	|	Medium	|
+|	134	|	[加油站 - Gas Station](https://www.cnblogs.com/strengthen/p/9963358.html)	|	31.80%	|	Medium	|
+|	135	|	[分发糖果 - Candy](https://www.cnblogs.com/strengthen/p/9963569.html)	|	26.70%	|	Hard	|
+|	136	|	[只出现一次的数字 - Single Number](https://www.cnblogs.com/strengthen/p/9714912.html)	|	57.50%	|	Easy	|
+|	137	|	[只出现一次的数字 II - Single Number II](https://www.cnblogs.com/strengthen/p/9963667.html)	|	44.20%	|	Medium	|
+|	138	|	[复制带随机指针的链表 - Copy List with Random Pointer](https://www.cnblogs.com/strengthen/p/9967399.html)	|	25.60%	|	Medium	|
+|	139	|	[单词拆分 - Word Break](https://www.cnblogs.com/strengthen/p/9967645.html)	|	33.10%	|	Medium	|
+|	140	|	[单词拆分 II - Word Break II](https://www.cnblogs.com/strengthen/p/9967817.html)	|	25.80%	|	Hard	|
+|	141	|	[环形链表 - Linked List Cycle ](https://www.cnblogs.com/strengthen/p/9714958.html)	|	34.60%	|	Easy	|
+|	142	|	[环形链表 II - Linked List Cycle II](https://www.cnblogs.com/strengthen/p/9968009.html)	|	29.90%	|	Medium	|
+|	143	|	[重排链表 - Reorder List](https://www.cnblogs.com/strengthen/p/9968081.html)	|	28.60%	|	Medium	|
+|	144	|	[二叉树的前序遍历 - Binary Tree Preorder Traversal](https://www.cnblogs.com/strengthen/p/9968161.html)	|	49.00%	|	Medium	|
+|	145	|	[二叉树的后序遍历 - Binary Tree Postorder Traversal](https://www.cnblogs.com/strengthen/p/9968229.html)	|	45.20%	|	Hard	|
+|	146	|	[LRU缓存机制 - LRU Cache ](https://www.cnblogs.com/strengthen/p/10036649.html)	|	22.20%	|	Hard	|
+|	147	|	[对链表进行插入排序 - Insertion Sort List](https://www.cnblogs.com/strengthen/p/10036861.html)	|	35.40%	|	Medium	|
+|	148	|	[排序链表 - Sort List](https://www.cnblogs.com/strengthen/p/10037429.html)	|	32.40%	|	Medium	|
+|	149	|	[直线上最多的点数 - Max Points on a Line](https://www.cnblogs.com/strengthen/p/10048982.html)	|	15.30%	|	Hard	|
+|	150	|	[逆波兰表达式求值 - Evaluate Reverse Polish Notation](https://www.cnblogs.com/strengthen/p/10049039.html)	|	30.30%	|	Medium	|
+|	151	|	[翻转字符串里的单词 - Reverse Words in a String](https://www.cnblogs.com/strengthen/p/10057393.html)	|	15.70%	|	Medium	|
+|	152	|	[乘积最大子序列 - Maximum Product Subarray](https://www.cnblogs.com/strengthen/p/10057454.html)	|	27.80%	|	Medium	|
+|	153	|	[寻找旋转排序数组中的最小值 - Find Minimum in Rotated Sorted Array](https://www.cnblogs.com/strengthen/p/10059760.html)	|	41.80%	|	Medium	|
+|	154	|	[寻找旋转排序数组中的最小值 II - Find Minimum in Rotated Sorted Array II](https://www.cnblogs.com/strengthen/p/10059914.html)	|	38.50%	|	Hard	|
+|	155	|	[最小栈 - Min Stack](https://www.cnblogs.com/strengthen/p/10060297.html)	|	33.90%	|	 Easy	|
+|	156	|	[二叉树的上下颠倒 $ Binary Tree Upside Down](https://www.cnblogs.com/strengthen/p/10060377.html)	|	48.30%	|	Medium	|
+|	157	|	[用Read4来读取N个字符 $ Read N Characters Given Read4](https://www.cnblogs.com/strengthen/p/10060469.html)	|	27.90%	|	Easy	|
+|	158	|	[用Read4来读取N个字符II $ Read N Characters Given Read4 II](https://www.cnblogs.com/strengthen/p/10063096.html)	|	24.30%	|	Hard	|
+|	159	|	[具有最多两个不同字符的最长子串 $ Longest Substring with At Most Two Distinct Characters](https://www.cnblogs.com/strengthen/p/10063406.html)	|	44.40%	|	Hard	|
+|	160	|	[相交链表 - Intersection of Two Linked Lists ](https://www.cnblogs.com/strengthen/p/10109542.html)	|	30.80%	|	Easy	|
+|	161	|	[一次编辑距离 $ One Edit Distance](https://www.cnblogs.com/strengthen/p/10110379.html)	|	31.30%	|	Medium	|
+|	162	|	[寻找峰值 - Find Peak Element ](https://www.cnblogs.com/strengthen/p/10126776.html)	|	40.00%	|	Medium	|
+|	163	|	[缺失区间 $ Missing Ranges](https://www.cnblogs.com/strengthen/p/10126891.html)	|	22.80%	|	Medium	|
+|	164	|	[最大间距 - Maximum Gap](https://www.cnblogs.com/strengthen/p/10126992.html)	|	31.20%	|	Hard	|
+|	165	|	[比较版本号 - Compare Version Numbers](https://www.cnblogs.com/strengthen/p/10127066.html)	|	21.80%	|	Medium	|
+|	166	|	[分数到小数 - Fraction to Recurring Decimal](https://www.cnblogs.com/strengthen/p/10127520.html)	|	18.70%	|	Medium	|
+|	167	|	[两数之和 II - 输入有序数组 - Two Sum II - Input array is sorted](https://www.cnblogs.com/strengthen/p/9715077.html)	|	47.90%	|	Easy	|
+|	168	|	[Excel表列名称 - Excel Sheet Column Title](https://www.cnblogs.com/strengthen/p/9715135.html)	|	28.10%	|	Easy	|
+|	169	|	[求众数 - Majority Element](https://www.cnblogs.com/strengthen/p/9715198.html)	|	50.10%	|	Easy	|
+|	170	|	[两数之和之三 - 数据结构设计 $ Two Sum III - Data structure design](https://www.cnblogs.com/strengthen/p/10127752.html)	|	28.40%	|	Easy	|
+|	171	|	[Excel表列序号 - Excel Sheet Column Number](https://www.cnblogs.com/strengthen/p/9715346.html)	|	50.00%	|	Easy	|
+|	172	|	[阶乘后的零 - Factorial Trailing Zeroes](https://www.cnblogs.com/strengthen/p/9720718.html)	|	36.90%	|	Easy	|
+|	173	|	[二叉搜索树迭代器 - Binary Search Tree Iterator](https://www.cnblogs.com/strengthen/p/10145246.html)	|	45.10%	|	Medium	|
+|	174	|	[地下城游戏 - Dungeon Game](https://www.cnblogs.com/strengthen/p/10145388.html)	|	25.60%	|	Hard	|
+|	175	|	[组合两个表 - Combine Two Tables](https://www.cnblogs.com/strengthen/p/9720770.html)	|	46.40%	|	Easy	|
+|	176	|	[第二高的薪水 - Second Highest Salary](https://www.cnblogs.com/strengthen/p/9720894.html)	|	24.80%	|	Easy	|
+|	177	|	[第N高的薪水 - Nth Highest Salary](https://www.cnblogs.com/strengthen/p/10145510.html)	|	23.10%	|	Medium	|
+|	178	|	[分数排名 - Rank Scores](https://www.cnblogs.com/strengthen/p/10145554.html)	|	32.50%	|	Medium	|
+|	179	|	[最大数 - Largest Number](https://www.cnblogs.com/strengthen/p/10151582.html)	|	24.50%	|	Medium	|
+|	180	|	[连续出现的数字 - Consecutive Numbers](https://www.cnblogs.com/strengthen/p/10152346.html)	|	30.30%	|	Medium	|
+|	181	|	[超过经理收入的员工 - Employees Earning More Than Their Managers](https://www.cnblogs.com/strengthen/p/10152507.html)	|	42.60%	|	Easy	|
+|	182	|	[查找重复的电子邮箱 - Duplicate Emails](https://www.cnblogs.com/strengthen/p/9721024.html)	|	49.90%	|	Easy	|
+|	183	|	[从不订购的客户 - Customers Who Never Order](https://www.cnblogs.com/strengthen/p/9720985.html)	|	40.40%	|	Easy	|
+|	184	|	[部门工资最高的员工 - Department Highest Salary](https://www.cnblogs.com/strengthen/p/10169993.html)	|	25.10%	|	Medium	|
+|	185	|	[部门工资前三高的员工 - Department Top Three Salaries](https://www.cnblogs.com/strengthen/p/10172119.html)	|	21.90%	|	Hard	|
+|	186	|	[翻转字符串中的单词 II $ Reverse Words in a String II](https://www.cnblogs.com/strengthen/p/10172134.html)	|	34.30%	|	Medium	|
+|	187	|	[重复的DNA序列 - Repeated DNA Sequences](https://www.cnblogs.com/strengthen/p/10176686.html)	|	34.40%	|	Medium	|
+|	188	|	[买卖股票的最佳时机 IV - Best Time to Buy and Sell Stock IV](https://www.cnblogs.com/strengthen/p/10179523.html)	|	25.40%	|	Hard	|
+|	189	|	[旋转数组 - Rotate Array](https://www.cnblogs.com/strengthen/p/9726724.html)	|	27.50%	|	Easy	|
+|	190	|	[颠倒二进制位 - Reverse Bits](https://www.cnblogs.com/strengthen/p/10179979.html)	|	29.20%	|	Easy	|
+|	191	|	[位1的个数 - Number of 1 Bits](https://www.cnblogs.com/strengthen/p/10180164.html)	|	40.90%	|	Easy	|
+|	192	|	[统计词频 - Word Frequency](https://www.cnblogs.com/strengthen/p/10180228.html)	|	26.40%	|	Medium	|
+|	193	|	[有效电话号码 - Valid Phone Numbers](https://www.cnblogs.com/strengthen/p/10180322.html)	|	25.00%	|	Easy	|
+|	194	|	[转置文件 - Transpose File](https://www.cnblogs.com/strengthen/p/10180404.html)	|	22.00%	|	Medium	|
+|	195	|	[第十行 - Tenth Line](https://www.cnblogs.com/strengthen/p/10180443.html)	|	34.00%	|	Easy	|
+|	196	|	[删除重复的电子邮箱 - Delete Duplicate Emails](https://www.cnblogs.com/strengthen/p/9744408.html)	|	28.40%	|	Easy	|
+|	197	|	[上升的温度 - Rising Temperature](https://www.cnblogs.com/strengthen/p/10180555.html)	|	32.40%	|	Easy	|
+|	198	|	[打家劫舍 - House Robber](https://www.cnblogs.com/strengthen/p/9744435.html)	|	40.40%	|	Easy	|
+|	199	|	[二叉树的右视图 - Binary Tree Right Side View](https://www.cnblogs.com/strengthen/p/10180918.html)	|	45.00%	|	Medium	|
+|	200	|	[岛屿的个数 - Number of Islands](https://www.cnblogs.com/strengthen/p/10180994.html)	|	38.60%	|	Medium	|
 | 201 |   |   |   |
 | 202 |   |   |   |
 | 203 |   |   |   |
