@@ -1,10 +1,7 @@
-# 最新Weekly Contest题目:请将滚动条下拉至最新题号！
+# 博客更新最快！-> [山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
 
-# The Latest Weekly Contest Title: Please drop the scroll bar to the latest title!
+# Blog updates fastest!-> [山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
 
-# 每周日准时同步更新来自LeetCode网站最新题目！
-
-# Every Sunday, I will update the latest title from LeetCode website on time.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # Welcome to my technology blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 
