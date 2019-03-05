@@ -1,4 +1,4 @@
-# 抱歉，GitHub更新滞后，请点击右侧查看最新更新！-> [山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
+# 抱歉，GitHub更新滞后，请点击右侧查看最新更新->[山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
 
 # Sorry,GitHub update lags behind,please click on the right to see the latest update!-> [山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
 
