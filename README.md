@@ -5,6 +5,10 @@
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # Welcome to my technology blog：[山青咏芝](https://www.cnblogs.com/strengthen/)
 
+# 抱歉，GitHub更新滞后，请点击右侧查看最新更新->[山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
+
+# Sorry,GitHub update lags behind,please click on the right to see the latest update!-> [山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
+
 # [Swift LeetCode 目录 | Catalog](https://www.cnblogs.com/strengthen/p/9895524.html)
 
 | 序号Serial | 题名Title | 通过率Acceptance | 难度Difficulty |
