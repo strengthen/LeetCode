@@ -1,4 +1,4 @@
-# 已完成全部LeetCode更新，请点击右侧查看->[山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
+# 已完成全部LeetCode更新，近期将全部更新到github,请点击右侧查看->[山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
 
 # All LeetCode updates have been completed, please click on the right to view-> [山青咏芝](https://www.cnblogs.com/strengthen/p/9895524.html)
 
