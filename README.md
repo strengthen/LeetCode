@@ -576,7 +576,7 @@
 |	459	|	[重复的子字符串 - Repeated Substring Pattern](https://www.cnblogs.com/strengthen/p/10343514.html)	|	Easy	|
 |	458	|	[可怜的小猪 - Poor Pigs](https://www.cnblogs.com/strengthen/p/9791579.html)	|	Hard	|
 |	457	|	[环形数组循环 - Circular Array Loop](https://www.cnblogs.com/strengthen/p/10343272.html)	|	Medium	|
-|	456	|	[132模式 - 32 Pattern](https://www.cnblogs.com/strengthen/p/10343200.html)	|	Medium	|
+|	456	|	[132模式 - 132 Pattern](https://www.cnblogs.com/strengthen/p/10343200.html)	|	Medium	|
 |	455	|	[分发饼干 - Assign Cookies](https://www.cnblogs.com/strengthen/p/9791084.html)	|	Easy	|
 |	454	|	[四数相加 II - 4Sum II](https://www.cnblogs.com/strengthen/p/10343175.html)	|	Medium	|
 |	453	|	[最小移动次数使数组元素相等 - Minimum Moves to Equal Array Elements](https://www.cnblogs.com/strengthen/p/9790914.html)	|	Easy	|
