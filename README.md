@@ -134,206 +134,206 @@
 |	902	|	[最大为 N 的数字组合 - Numbers At Most N Given Digit Set](https://www.cnblogs.com/strengthen/p/10608055.html)	|	Hard	|
 |	901	|	[股票价格跨度 - Online Stock Span](https://www.cnblogs.com/strengthen/p/10607919.html)	|	Medium	|
 |	900	|	[RLE 迭代器 - RLE Iterator](https://www.cnblogs.com/strengthen/p/10607679.html)	|	Medium	|
-|	899	|	[有序队列 - Orderly Queue]()	|	Hard	|
-|	898	|	[子数组按位或操作 - Bitwise ORs of Subarrays]()	|	Medium	|
-|	897	|	[递增顺序查找树 - Increasing Order Search Tree]()	|	Easy	|
-|	896	|	[单调数列 - Monotonic Array]()	|	Easy	|
-|	895	|	[最大频率栈 - Maximum Frequency Stack]()	|	Hard	|
-|	894	|	[所有可能的满二叉树 - All Possible Full Binary Trees]()	|	Medium	|
-|	893	|	[特殊等价字符串组 - Groups of Special-Equivalent Strings]()	|	Easy	|
-|	892	|	[三维形体的表面积 - Surface Area of 3D Shapes]()	|	Easy	|
-|	891	|	[子序列宽度之和 - Sum of Subsequence Widths]()	|	Hard	|
-|	890	|	[查找和替换模式 - Find and Replace Pattern]()	|	Medium	|
-|	889	|	[根据前序和后序遍历构造二叉树 - Construct Binary Tree from Preorder and Postorder Traversal]()	|	Medium	|
-|	888	|	[公平的糖果交换 - Fair Candy Swap]()	|	Easy	|
-|	887	|	[鸡蛋掉落 - Super Egg Drop]()	|	Hard	|
-|	886	|	[可能的二分法 - Possible Bipartition]()	|	Medium	|
-|	885	|	[螺旋矩阵 III - Spiral Matrix III]()	|	Medium	|
-|	884	|	[两句话中的不常见单词 - Uncommon Words from Two Sentences]()	|	Easy	|
-|	883	|	[三维形体投影面积 - Projection Area of 3D Shapes]()	|	Easy	|
-|	882	|	[细分图中的可到达结点 - Reachable Nodes In Subdivided Graph]()	|	Hard	|
-|	881	|	[救生艇 - Boats to Save People]()	|	Medium	|
-|	880	|	[索引处的解码字符串 - Decoded String at Index]()	|	Medium	|
-|	879	|	[盈利计划 - Profitable Schemes]()	|	Hard	|
-|	878	|	[第 N 个神奇数字 - Nth Magical Number]()	|	Hard	|
-|	877	|	[石子游戏 - Stone Game]()	|	Medium	|
-|	876	|	[链表的中间结点 - Middle of the Linked List]()	|	Easy	|
-|	875	|	[爱吃香蕉的珂珂 - Koko Eating Bananas]()	|	Medium	|
-|	874	|	[模拟行走机器人 - Walking Robot Simulation]()	|	Easy	|
-|	873	|	[最长的斐波那契子序列的长度 - Length of Longest Fibonacci Subsequence]()	|	Medium	|
-|	872	|	[叶子相似的树 - Leaf-Similar Trees]()	|	Easy	|
-|	871	|	[最低加油次数 - Minimum Number of Refueling Stops]()	|	Hard	|
-|	870	|	[优势洗牌 - Advantage Shuffle]()	|	Medium	|
-|	869	|	[重新排序得到 2 的幂 - Reordered Power of 2]()	|	Medium	|
-|	868	|	[二进制间距 - Binary Gap]()	|	Easy	|
-|	867	|	[转置矩阵 - Transpose Matrix]()	|	Easy	|
-|	866	|	[回文素数 - Prime Palindrome]()	|	Medium	|
-|	865	|	[具有所有最深结点的最小子树 - Smallest Subtree with all the Deepest Nodes]()	|	Medium	|
-|	864	|	[获取所有钥匙的最短路径 - Shortest Path to Get All Keys]()	|	Hard	|
-|	863	|	[二叉树中所有距离为 K 的结点 - All Nodes Distance K in Binary Tree]()	|	Medium	|
-|	862	|	[和至少为 K 的最短子数组 - Shortest Subarray with Sum at Least K]()	|	Hard	|
-|	861	|	[翻转矩阵后的得分 - Score After Flipping Matrix]()	|		|
-|	860	|	[柠檬水找零 - Lemonade Change]()	|	Easy	|
-|	859	|	[亲密字符串 - Buddy Strings]()	|	Easy	|
-|	858	|	[镜面反射 - Mirror Reflection]()	|	Medium	|
-|	857	|	[雇佣 K 名工人的最低成本 - Minimum Cost to Hire K Workers]()	|	Hard	|
-|	856	|	[括号的分数 - Score of Parentheses]()	|	Medium	|
-|	855	|	[考场就座 - Exam Room]()	|	Medium	|
-|	854	|	[相似度为 K 的字符串 - K-Similar Strings]()	|	Hard	|
-|	853	|	[车队 - Car Fleet]()	|	Medium	|
-|	852	|	[山脉数组的峰顶索引 - Peak Index in a Mountain Array]()	|	Easy	|
-|	851	|	[喧闹和富有 - Loud and Rich]()	|	Medium	|
-|	850	|	[矩形面积 II - Rectangle Area II]()	|	Hard	|
-|	849	|	[到最近的人的最大距离 - Maximize Distance to Closest Person]()	|	Easy	|
-|	848	|	[字母移位 - Shifting Letters]()	|	Medium	|
-|	847	|	[访问所有节点的最短路径 - Shortest Path Visiting All Nodes]()	|	Hard	|
-|	846	|	[一手顺子 - Hand of Straights]()	|	Medium	|
-|	845	|	[数组中的最长山脉 - Longest Mountain in Array]()	|	Medium	|
-|	844	|	[比较含退格的字符串 - Backspace String Compare]()	|	Easy	|
-|	843	|	[猜猜这个单词 - Guess the Word]()	|	Hard	|
-|	842	|	[将数组拆分成斐波那契序列 - Split Array into Fibonacci Sequence]()	|	Medium	|
-|	841	|	[钥匙和房间 - Keys and Rooms]()	|	Medium	|
-|	840	|	[ 矩阵中的幻方 - Magic Squares In Grid]()	|	Easy	|
-|	839	|	[相似字符串组 - Similar String Groups]()	|	Hard	|
-|	838	|	[推多米诺 - Push Dominoes]()	|	Medium	|
-|	837	|	[新21点 - New 21 Game]()	|	Medium	|
-|	836	|	[矩形重叠 - Rectangle Overlap]()	|	Easy	|
-|	835	|	[图像重叠 - Image Overlap]()	|	Medium	|
-|	834	|	[树中距离之和 - Sum of Distances in Tree]()	|	Hard	|
-|	833	|	[字符串中的查找与替换 - Find And Replace in String]()	|	Medium	|
-|	832	|	[翻转图像 - Flipping an Image]()	|	Easy	|
-|	831	|	[隐藏个人信息 - Masking Personal Information]()	|	Medium	|
-|	830	|	[较大分组的位置 - Positions of Large Groups]()	|	Easy	|
-|	829	|	[连续整数求和 - Consecutive Numbers Sum]()	|	Hard	|
-|	828	|	[独特字符串 - Unique Letter String]()	|	Hard	|
-|	827	|	[最大人工岛 - Making A Large Island]()	|	Hard	|
-|	826	|	[安排工作以达到最大收益 - Most Profit Assigning Work]()	|	Medium	|
-|	825	|	[适龄的朋友 - Friends Of Appropriate Ages]()	|	Medium	|
-|	824	|	[山羊拉丁文 - Goat Latin]()	|	Easy	|
-|	823	|	[带因子的二叉树 - Binary Trees With Factors]()	|	Medium	|
-|	822	|	[翻转卡片游戏 - Card Flipping Game]()	|	Medium	|
-|	821	|	[字符的最短距离 - Shortest Distance to a Character]()	|	Easy	|
-|	820	|	[单词的压缩编码 - Short Encoding of Words]()	|	Medium	|
-|	819	|	[最常见的单词 - Most Common Word]()	|	Easy	|
-|	818	|	[赛车 - Race Car]()	|	Hard	|
-|	817	|	[链表组件 - Linked List Components]()	|	Medium	|
-|	816	|	[模糊坐标 - Ambiguous Coordinates]()	|	Medium	|
-|	815	|	[公交路线 - Bus Routes]()	|	Hard	|
-|	814	|	[二叉树剪枝 - Binary Tree Pruning]()	|	Medium	|
-|	813	|	[最大平均值和的分组 - Largest Sum of Averages]()	|	Medium	|
-|	812	|	[最大三角形面积 - Largest Triangle Area]()	|	Easy	|
-|	811	|	[子域名访问计数 - Subdomain Visit Count]()	|	Easy	|
-|	810	|	[黑板异或游戏 - Chalkboard XOR Game]()	|	Hard	|
-|	809	|	[情感丰富的文字 - Expressive Words]()	|	Medium	|
-|	808	|	[分汤 - Soup Servings]()	|	Medium	|
-|	807	|	[保持城市天际线 - Max Increase to Keep City Skyline]()	|	Medium	|
-|	806	|	[写字符串需要的行数 - Number of Lines To Write String]()	|	Easy	|
-|	805	|	[数组的均值分割 - Split Array With Same Average]()	|	Hard	|
-|	804	|	[唯一摩尔斯密码词 - Unique Morse Code Words]()	|	Easy	|
-|	803	|	[打砖块 - Bricks Falling When Hit]()	|	Hard	|
-|	802	|	[找到最终的安全状态 - Find Eventual Safe States]()	|	Medium	|
-|	801	|	[使序列递增的最小交换次数 - Minimum Swaps To Make Sequences Increasing]()	|	Medium	|
+|	899	|	[有序队列 - Orderly Queue](https://www.cnblogs.com/strengthen/p/10607584.html)	|	Hard	|
+|	898	|	[子数组按位或操作 - Bitwise ORs of Subarrays](https://www.cnblogs.com/strengthen/p/10607099.html)	|	Medium	|
+|	897	|	[递增顺序查找树 - Increasing Order Search Tree](https://www.cnblogs.com/strengthen/p/10606692.html)	|	Easy	|
+|	896	|	[单调数列 - Monotonic Array](https://www.cnblogs.com/strengthen/p/10606658.html)	|	Easy	|
+|	895	|	[最大频率栈 - Maximum Frequency Stack](https://www.cnblogs.com/strengthen/p/10605780.html)	|	Hard	|
+|	894	|	[所有可能的满二叉树 - All Possible Full Binary Trees](https://www.cnblogs.com/strengthen/p/10605621.html)	|	Medium	|
+|	893	|	[特殊等价字符串组 - Groups of Special-Equivalent Strings](https://www.cnblogs.com/strengthen/p/10605452.html)	|	Easy	|
+|	892	|	[三维形体的表面积 - Surface Area of 3D Shapes](https://www.cnblogs.com/strengthen/p/10605299.html)	|	Easy	|
+|	891	|	[子序列宽度之和 - Sum of Subsequence Widths](https://www.cnblogs.com/strengthen/p/10605273.html)	|	Hard	|
+|	890	|	[查找和替换模式 - Find and Replace Pattern](https://www.cnblogs.com/strengthen/p/10605199.html)	|	Medium	|
+|	889	|	[根据前序和后序遍历构造二叉树 - Construct Binary Tree from Preorder and Postorder Traversal](https://www.cnblogs.com/strengthen/p/10605152.html)	|	Medium	|
+|	888	|	[公平的糖果交换 - Fair Candy Swap](https://www.cnblogs.com/strengthen/p/10604113.html)	|	Easy	|
+|	887	|	[鸡蛋掉落 - Super Egg Drop](https://www.cnblogs.com/strengthen/p/10604059.html)	|	Hard	|
+|	886	|	[可能的二分法 - Possible Bipartition](https://www.cnblogs.com/strengthen/p/10603871.html)	|	Medium	|
+|	885	|	[螺旋矩阵 III - Spiral Matrix III](https://www.cnblogs.com/strengthen/p/10603685.html)	|	Medium	|
+|	884	|	[两句话中的不常见单词 - Uncommon Words from Two Sentences](https://www.cnblogs.com/strengthen/p/10603493.html)	|	Easy	|
+|	883	|	[三维形体投影面积 - Projection Area of 3D Shapes](https://www.cnblogs.com/strengthen/p/10603399.html)	|	Easy	|
+|	882	|	[细分图中的可到达结点 - Reachable Nodes In Subdivided Graph](https://www.cnblogs.com/strengthen/p/10602841.html)	|	Hard	|
+|	881	|	[救生艇 - Boats to Save People](https://www.cnblogs.com/strengthen/p/10602721.html)	|	Medium	|
+|	880	|	[索引处的解码字符串 - Decoded String at Index](https://www.cnblogs.com/strengthen/p/10602684.html)	|	Medium	|
+|	879	|	[盈利计划 - Profitable Schemes](https://www.cnblogs.com/strengthen/p/10601257.html)	|	Hard	|
+|	878	|	[第 N 个神奇数字 - Nth Magical Number](https://www.cnblogs.com/strengthen/p/10601072.html)	|	Hard	|
+|	877	|	[石子游戏 - Stone Game](https://www.cnblogs.com/strengthen/p/10600937.html)	|	Medium	|
+|	876	|	[链表的中间结点 - Middle of the Linked List](https://www.cnblogs.com/strengthen/p/10600796.html)	|	Easy	|
+|	875	|	[爱吃香蕉的珂珂 - Koko Eating Bananas](https://www.cnblogs.com/strengthen/p/10600685.html)	|	Medium	|
+|	874	|	[模拟行走机器人 - Walking Robot Simulation](https://www.cnblogs.com/strengthen/p/10600487.html)	|	Easy	|
+|	873	|	[最长的斐波那契子序列的长度 - Length of Longest Fibonacci Subsequence](https://www.cnblogs.com/strengthen/p/10600243.html)	|	Medium	|
+|	872	|	[叶子相似的树 - Leaf-Similar Trees](https://www.cnblogs.com/strengthen/p/10600036.html)	|	Easy	|
+|	871	|	[最低加油次数 - Minimum Number of Refueling Stops](https://www.cnblogs.com/strengthen/p/10599859.html)	|	Hard	|
+|	870	|	[优势洗牌 - Advantage Shuffle](https://www.cnblogs.com/strengthen/p/10598061.html)	|	Medium	|
+|	869	|	[重新排序得到 2 的幂 - Reordered Power of 2](https://www.cnblogs.com/strengthen/p/10596985.html)	|	Medium	|
+|	868	|	[二进制间距 - Binary Gap](https://www.cnblogs.com/strengthen/p/10596929.html)	|	Easy	|
+|	867	|	[转置矩阵 - Transpose Matrix](https://www.cnblogs.com/strengthen/p/10588964.html)	|	Easy	|
+|	866	|	[回文素数 - Prime Palindrome](https://www.cnblogs.com/strengthen/p/10596862.html)	|	Medium	|
+|	865	|	[具有所有最深结点的最小子树 - Smallest Subtree with all the Deepest Nodes](https://www.cnblogs.com/strengthen/p/10596780.html)	|	Medium	|
+|	864	|	[获取所有钥匙的最短路径 - Shortest Path to Get All Keys](https://www.cnblogs.com/strengthen/p/10596616.html)	|	Hard	|
+|	863	|	[二叉树中所有距离为 K 的结点 - All Nodes Distance K in Binary Tree](https://www.cnblogs.com/strengthen/p/10596718.html)	|	Medium	|
+|	862	|	[和至少为 K 的最短子数组 - Shortest Subarray with Sum at Least K](https://www.cnblogs.com/strengthen/p/10595590.html)	|	Hard	|
+|	861	|	[翻转矩阵后的得分 - Score After Flipping Matrix](https://www.cnblogs.com/strengthen/p/10595500.html)	|		|
+|	860	|	[柠檬水找零 - Lemonade Change](https://www.cnblogs.com/strengthen/p/10595376.html)	|	Easy	|
+|	859	|	[亲密字符串 - Buddy Strings](https://www.cnblogs.com/strengthen/p/10588891.html)	|	Easy	|
+|	858	|	[镜面反射 - Mirror Reflection](https://www.cnblogs.com/strengthen/p/10594963.html)	|	Medium	|
+|	857	|	[雇佣 K 名工人的最低成本 - Minimum Cost to Hire K Workers](https://www.cnblogs.com/strengthen/p/10594768.html)	|	Hard	|
+|	856	|	[括号的分数 - Score of Parentheses](https://www.cnblogs.com/strengthen/p/10594301.html)	|	Medium	|
+|	855	|	[考场就座 - Exam Room](https://www.cnblogs.com/strengthen/p/10594220.html)	|	Medium	|
+|	854	|	[相似度为 K 的字符串 - K-Similar Strings](https://www.cnblogs.com/strengthen/p/10593474.html)	|	Hard	|
+|	853	|	[车队 - Car Fleet](https://www.cnblogs.com/strengthen/p/10592755.html)	|	Medium	|
+|	852	|	[山脉数组的峰顶索引 - Peak Index in a Mountain Array](https://www.cnblogs.com/strengthen/p/10589081.html)	|	Easy	|
+|	851	|	[喧闹和富有 - Loud and Rich](https://www.cnblogs.com/strengthen/p/10592389.html)	|	Medium	|
+|	850	|	[矩形面积 II - Rectangle Area II](https://www.cnblogs.com/strengthen/p/10593383.html)	|	Hard	|
+|	849	|	[到最近的人的最大距离 - Maximize Distance to Closest Person](https://www.cnblogs.com/strengthen/p/10591933.html)	|	Easy	|
+|	848	|	[字母移位 - Shifting Letters](https://www.cnblogs.com/strengthen/p/10591854.html)	|	Medium	|
+|	847	|	[访问所有节点的最短路径 - Shortest Path Visiting All Nodes](https://www.cnblogs.com/strengthen/p/10591816.html)	|	Hard	|
+|	846	|	[一手顺子 - Hand of Straights](https://www.cnblogs.com/strengthen/p/10593021.html)	|	Medium	|
+|	845	|	[数组中的最长山脉 - Longest Mountain in Array](https://www.cnblogs.com/strengthen/p/10590282.html)	|	Medium	|
+|	844	|	[比较含退格的字符串 - Backspace String Compare](https://www.cnblogs.com/strengthen/p/10588721.html)	|	Easy	|
+|	843	|	[猜猜这个单词 - Guess the Word](https://www.cnblogs.com/strengthen/p/10589944.html)	|	Hard	|
+|	842	|	[将数组拆分成斐波那契序列 - Split Array into Fibonacci Sequence](https://www.cnblogs.com/strengthen/p/10614994.html)	|	Medium	|
+|	841	|	[钥匙和房间 - Keys and Rooms](https://www.cnblogs.com/strengthen/p/10579789.html)	|	Medium	|
+|	840	|	[ 矩阵中的幻方 - Magic Squares In Grid](https://www.cnblogs.com/strengthen/p/10579600.html)	|	Easy	|
+|	839	|	[相似字符串组 - Similar String Groups](https://www.cnblogs.com/strengthen/p/10579363.html)	|	Hard	|
+|	838	|	[推多米诺 - Push Dominoes](https://www.cnblogs.com/strengthen/p/10577534.html)	|	Medium	|
+|	837	|	[新21点 - New 21 Game](https://www.cnblogs.com/strengthen/p/10576171.html)	|	Medium	|
+|	836	|	[矩形重叠 - Rectangle Overlap](https://www.cnblogs.com/strengthen/p/10576134.html)	|	Easy	|
+|	835	|	[图像重叠 - Image Overlap](https://www.cnblogs.com/strengthen/p/10576125.html)	|	Medium	|
+|	834	|	[树中距离之和 - Sum of Distances in Tree](https://www.cnblogs.com/strengthen/p/10576111.html)	|	Hard	|
+|	833	|	[字符串中的查找与替换 - Find And Replace in String](https://www.cnblogs.com/strengthen/p/10576043.html)	|	Medium	|
+|	832	|	[翻转图像 - Flipping an Image](https://www.cnblogs.com/strengthen/p/10574789.html)	|	Easy	|
+|	831	|	[隐藏个人信息 - Masking Personal Information](https://www.cnblogs.com/strengthen/p/10616498.html)	|	Medium	|
+|	830	|	[较大分组的位置 - Positions of Large Groups](https://www.cnblogs.com/strengthen/p/10570916.html)	|	Easy	|
+|	829	|	[连续整数求和 - Consecutive Numbers Sum](https://www.cnblogs.com/strengthen/p/10570866.html)	|	Hard	|
+|	828	|	[独特字符串 - Unique Letter String](https://www.cnblogs.com/strengthen/p/10570839.html)	|	Hard	|
+|	827	|	[最大人工岛 - Making A Large Island](https://www.cnblogs.com/strengthen/p/10569639.html)	|	Hard	|
+|	826	|	[安排工作以达到最大收益 - Most Profit Assigning Work](https://www.cnblogs.com/strengthen/p/10569392.html)	|	Medium	|
+|	825	|	[适龄的朋友 - Friends Of Appropriate Ages](https://www.cnblogs.com/strengthen/p/10569342.html)	|	Medium	|
+|	824	|	[山羊拉丁文 - Goat Latin](https://www.cnblogs.com/strengthen/p/10588657.html)	|	Easy	|
+|	823	|	[带因子的二叉树 - Binary Trees With Factors](https://www.cnblogs.com/strengthen/p/10567314.html)	|	Medium	|
+|	822	|	[翻转卡片游戏 - Card Flipping Game](https://www.cnblogs.com/strengthen/p/10567261.html)	|	Medium	|
+|	821	|	[字符的最短距离 - Shortest Distance to a Character](https://www.cnblogs.com/strengthen/p/10567029.html)	|	Easy	|
+|	820	|	[单词的压缩编码 - Short Encoding of Words](https://www.cnblogs.com/strengthen/p/10601421.html)	|	Medium	|
+|	819	|	[最常见的单词 - Most Common Word](https://www.cnblogs.com/strengthen/p/10617160.html)	|	Easy	|
+|	818	|	[赛车 - Race Car](https://www.cnblogs.com/strengthen/p/10565497.html)	|	Hard	|
+|	817	|	[链表组件 - Linked List Components](https://www.cnblogs.com/strengthen/p/10565310.html)	|	Medium	|
+|	816	|	[模糊坐标 - Ambiguous Coordinates](https://www.cnblogs.com/strengthen/p/10564493.html)	|	Medium	|
+|	815	|	[公交路线 - Bus Routes](https://www.cnblogs.com/strengthen/p/10564150.html)	|	Hard	|
+|	814	|	[二叉树剪枝 - Binary Tree Pruning](https://www.cnblogs.com/strengthen/p/10564091.html)	|	Medium	|
+|	813	|	[最大平均值和的分组 - Largest Sum of Averages](https://www.cnblogs.com/strengthen/p/10562722.html)	|	Medium	|
+|	812	|	[最大三角形面积 - Largest Triangle Area](https://www.cnblogs.com/strengthen/p/10562694.html)	|	Easy	|
+|	811	|	[子域名访问计数 - Subdomain Visit Count](https://www.cnblogs.com/strengthen/p/10562647.html)	|	Easy	|
+|	810	|	[黑板异或游戏 - Chalkboard XOR Game](https://www.cnblogs.com/strengthen/p/10550162.html)	|	Hard	|
+|	809	|	[情感丰富的文字 - Expressive Words](https://www.cnblogs.com/strengthen/p/10550151.html)	|	Medium	|
+|	808	|	[分汤 - Soup Servings](https://www.cnblogs.com/strengthen/p/10550126.html)	|	Medium	|
+|	807	|	[保持城市天际线 - Max Increase to Keep City Skyline](https://www.cnblogs.com/strengthen/p/10550115.html)	|	Medium	|
+|	806	|	[写字符串需要的行数 - Number of Lines To Write String](https://www.cnblogs.com/strengthen/p/10548894.html)	|	Easy	|
+|	805	|	[数组的均值分割 - Split Array With Same Average](https://www.cnblogs.com/strengthen/p/10548845.html)	|	Hard	|
+|	804	|	[唯一摩尔斯密码词 - Unique Morse Code Words](https://www.cnblogs.com/strengthen/p/10548739.html)	|	Easy	|
+|	803	|	[打砖块 - Bricks Falling When Hit](https://www.cnblogs.com/strengthen/p/10548672.html)	|	Hard	|
+|	802	|	[找到最终的安全状态 - Find Eventual Safe States](https://www.cnblogs.com/strengthen/p/10548596.html)	|	Medium	|
+|	801	|	[使序列递增的最小交换次数 - Minimum Swaps To Make Sequences Increasing](https://www.cnblogs.com/strengthen/p/10547598.html)	|	Medium	|
 |	800	|	[]()	|	Easy	|
-|	799	|	[香槟塔 - Champagne Tower]()	|	Medium	|
-|	798	|	[得分最高的最小轮调 - Smallest Rotation with Highest Score]()	|	Hard	|
-|	797	|	[所有可能的路径 - All Paths From Source to Target]()	|	Medium	|
-|	796	|	[旋转字符串 - Rotate String]()	|	Easy	|
-|	795	|	[区间子数组个数 - Number of Subarrays with Bounded Maximum]()	|	Medium	|
-|	794	|	[有效的井字游戏 - Valid Tic-Tac-Toe State]()	|	Medium	|
-|	793	|	[阶乘函数后K个零 - Preimage Size of Factorial Zeroes Function]()	|	Hard	|
-|	792	|	[匹配子序列的单词数 - Number of Matching Subsequences]()	|	Medium	|
-|	791	|	[自定义字符串排序 - Custom Sort String]()	|	Medium	|
-|	790	|	[多米诺和托米诺平铺 - Domino and Tromino Tiling]()	|	Medium	|
-|	789	|	[逃脱阻碍者 - Escape The Ghosts]()	|	Medium	|
-|	788	|	[旋转数字 - Rotated Digits]()	|	Easy	|
-|	787	|	[K 站中转内最便宜的航班 - Cheapest Flights Within K Stops]()	|	Medium	|
-|	786	|	[第 K 个最小的素数分数 - K-th Smallest Prime Fraction]()	|	Hard	|
-|	785	|	[判断二分图 - Is Graph Bipartite?]()	|	Medium	|
-|	784	|	[字母大小写全排列 - Letter Case Permutation]()	|	Easy	|
-|	783	|	[二叉搜索树结点最小距离 - Minimum Distance Between BST Nodes]()	|	Easy	|
-|	782	|	[变为棋盘 - Transform to Chessboard]()	|	Hard	|
-|	781	|	[森林中的兔子 - Rabbits in Forest]()	|	Medium	|
-|	780	|	[到达终点 - Reaching Points]()	|	Hard	|
-|	779	|	[第K个语法符号 - K-th Symbol in Grammar]()	|	Medium	|
-|	778	|	[水位上升的泳池中游泳 - Swim in Rising Water]()	|	Hard	|
-|	777	|	[在LR字符串中交换相邻字符 - Swap Adjacent in LR String]()	|	Medium	|
+|	799	|	[香槟塔 - Champagne Tower](https://www.cnblogs.com/strengthen/p/10547537.html)	|	Medium	|
+|	798	|	[得分最高的最小轮调 - Smallest Rotation with Highest Score](https://www.cnblogs.com/strengthen/p/10547409.html)	|	Hard	|
+|	797	|	[所有可能的路径 - All Paths From Source to Target](https://www.cnblogs.com/strengthen/p/10547365.html)	|	Medium	|
+|	796	|	[旋转字符串 - Rotate String](https://www.cnblogs.com/strengthen/p/10547242.html)	|	Easy	|
+|	795	|	[区间子数组个数 - Number of Subarrays with Bounded Maximum](https://www.cnblogs.com/strengthen/p/10547191.html)	|	Medium	|
+|	794	|	[有效的井字游戏 - Valid Tic-Tac-Toe State](https://www.cnblogs.com/strengthen/p/10547120.html)	|	Medium	|
+|	793	|	[阶乘函数后K个零 - Preimage Size of Factorial Zeroes Function](https://www.cnblogs.com/strengthen/p/10547060.html)	|	Hard	|
+|	792	|	[匹配子序列的单词数 - Number of Matching Subsequences](https://www.cnblogs.com/strengthen/p/10547036.html)	|	Medium	|
+|	791	|	[自定义字符串排序 - Custom Sort String](https://www.cnblogs.com/strengthen/p/10545744.html)	|	Medium	|
+|	790	|	[多米诺和托米诺平铺 - Domino and Tromino Tiling](https://www.cnblogs.com/strengthen/p/10545719.html)	|	Medium	|
+|	789	|	[逃脱阻碍者 - Escape The Ghosts](https://www.cnblogs.com/strengthen/p/10545692.html)	|	Medium	|
+|	788	|	[旋转数字 - Rotated Digits](https://www.cnblogs.com/strengthen/p/10545646.html)	|	Easy	|
+|	787	|	[K 站中转内最便宜的航班 - Cheapest Flights Within K Stops](https://www.cnblogs.com/strengthen/p/10545382.html)	|	Medium	|
+|	786	|	[第 K 个最小的素数分数 - K-th Smallest Prime Fraction](https://www.cnblogs.com/strengthen/p/10545344.html)	|	Hard	|
+|	785	|	[判断二分图 - Is Graph Bipartite?](https://www.cnblogs.com/strengthen/p/10545335.html)	|	Medium	|
+|	784	|	[字母大小写全排列 - Letter Case Permutation](https://www.cnblogs.com/strengthen/p/10543320.html)	|	Easy	|
+|	783	|	[二叉搜索树结点最小距离 - Minimum Distance Between BST Nodes](https://www.cnblogs.com/strengthen/p/10543213.html)	|	Easy	|
+|	782	|	[变为棋盘 - Transform to Chessboard](https://www.cnblogs.com/strengthen/p/10543176.html)	|	Hard	|
+|	781	|	[森林中的兔子 - Rabbits in Forest](https://www.cnblogs.com/strengthen/p/10543038.html)	|	Medium	|
+|	780	|	[到达终点 - Reaching Points](https://www.cnblogs.com/strengthen/p/10542023.html)	|	Hard	|
+|	779	|	[第K个语法符号 - K-th Symbol in Grammar](https://www.cnblogs.com/strengthen/p/10541751.html)	|	Medium	|
+|	778	|	[水位上升的泳池中游泳 - Swim in Rising Water](https://www.cnblogs.com/strengthen/p/10541732.html)	|	Hard	|
+|	777	|	[在LR字符串中交换相邻字符 - Swap Adjacent in LR String](https://www.cnblogs.com/strengthen/p/10541711.html)	|	Medium	|
 |	776	|	[]()	|	Medium	|
-|	775	|	[全局倒置与局部倒置 - Global and Local Inversions]()	|	Medium	|
+|	775	|	[全局倒置与局部倒置 - Global and Local Inversions](https://www.cnblogs.com/strengthen/p/10541664.html)	|	Medium	|
 |	774	|	[]()	|	Hard	|
-|	773	|	[滑动谜题 - Sliding Puzzle]()	|	Hard	|
+|	773	|	[滑动谜题 - Sliding Puzzle](https://www.cnblogs.com/strengthen/p/10540806.html)	|	Hard	|
 |	772	|	[]()	|	Hard	|
-|	771	|	[宝石与石头 - Jewels and Stones]()	|	Easy	|
-|	770	|	[基本计算器 IV - Basic Calculator IV]()	|	Hard	|
-|	769	|	[最多能完成排序的块 - Max Chunks To Make Sorted]()	|	Medium	|
-|	768	|	[最多能完成排序的块 II - Max Chunks To Make Sorted II]()	|	Hard	|
-|	767	|	[重构字符串 - Reorganize String]()	|	Medium	|
-|	766	|	[托普利茨矩阵 - Toeplitz Matrix]()	|	Easy	|
-|	765	|	[情侣牵手 - Couples Holding Hands]()	|	Hard	|
-|	764	|	[最大加号标志 - Largest Plus Sign]()	|	Medium	|
-|	763	|	[划分字母区间 - Partition Labels]()	|	Medium	|
-|	762	|	[二进制表示中质数个计算置位 - Prime Number of Set Bits in Binary Representation]()	|	Easy	|
-|	761	|	[特殊的二进制序列 - Special Binary String]()	|	Hard	|
+|	771	|	[宝石与石头 - Jewels and Stones](https://www.cnblogs.com/strengthen/p/10536345.html)	|	Easy	|
+|	770	|	[基本计算器 IV - Basic Calculator IV](https://www.cnblogs.com/strengthen/p/10536324.html)	|	Hard	|
+|	769	|	[最多能完成排序的块 - Max Chunks To Make Sorted](https://www.cnblogs.com/strengthen/p/10536217.html)	|	Medium	|
+|	768	|	[最多能完成排序的块 II - Max Chunks To Make Sorted II](https://www.cnblogs.com/strengthen/p/10534904.html)	|	Hard	|
+|	767	|	[重构字符串 - Reorganize String](https://www.cnblogs.com/strengthen/p/10534876.html)	|	Medium	|
+|	766	|	[托普利茨矩阵 - Toeplitz Matrix](https://www.cnblogs.com/strengthen/p/10533374.html)	|	Easy	|
+|	765	|	[情侣牵手 - Couples Holding Hands](https://www.cnblogs.com/strengthen/p/10533329.html)	|	Hard	|
+|	764	|	[最大加号标志 - Largest Plus Sign](https://www.cnblogs.com/strengthen/p/10533262.html)	|	Medium	|
+|	763	|	[划分字母区间 - Partition Labels](https://www.cnblogs.com/strengthen/p/10533151.html)	|	Medium	|
+|	762	|	[二进制表示中质数个计算置位 - Prime Number of Set Bits in Binary Representation](https://www.cnblogs.com/strengthen/p/10533081.html)	|	Easy	|
+|	761	|	[特殊的二进制序列 - Special Binary String](https://www.cnblogs.com/strengthen/p/10532944.html)	|	Hard	|
 |	760	|	[]()	|	Easy	|
 |	759	|	[]()	|	Hard	|
 |	758	|	[]()	|	Easy	|
-|	757	|	[设置交集大小至少为2 - Set Intersection Size At Least Two]()	|	Hard	|
-|	756	|	[金字塔转换矩阵 - Pyramid Transition Matrix]()	|	Medium	|
+|	757	|	[设置交集大小至少为2 - Set Intersection Size At Least Two](https://www.cnblogs.com/strengthen/p/10532897.html)	|	Hard	|
+|	756	|	[金字塔转换矩阵 - Pyramid Transition Matrix](https://www.cnblogs.com/strengthen/p/10532649.html)	|	Medium	|
 |	755	|	[]()	|	Medium	|
-|	754	|	[到达终点数字 - Reach a Number]()	|	Easy	|
-|	753	|	[破解保险箱 - Cracking the Safe]()	|	Hard	|
-|	752	|	[打开转盘锁 - Open the Lock]()	|	Medium	|
+|	754	|	[到达终点数字 - Reach a Number](https://www.cnblogs.com/strengthen/p/10532569.html)	|	Easy	|
+|	753	|	[破解保险箱 - Cracking the Safe](https://www.cnblogs.com/strengthen/p/10529735.html)	|	Hard	|
+|	752	|	[打开转盘锁 - Open the Lock](https://www.cnblogs.com/strengthen/p/10529534.html)	|	Medium	|
 |	751	|	[]()	|	Easy	|
 |	750	|	[]()	|	Medium	|
-|	749	|	[隔离病毒 - Contain Virus]()	|	Hard	|
-|	748	|	[最短完整词 - Shortest Completing Word]()	|	Easy	|
-|	747	|	[至少是其他数字两倍的最大数 - Largest Number At Least Twice of Others]()	|	Easy	|
-|	746	|	[使用最小花费爬楼梯 - Min Cost Climbing Stairs]()	|	Easy	|
-|	745	|	[前缀和后缀搜索 - Prefix and Suffix Search]()	|	Hard	|
-|	744	|	[寻找比目标字母大的最小字母 - Find Smallest Letter Greater Than Target]()	|	Easy	|
-|	743	|	[网络延迟时间 - Network Delay Time]()	|	Medium	|
+|	749	|	[隔离病毒 - Contain Virus](https://www.cnblogs.com/strengthen/p/10526737.html)	|	Hard	|
+|	748	|	[最短完整词 - Shortest Completing Word](https://www.cnblogs.com/strengthen/p/10526316.html)	|	Easy	|
+|	747	|	[至少是其他数字两倍的最大数 - Largest Number At Least Twice of Others](https://www.cnblogs.com/strengthen/p/10525612.html)	|	Easy	|
+|	746	|	[使用最小花费爬楼梯 - Min Cost Climbing Stairs](https://www.cnblogs.com/strengthen/p/10525485.html)	|	Easy	|
+|	745	|	[前缀和后缀搜索 - Prefix and Suffix Search](https://www.cnblogs.com/strengthen/p/10525441.html)	|	Hard	|
+|	744	|	[寻找比目标字母大的最小字母 - Find Smallest Letter Greater Than Target](https://www.cnblogs.com/strengthen/p/10525089.html)	|	Easy	|
+|	743	|	[网络延迟时间 - Network Delay Time](https://www.cnblogs.com/strengthen/p/10525029.html)	|	Medium	|
 |	742	|	[]()	|	Medium	|
-|	741	|	[摘樱桃 - Cherry Pickup]()	|	Hard	|
-|	740	|	[删除与获得点数 - Delete and Earn]()	|	Medium	|
-|	739	|	[每日温度 - Daily Temperatures]()	|	Medium	|
-|	738	|	[单调递增的数字 - Monotone Increasing Digits]()	|	Medium	|
+|	741	|	[摘樱桃 - Cherry Pickup](https://www.cnblogs.com/strengthen/p/10522356.html)	|	Hard	|
+|	740	|	[删除与获得点数 - Delete and Earn](https://www.cnblogs.com/strengthen/p/10522277.html)	|	Medium	|
+|	739	|	[每日温度 - Daily Temperatures](https://www.cnblogs.com/strengthen/p/10522255.html)	|	Medium	|
+|	738	|	[单调递增的数字 - Monotone Increasing Digits](https://www.cnblogs.com/strengthen/p/10519845.html)	|	Medium	|
 |	737	|	[]()	|	Medium	|
-|	736	|	[Lisp 语法解析 - Parse Lisp Expression]()	|	Medium	|
-|	735	|	[行星碰撞 - Asteroid Collision]()	|	Medium	|
+|	736	|	[Lisp 语法解析 - Parse Lisp Expression](https://www.cnblogs.com/strengthen/p/10519773.html)	|	Medium	|
+|	735	|	[行星碰撞 - Asteroid Collision](https://www.cnblogs.com/strengthen/p/10519586.html)	|	Medium	|
 |	734	|	[]()	|	Easy	|
-|	733	|	[图像渲染 - Flood Fill]()	|	Easy	|
-|	732	|	[我的日程安排表 III - My Calendar III]()	|	Hard	|
-|	731	|	[我的日程安排表 II - My Calendar II]()	|	Medium	|
-|	730	|	[统计不同回文子字符串 - Count Different Palindromic Subsequences]()	|	Hard	|
-|	729	|	[我的日程安排表 I - My Calendar I]()	|	Medium	|
-|	728	|	[自除数 - Self Dividing Numbers]()	|	Easy	|
+|	733	|	[图像渲染 - Flood Fill](https://www.cnblogs.com/strengthen/p/10519427.html)	|	Easy	|
+|	732	|	[我的日程安排表 III - My Calendar III](https://www.cnblogs.com/strengthen/p/10620179.html)	|	Hard	|
+|	731	|	[我的日程安排表 II - My Calendar II](https://www.cnblogs.com/strengthen/p/10518918.html)	|	Medium	|
+|	730	|	[统计不同回文子字符串 - Count Different Palindromic Subsequences](https://www.cnblogs.com/strengthen/p/10518830.html)	|	Hard	|
+|	729	|	[我的日程安排表 I - My Calendar I](https://www.cnblogs.com/strengthen/p/10518737.html)	|	Medium	|
+|	728	|	[自除数 - Self Dividing Numbers](https://www.cnblogs.com/strengthen/p/10516387.html)	|	Easy	|
 |	727	|	[]()	|	Hard	|
-|	726	|	[原子的数量 - Number of Atoms]()	|	Hard	|
-|	725	|	[分隔链表 - Split Linked List in Parts]()	|	Medium	|
-|	724	|	[寻找数组的中心索引 - Find Pivot Index]()	|	Easy	|
+|	726	|	[原子的数量 - Number of Atoms](https://www.cnblogs.com/strengthen/p/10515957.html)	|	Hard	|
+|	725	|	[分隔链表 - Split Linked List in Parts](https://www.cnblogs.com/strengthen/p/10514474.html)	|	Medium	|
+|	724	|	[寻找数组的中心索引 - Find Pivot Index](https://www.cnblogs.com/strengthen/p/10514420.html)	|	Easy	|
 |	723	|	[]()	|	Medium	|
-|	722	|	[删除注释 - Remove Comments]()	|	Medium	|
-|	721	|	[账户合并 - Accounts Merge]()	|	Medium	|
-|	720	|	[词典中最长的单词 - Longest Word in Dictionary]()	|	Easy	|
-|	719	|	[找出第 k 小的距离对 - Find K-th Smallest Pair Distance]()	|	Hard	|
-|	718	|	[最长重复子数组 - Maximum Length of Repeated Subarray]()	|	Medium	|
-|	717	|	[1比特与2比特字符 - 1-bit and 2-bit Characters]()	|	Easy	|
+|	722	|	[删除注释 - Remove Comments](https://www.cnblogs.com/strengthen/p/10514386.html)	|	Medium	|
+|	721	|	[账户合并 - Accounts Merge](https://www.cnblogs.com/strengthen/p/10513271.html)	|	Medium	|
+|	720	|	[词典中最长的单词 - Longest Word in Dictionary](https://www.cnblogs.com/strengthen/p/10512687.html)	|	Easy	|
+|	719	|	[找出第 k 小的距离对 - Find K-th Smallest Pair Distance](https://www.cnblogs.com/strengthen/p/10512626.html)	|	Hard	|
+|	718	|	[最长重复子数组 - Maximum Length of Repeated Subarray](https://www.cnblogs.com/strengthen/p/10509887.html)	|	Medium	|
+|	717	|	[1比特与2比特字符 - 1-bit and 2-bit Characters](https://www.cnblogs.com/strengthen/p/10509872.html)	|	Easy	|
 |	716	|	[]()	|	Easy	|
-|	715	|	[Range 模块 - Range Module]()	|	Hard	|
-|	714	|	[买卖股票的最佳时机含手续费 - Best Time to Buy and Sell Stock with Transaction Fee]()	|	Medium	|
-|	713	|	[乘积小于K的子数组 - Subarray Product Less Than K]()	|	Medium	|
-|	712	|	[两个字符串的最小ASCII删除和 - Minimum ASCII Delete Sum for Two Strings]()	|	Medium	|
+|	715	|	[Range 模块 - Range Module](https://www.cnblogs.com/strengthen/p/10509845.html)	|	Hard	|
+|	714	|	[买卖股票的最佳时机含手续费 - Best Time to Buy and Sell Stock with Transaction Fee](https://www.cnblogs.com/strengthen/p/10506785.html)	|	Medium	|
+|	713	|	[乘积小于K的子数组 - Subarray Product Less Than K](https://www.cnblogs.com/strengthen/p/10506745.html)	|	Medium	|
+|	712	|	[两个字符串的最小ASCII删除和 - Minimum ASCII Delete Sum for Two Strings](https://www.cnblogs.com/strengthen/p/10506712.html)	|	Medium	|
 |	711	|	[]()	|	Hard	|
-|	710	|	[黑名单中的随机数 - Random Pick with Blacklist]()	|	Hard	|
-|	709	|	[转换成小写字母 - To Lower Case]()	|	Easy	|
+|	710	|	[黑名单中的随机数 - Random Pick with Blacklist](https://www.cnblogs.com/strengthen/p/10506644.html)	|	Hard	|
+|	709	|	[转换成小写字母 - To Lower Case](https://www.cnblogs.com/strengthen/p/10506475.html)	|	Easy	|
 |	708	|	[]()	|	Medium	|
-|	707	|	[设计链表 - Design Linked List]()	|	Easy	|
-|	706	|	[设计哈希映射 - Design HashMap]()	|	Easy	|
-|	705	|	[设计哈希集合 - Design HashSet]()	|	Easy	|
-|	704	|	[二分查找 - Binary Search]()	|	Easy	|
-|	703	|	[数据流中的第K大元素 - Kth Largest Element in a Stream]()	|	Easy	|
+|	707	|	[设计链表 - Design Linked List](https://www.cnblogs.com/strengthen/p/10506371.html)	|	Easy	|
+|	706	|	[设计哈希映射 - Design HashMap](https://www.cnblogs.com/strengthen/p/10506126.html)	|	Easy	|
+|	705	|	[设计哈希集合 - Design HashSet](https://www.cnblogs.com/strengthen/p/10506027.html)	|	Easy	|
+|	704	|	[二分查找 - Binary Search](https://www.cnblogs.com/strengthen/p/10505849.html)	|	Easy	|
+|	703	|	[数据流中的第K大元素 - Kth Largest Element in a Stream](https://www.cnblogs.com/strengthen/p/10622690.html)	|	Easy	|
 |	702	|	[]()	|	Medium	|
-|	701	|	[二叉搜索树中的插入操作 - Insert into a Binary Search Tree]()	|	Medium	|
-|	700	|	[二叉搜索树中的搜索 - Search in a Binary Search Tree]()	|	Easy	|
+|	701	|	[二叉搜索树中的插入操作 - Insert into a Binary Search Tree](https://www.cnblogs.com/strengthen/p/10502896.html)	|	Medium	|
+|	700	|	[二叉搜索树中的搜索 - Search in a Binary Search Tree](https://www.cnblogs.com/strengthen/p/10502816.html)	|	Easy	|
 |	699	|	[掉落的方块 - Falling Squares]()	|	Hard	|
 |	698	|	[划分为k个相等的子集 - Partition to K Equal Sum Subsets]()	|	Medium	|
 |	697	|	[数组的度 - Degree of an Array]()	|	Easy	|
