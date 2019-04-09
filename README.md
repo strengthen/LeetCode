@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/strengthen/LeetCode/master/weixin.png" alt="LeetCodeBySwift">
   <img src="https://raw.githubusercontent.com/strengthen/LeetCode/master/zhifubao.png" alt="LeetCodeBySwift">
 </p>
-#
+
 | 逆序Serial | 题名Title | 难度Difficulty |
 | ------------------  |  --------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	|
