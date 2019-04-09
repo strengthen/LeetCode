@@ -1,17 +1,11 @@
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # 我的博客(My Blog)->[山青咏芝](https://www.cnblogs.com/strengthen/)
-# 金主打赏时请备注微信号，便于加您为好友！->[金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
-# 微信打赏
+# 金主打赏时请备注微信号，即刻加您为好友！->[金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
+# 微信、支付宝打赏
  <p align="center">
   <img src="https://raw.githubusercontent.com/strengthen/LeetCode/master/weixin.png" alt="LeetCodeBySwift">
-</p>
-# 支付宝打赏
- <p align="center">
   <img src="https://raw.githubusercontent.com/strengthen/LeetCode/master/zhifubao.png" alt="LeetCodeBySwift">
 </p>
-
-![Leetcode](./weixin.png?style=centerme)
-![Leetcode](./zhifubao.png?style=centerme)
 #
 | 逆序Serial | 题名Title | 难度Difficulty |
 | ------------------  |  --------------- | -------------- |
