@@ -171,7 +171,7 @@
 |	864	|	[获取所有钥匙的最短路径 - Shortest Path to Get All Keys](https://www.cnblogs.com/strengthen/p/10596616.html)	|	Hard	|
 |	863	|	[二叉树中所有距离为 K 的结点 - All Nodes Distance K in Binary Tree](https://www.cnblogs.com/strengthen/p/10596718.html)	|	Medium	|
 |	862	|	[和至少为 K 的最短子数组 - Shortest Subarray with Sum at Least K](https://www.cnblogs.com/strengthen/p/10595590.html)	|	Hard	|
-|	861	|	[翻转矩阵后的得分 - Score After Flipping Matrix](https://www.cnblogs.com/strengthen/p/10595500.html)	|		|
+|	861	|	[翻转矩阵后的得分 - Score After Flipping Matrix](https://www.cnblogs.com/strengthen/p/10595500.html)	|	Medium	|
 |	860	|	[柠檬水找零 - Lemonade Change](https://www.cnblogs.com/strengthen/p/10595376.html)	|	Easy	|
 |	859	|	[亲密字符串 - Buddy Strings](https://www.cnblogs.com/strengthen/p/10588891.html)	|	Easy	|
 |	858	|	[镜面反射 - Mirror Reflection](https://www.cnblogs.com/strengthen/p/10594963.html)	|	Medium	|
