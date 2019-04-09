@@ -1,37 +1,37 @@
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # 我的博客->[山青咏芝](https://www.cnblogs.com/strengthen/)
 # 金主打赏时请备注微信号~便于加您为好友~->[金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
-# 微信扫码打赏
+# 微信打赏
 ![Leetcode](./weixin.png?style=centerme)
-# 支付宝扫码打赏
+# 支付宝打赏
 ![Leetcode](./zhifubao.png?style=centerme)
 #
 | 逆序Serial | 题名Title | 难度Difficulty |
 | ------------------  |  --------------- | -------------- |
-|	1024	|	[视频拼接 - Video Stitching]()	|	Medium	|
-|	1023	|	[驼峰式匹配 - Camelcase Matching]()	|	Medium	|
-|	1022	|	[从根到叶的二进制数之和 - Sum of Root To Leaf Binary Numbers]()	|	Easy	|
-|	1021	|	[删除最外层的括号 - Remove Outermost Parentheses]()	|	Easy	|
-|	1020	|	[飞地的数量 - Number of Enclaves]()	|	Medium	|
-|	1019	|	[链表中的下一个更大节点 - Next Greater Node In Linked List]()	|	Medium	|
-|	1018	|	[可被 5 整除的二进制前缀 - Binary Prefix Divisible By 5]()	|	Easy	|
-|	1017	|	[负二进制转换 - Convert to Base -2]()	|	Medium	|
-|	1016	|	[子串能表示从 1 到 N 数字的二进制串 - Binary String With Substrings Representing 1 To N]()	|	Medium	|
-|	1015	|	[可被 K 整除的最小整数 - Smallest Integer Divisible by K]()	|	Medium	|
-|	1014	|	[最佳观光组合 - Best Sightseeing Pair]()	|	Medium	|
-|	1013	|	[将数组分成和相等的三个部分 - Partition Array Into Three Parts With Equal Sum]()	|	Easy	|
-|	1012	|	[至少有 1 位重复的数字 - Numbers With 1 Repeated Digit]()	|	Hard	|
-|	1011	|	[在 D 天内送达包裹的能力 - Capacity To Ship Packages Within D Days]()	|	Medium	|
-|	1010	|	[总持续时间可被 60 整除的歌曲 - Pairs of Songs With Total Durations Divisible by 60]()	|	Easy	|
-|	1009	|	[十进制整数的补码 - Complement of Base 10 Integer]()	|	Easy	|
-|	1008	|	[先序遍历构造二叉树 - Construct Binary Search Tree from Preorder Traversal]()	|	Medium	|
-|	1007	|	[行相等的最少多米诺旋转 - Minimum Domino Rotations For Equal Row]()	|	Medium	|
-|	1006	|	[笨阶乘 - Clumsy Factorial]()	|	Medium	|
-|	1005	|	[K 次取反后最大化的数组和 - Maximize Sum Of Array After K Negations]()	|	Easy	|
-|	1004	|	[最大连续1的个数 III - Max Consecutive Ones III]()	|	Medium	|
-|	1003	|	[检查替换后的词是否有效 - Check If Word Is Valid After Substitutions]()	|	Medium	|
-|	1002	|	[查找常用字符 - Find Common Characters]()	|	Easy	|
-|	1001	|	[网格照明 - Grid Illumination]()	|	Hard	|
+|	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	|
+|	1023	|	[驼峰式匹配 - Camelcase Matching](https://www.cnblogs.com/strengthen/p/10668058.html)	|	Medium	|
+|	1022	|	[从根到叶的二进制数之和 - Sum of Root To Leaf Binary Numbers](https://www.cnblogs.com/strengthen/p/10667991.html)	|	Easy	|
+|	1021	|	[删除最外层的括号 - Remove Outermost Parentheses](https://www.cnblogs.com/strengthen/p/10667927.html)	|	Easy	|
+|	1020	|	[飞地的数量 - Number of Enclaves](https://www.cnblogs.com/strengthen/p/10634516.html)	|	Medium	|
+|	1019	|	[链表中的下一个更大节点 - Next Greater Node In Linked List](https://www.cnblogs.com/strengthen/p/10634379.html)	|	Medium	|
+|	1018	|	[可被 5 整除的二进制前缀 - Binary Prefix Divisible By 5](https://www.cnblogs.com/strengthen/p/10633347.html)	|	Easy	|
+|	1017	|	[负二进制转换 - Convert to Base -2](https://www.cnblogs.com/strengthen/p/10634364.html)	|	Medium	|
+|	1016	|	[子串能表示从 1 到 N 数字的二进制串 - Binary String With Substrings Representing 1 To N](https://www.cnblogs.com/strengthen/p/10588057.html)	|	Medium	|
+|	1015	|	[可被 K 整除的最小整数 - Smallest Integer Divisible by K](https://www.cnblogs.com/strengthen/p/10587885.html)	|	Medium	|
+|	1014	|	[最佳观光组合 - Best Sightseeing Pair](https://www.cnblogs.com/strengthen/p/10587905.html)	|	Medium	|
+|	1013	|	[将数组分成和相等的三个部分 - Partition Array Into Three Parts With Equal Sum](https://www.cnblogs.com/strengthen/p/10587854.html)	|	Easy	|
+|	1012	|	[至少有 1 位重复的数字 - Numbers With 1 Repeated Digit](https://www.cnblogs.com/strengthen/p/10546296.html)	|	Hard	|
+|	1011	|	[在 D 天内送达包裹的能力 - Capacity To Ship Packages Within D Days](https://www.cnblogs.com/strengthen/p/10546244.html)	|	Medium	|
+|	1010	|	[总持续时间可被 60 整除的歌曲 - Pairs of Songs With Total Durations Divisible by 60](https://www.cnblogs.com/strengthen/p/10546217.html)	|	Easy	|
+|	1009	|	[十进制整数的补码 - Complement of Base 10 Integer](https://www.cnblogs.com/strengthen/p/10546205.html)	|	Easy	|
+|	1008	|	[先序遍历构造二叉树 - Construct Binary Search Tree from Preorder Traversal](https://www.cnblogs.com/strengthen/p/10504907.html)	|	Medium	|
+|	1007	|	[行相等的最少多米诺旋转 - Minimum Domino Rotations For Equal Row](https://www.cnblogs.com/strengthen/p/10504894.html)	|	Medium	|
+|	1006	|	[笨阶乘 - Clumsy Factorial](https://www.cnblogs.com/strengthen/p/10504875.html)	|	Medium	|
+|	1005	|	[K 次取反后最大化的数组和 - Maximize Sum Of Array After K Negations](https://www.cnblogs.com/strengthen/p/10504835.html)	|	Easy	|
+|	1004	|	[最大连续1的个数 III - Max Consecutive Ones III](https://www.cnblogs.com/strengthen/p/10464806.html)	|	Medium	|
+|	1003	|	[检查替换后的词是否有效 - Check If Word Is Valid After Substitutions](https://www.cnblogs.com/strengthen/p/10464750.html)	|	Medium	|
+|	1002	|	[查找常用字符 - Find Common Characters](https://www.cnblogs.com/strengthen/p/10464627.html)	|	Easy	|
+|	1001	|	[网格照明 - Grid Illumination](https://www.cnblogs.com/strengthen/p/10430537.html)	|	Hard	|
 |	1000	|	[合并石头的最低成本 - Minimum Cost to Merge Stones]()	|	Hard	|
 |	999	|	[车的可用捕获量 - Available Captures for Rook]()	|	Easy	|
 |	998	|	[最大二叉树 II - Maximum Binary Tree II]()	|	Medium	|
