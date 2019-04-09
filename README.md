@@ -5,7 +5,7 @@
 ![Leetcode](./zhifubao.png?style=centerme)
 # 支付宝扫码打赏
 ![Leetcode](./weixin.png?style=centerme)
-
+#
 | 逆序Serial | 题名Title | 难度Difficulty |
 | ------------------  |  --------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching]()	|	Medium	|
