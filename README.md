@@ -1,13 +1,13 @@
-![Leetcode](./LeetCodeBySwift.png?style=centerme)
+# 按照序号，点击下文表格中的题目名称。
 # 个人博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
 # 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
 # 微信打赏↓↓↓
 ![Leetcode](./weixin.png?style=centerme)
 # 支付宝打赏↓↓↓
 ![Leetcode](./zhifubao.png?style=centerme)
-# 扫码入群↓↓↓
+# 扫码入微信群↓↓↓
 ![Leetcode](./Code.png?style=centerme)
-
+![Leetcode](./LeetCodeBySwift.png?style=centerme)
 | 逆序Serial | 题目Title | 难度Difficulty |
 | ------------------  |  --------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	|
