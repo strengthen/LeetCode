@@ -1,4 +1,4 @@
-# 按照序号，点击下文表格中的题目名称。
+# 按照逆序题号，点击下文表格中的题目名称。
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # 个人博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
 # 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
