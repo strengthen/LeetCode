@@ -752,7 +752,7 @@
 |	287	|	[ 寻找重复数 - Find the Duplicate Number](https://www.cnblogs.com/strengthen/p/10241246.html)	|	Medium	|
 |	286	|	[墙和门 $ Walls and Gates](https://www.cnblogs.com/strengthen/p/10686269.html)	|	Medium	|
 |	285	|	[二叉搜索树中的中序后继节点 $ Inorder Successor in BST](https://www.cnblogs.com/strengthen/p/10686067.html)	|	Medium	|
-|	284	|	[顶端迭代器 | Peeking Iterator](https://www.cnblogs.com/strengthen/p/10688866.html)	|	Medium	|
+|	284	|	[顶端迭代器 - Peeking Iterator](https://www.cnblogs.com/strengthen/p/10688866.html)	|	Medium	|
 |	283	|	[移动零 - Move Zeroes](https://www.cnblogs.com/strengthen/p/9756870.html)	|	Easy	|
 |	282	|	[给表达式添加运算符 - Expression Add Operators](https://www.cnblogs.com/strengthen/p/10241192.html)	|	Hard	|
 |	281	|	[之字形迭代器 $ Zigzag Iterator](https://www.cnblogs.com/strengthen/p/10686001.html)	|	Medium	|
