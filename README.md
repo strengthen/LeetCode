@@ -76,12 +76,12 @@
 |	963	|	[最小面积矩形 II - Minimum Area Rectangle II](https://www.cnblogs.com/strengthen/p/10165340.html)	|	Medium	|
 |	962	|	[最大宽度坡 - Maximum Width Ramp](https://www.cnblogs.com/strengthen/p/10165234.html)	|	Medium	|
 |	961	|	[重复 N 次的元素 - N-Repeated Element in Size 2N Array](https://www.cnblogs.com/strengthen/p/10165080.html)	|	Easy	|
-|	960	|	[删列造序 --- - Delete Columns to Make Sorted III](https://www.cnblogs.com/strengthen/p/10126555.html)	|	Hard	|
+|	960	|	[删列造序 III - Delete Columns to Make Sorted III](https://www.cnblogs.com/strengthen/p/10126555.html)	|	Hard	|
 |	959	|	[由斜杠划分区域 - Regions Cut By Slashes](https://www.cnblogs.com/strengthen/p/10126492.html)	|	Medium	|
 |	958	|	[二叉树的完全性检验 - Check Completeness of a Binary Tree](https://www.cnblogs.com/strengthen/p/10126293.html)	|	Medium	|
 |	957	|	[N天后的牢房 - Prison Cells After N Days](https://www.cnblogs.com/strengthen/p/10126178.html)	|	Medium	|
 |	956	|	[最高的广告牌 - Tallest Billboard](https://www.cnblogs.com/strengthen/p/10090961.html)	|	Hard	|
-|	955	|	[删列造序 -- - Delete Columns to Make Sorted II](https://www.cnblogs.com/strengthen/p/10090839.html)	|	Medium	|
+|	955	|	[删列造序 II - Delete Columns to Make Sorted II](https://www.cnblogs.com/strengthen/p/10090839.html)	|	Medium	|
 |	954	|	[二倍数对数组 - Array of Doubled Pairs](https://www.cnblogs.com/strengthen/p/10090740.html)	|	Medium	|
 |	953	|	[验证外星语词典 - Verifying an Alien Dictionary](https://www.cnblogs.com/strengthen/p/10090815.html)	|	Easy	|
 |	952	|	[按公因数计算最大组件大小 - Largest Component Size by Common Factor](https://www.cnblogs.com/strengthen/p/10053034.html)	|	Hard	|
