@@ -12,7 +12,7 @@
 ## 扫码入微信群↓↓↓
 ![Leetcode](./Code.png?style=centerme)
 ## 注：题目中含有$符号则为付费题目。
-## 例: 二叉树的上下颠倒 $ Binary Tree Upside Down
+### 例: 二叉树的上下颠倒 $ Binary Tree Upside Down
 |逆序No.|【题目Title】&【Swift】|【C#】|【C++】|【Java】|【Python】|难度Difficulty|
 | ------------------  |  --------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/C%23/LeetCode1024.txt)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/LeetCode1024.txt)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/LeetCode1024.txt)	|	[Python](https://github.com/strengthen/LeetCode/blob/master/Python/LeetCode1024.txt)	|	Medium	|
