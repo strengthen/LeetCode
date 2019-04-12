@@ -11,9 +11,9 @@
 ![Leetcode](./Code.png?style=centerme)
 ## 注：题目中含有$符号则为付费题目。
 ## 例如: 二叉树的上下颠倒 $ Binary Tree Upside Down
-| 逆序# | 题目Title | 难度Difficulty | C++ | Java | Python | Ruby |
+| 逆序# | 题目Title【Swift】 | 难度Difficulty | 【C++】 | 【Java】 | 【Python】 | 【Ruby】 |
 | ------------------  |  --------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
-|	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	|	[C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
+|	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	| [C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
 |	1023	|	[驼峰式匹配 - Camelcase Matching](https://www.cnblogs.com/strengthen/p/10668058.html)	|	Medium	|	[C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
 |	1022	|	[从根到叶的二进制数之和 - Sum of Root To Leaf Binary Numbers](https://www.cnblogs.com/strengthen/p/10667991.html)	|	Easy	|	[C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
 |	1021	|	[删除最外层的括号 - Remove Outermost Parentheses](https://www.cnblogs.com/strengthen/p/10667927.html)	|	Easy	|	[C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
