@@ -1,5 +1,5 @@
 # 按照逆序题号，点击下文表格中的题目名称。
-# Click the title name in the table below according to the title number in reverse order.
+## Click the title name in the table below according to the title number in reverse order.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # 个人博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
 # 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
@@ -9,7 +9,8 @@
 ![Leetcode](./zhifubao.png?style=centerme)
 # 扫码入微信群↓↓↓
 ![Leetcode](./Code.png?style=centerme)
-# 注：题目中含有$符号则为付费题目。例: 二叉树的上下颠倒 $ Binary Tree Upside Down
+## 注：题目中含有$符号则为付费题目。
+## 例如: 二叉树的上下颠倒 $ Binary Tree Upside Down
 | 逆序Serial | 题目Title | 难度Difficulty |
 | ------------------  |  --------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	|
