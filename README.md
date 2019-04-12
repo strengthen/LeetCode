@@ -11,7 +11,7 @@
 ![Leetcode](./Code.png?style=centerme)
 ## 注：题目中含有$符号则为付费题目。
 ## 例如: 二叉树的上下颠倒 $ Binary Tree Upside Down
-| 逆序# | 题目Title【Swift】 | 难度Difficulty | 【C++】 | 【Java】 | 【Python】 | 【Ruby】 |
+| 逆序# | 【Swift】 | 【C#】 | 【C++】 | 【Java】 | 【Python】 | 难度Difficulty |
 | ------------------  |  --------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	Medium	|	[C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
 |	1023	|	[驼峰式匹配 - Camelcase Matching](https://www.cnblogs.com/strengthen/p/10668058.html)	|	Medium	|	[C++]()	|	[Java]()	|	[Python]()	|	[Ruby]()	|
