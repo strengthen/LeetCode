@@ -1,13 +1,13 @@
 # 按照逆序题号，点击下文表格中的题目名称。
 ## Click the title name in the table below according to the title number in reverse order.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
-# 个人博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
-# 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
-# 微信打赏↓↓↓
+# 博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
+## 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
+## 微信打赏↓↓↓
 ![Leetcode](./weixin.png?style=centerme)
-# 支付宝打赏↓↓↓
+## 支付宝打赏↓↓↓
 ![Leetcode](./zhifubao.png?style=centerme)
-# 扫码入微信群↓↓↓
+## 扫码入微信群↓↓↓
 ![Leetcode](./Code.png?style=centerme)
 ## 注：题目中含有$符号则为付费题目。
 ## 例如: 二叉树的上下颠倒 $ Binary Tree Upside Down
