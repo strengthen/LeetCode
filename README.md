@@ -1,7 +1,7 @@
 # 按照逆序题号，点击下文表格中的题目名称。
 ## Click the title name in the table below according to the title number in reverse order.
 # 诚征小伙伴加入本项目，可以选择现有的编程语言和其他编程语言。
-## Sincerely recruit small partners to join this project, you can choose existing programming languages and other programming languages.
+## Sincerely recruit partners to join this project, you can choose existing programming languages and other programming languages.
 ![Leetcode](./LeetCodeBySwift.png?style=centerme)
 # 博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
 ## 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
