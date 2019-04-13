@@ -1,4 +1,4 @@
-____________________________________________________________________________________
+_____________________________________________________________________________________________________
 36ms
 class Solution:
     def videoStitching(self, clips: List[List[int]], T: int) -> int:
@@ -12,7 +12,7 @@ class Solution:
             result += 1
         
         return result
-____________________________________________________________________________________
+_____________________________________________________________________________________________________
 40ms
 class Solution:
     def videoStitching(self, clips: List[List[int]], T: int) -> int:
@@ -29,9 +29,6 @@ class Solution:
             progress = False
             while i < len(l) and l[i][S] <= gained:
                 progress = True
-               # if l[i][E] >= T: 
-               #     count +=1
-               #     break
                 mx = max(mx, l[i][E])       
                 print (i, l[i], mx, gained)
                 i+=1
@@ -45,10 +42,8 @@ class Solution:
                 i+=1
            # if i == len(l): return -1 # no progress, and reached the end
             
-
-
         return count if mx >= T else -1 
-____________________________________________________________________________________
+_____________________________________________________________________________________________________
 44ms
 class Solution:
     def videoStitching(self, clips: List[List[int]], T: int) -> int:
@@ -64,7 +59,7 @@ class Solution:
             return -1
         else:
             return dp[-1]
-____________________________________________________________________________________
+_____________________________________________________________________________________________________
 48ms
 class Solution:
     def videoStitching(self, clips: List[List[int]], T: int) -> int:
@@ -82,7 +77,7 @@ class Solution:
             ret.append(tmp)
             s = tmp[1]
         return len(ret)
-____________________________________________________________________________________
+_____________________________________________________________________________________________________
 52ms
 class Solution:
     def videoStitching(self, clips: List[List[int]], T: int) -> int:
@@ -105,4 +100,4 @@ class Solution:
         if(curr==-1):
             total = -1
         return total
-____________________________________________________________________________________
+_____________________________________________________________________________________________________
