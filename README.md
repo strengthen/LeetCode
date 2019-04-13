@@ -5,7 +5,7 @@
 ## 诚征小伙伴加入本项目，扫码↓↓↓加入LeetCode微信群，一起LeetCode！
 ![Leetcode](./Code.png?style=centerme)
 ### Swift已完成全部更新，按照逆序题号点击表格中的题目名称。其他编程语言正在努力更新中...
-### 注：题目中含有$符号则为付费题目。例: 二叉树的上下颠倒 $ Binary Tree Upside Down
+### 注：题目中含有$则为收费Premium subscription。例:二叉树的上下颠倒 $ Binary Tree Upside Down
 |逆序No.|【题目Title】&【Swift】|【C#】|【C++】|【Java】|【Python】|难度Difficulty|
 | ------------------  |  --------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 |	1024	|	[视频拼接 - Video Stitching](https://www.cnblogs.com/strengthen/p/10668090.html)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/C%23/LeetCode1024.txt)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/LeetCode1024.txt)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/LeetCode1024.txt)	|	[Python](https://github.com/strengthen/LeetCode/blob/master/Python/LeetCode1024.txt)	|	Medium	|
