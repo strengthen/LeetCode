@@ -1,0 +1,144 @@
+____________________________________________________________________________________
+4ms
+class Solution {
+public:
+    int videoStitching(vector<vector<int>>& clips, int T) {
+     
+        vector<pair<int, int> > v;
+        int maxm = INT_MIN;
+        for(int i=0; i<clips.size(); i++)
+        {
+            v.push_back(make_pair(clips[i][0], clips[i][1]));
+            maxm = max(maxm, clips[i][1]);
+        }
+        sort(v.begin(), v.end());
+        if(v[0].first > 0 || maxm<T)
+            return -1;
+        
+        int x=0, res=0;
+        for(int i=0; i<v.size(); )
+        {
+            cout<<i<<" "<<x<<" "<<res<<endl;
+            int max_reach=INT_MIN;
+            while(i<v.size() && x>=v[i].first)
+            {
+                max_reach = max(max_reach, v[i].second);
+                i++;
+            }
+            
+            res++;
+            if(max_reach>=T)
+                break;
+            x=max_reach;
+        }
+        return res;
+    }
+};
+____________________________________________________________________________________
+8ms
+class Solution {
+public:
+    int videoStitching(vector<vector<int>>& clips, int T) {
+        map<int,int> mp;
+        for(auto &v:clips) {
+            int x = v[0], y = v[1] > T ? T : v[1];
+            x = x > y ? y:x;
+            if(mp.find(y) == mp.end()) {
+                mp[y] = x;
+            } else {
+                mp[y] = min(mp[y],x);
+            }
+        }
+        vector<pair<int,int>> a;
+        for(auto pr:mp) a.push_back({pr.second,pr.first});
+        for(auto it:a) cout << it.first << " " << it.second << "\n";
+        for(int i=1;i<a.size();i++) {
+            int x = a[i].first, y = a[i].second;
+            auto it = mp.lower_bound(x);
+            if(it->first == y) mp.erase(it);
+            else {
+                int xx = it->second;
+                if(xx < x) it++;
+                for(;it->first != y;) {
+                    mp.erase(it++);
+                }
+            }
+        }
+        for(auto it:mp) {
+            cout << it.second << " "<<it.first <<"\n";
+        }
+        return mp.begin()->second == 0 && ((--mp.end())->first == T) ? mp.size() : -1;
+    }
+};
+____________________________________________________________________________________
+12ms
+class Solution {
+public:
+    int videoStitching(vector<vector<int>>& clips, int T) {
+        constexpr int inf = 10000;
+        
+        vector<vector<int>> dp(T+1, vector<int>(T+1, inf));
+        
+        for (const auto& clip:clips) {
+            const int start = clip[0];
+            const int end = clip[1];
+            for (int len = 1; len <= T; len++) {
+                for (int s = 0; s <= T-len; s++) {
+                    int e = s + len;
+                    if (start > e || end < s)
+                        continue;
+                    if (start <= s && end >= e)
+                        dp[s][e] = 1;
+                    else if (start <= s)
+                        dp[s][e] = min(dp[s][e], 1 + dp[end][e]);
+                    else if (end >= e)
+                        dp[s][e] = min(dp[s][e], 1 + dp[s][start]);
+                    else
+                        dp[s][e] = min(dp[s][e], dp[s][start] + 1 + dp[end][e]);
+                }
+            }
+        }
+        
+        return dp[0][T] == inf ? -1 : dp[0][T];
+    }
+};
+____________________________________________________________________________________
+Runtime: 20 ms
+Memory Usage: 9.5 MB
+class Solution {
+public:
+    int videoStitching(vector<vector<int>>& clips, int T) {
+        
+        vector<vector<int>> dp(T+1, vector<int>(T+1,-1));
+        for(int i=0; i<=T; ++i) dp[i][i]=0;
+        for(auto clip : clips){
+            int l = max(clip[0], 0);
+            int r = min(clip[1], T);
+            
+            if(l >= r) continue;
+            
+            for(int i=0; i<r; ++i)
+            {
+                int J = min(i+1,l+1);
+                for(int j=J;j<=T;++j)
+                {
+                    int left, right;
+                    if(i<l) left = dp[i][l];
+                    else left = 0;
+                    
+                    if(j>r) right = dp[r][j];
+                    else right = 0;
+                    
+                    if(left==-1||right==-1)
+                        continue;
+                    
+                    if(dp[i][j]==-1) dp[i][j] = left+right+1;
+                    else dp[i][j] = min(dp[i][j], left+right+1);
+                }
+            }
+        }
+        return dp[0][T];
+        
+    }
+};
+____________________________________________________________________________________
