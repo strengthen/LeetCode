@@ -6,7 +6,7 @@
 ![Leetcode](./Code.png?style=centerme)
 ### Swift已完成全部更新：按照逆序题号点击表格中的题目名称。其他编程语言正在努力更新中...
 ### 注：题目中含有$则为LeetCode收费题目。例:二叉树的上下颠倒 $ Binary Tree Upside Down
-### 注：每题5种解法(5 Solutions to Each Problem):3(Minimum Runtime Solutions) + 2(Minimum Memory Usage Solutions)
+### 注：每题5个解法：3个(Minimum Runtime Solutions) + 2个(Minimum Memory Usage Solutions)
 |逆序No.|【题目Title】&【Swift】|【C#】|【C++】|【Java】|【Python】|难度Difficulty|
 | ------------------  |  --------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 |	1028	|	[从先序遍历还原二叉树 - Recover a Tree From Preorder Traversal](https://www.cnblogs.com/strengthen/p/10704934.html)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/C%23/LeetCode1028.txt)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/LeetCode1028.txt)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/LeetCode1028.txt)	|	[Python](https://github.com/strengthen/LeetCode/blob/master/Python/LeetCode1028.txt)	|	Hard
