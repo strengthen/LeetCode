@@ -2,7 +2,7 @@
 ## ↓↓↓微信打赏 && 支付宝打赏↓↓↓
 ![Leetcode](./WX_ZFB.png?style=centerme)
 ### 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
-## 诚征小伙伴加入本项目，扫码↓↓↓加入LeetCode微信群，一起LeetCode！
+## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！
 ![Leetcode](./Code.png?style=centerme)
 ### Swift已完成全部更新：按照逆序题号点击表格中的题目名称。其他编程语言正在努力更新中...
 ### 注1：题目中含有$则为LeetCode收费题目。例:二叉树的上下颠倒 $ Binary Tree Upside Down
