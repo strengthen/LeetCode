@@ -7,7 +7,7 @@
 ### Swift已完成全部更新：按照逆序题号点击表格中的题目名称。其他编程语言正在努力更新中...
 ### 注1：题目中含有$则为LeetCode收费题目。例:二叉树的上下颠倒 $ Binary Tree Upside Down
 ### 注2：每题2个解法 = 1个(Minimum Runtime Solutions) + 1个(Minimum Memory Usage Solutions)
-|逆序No.|【题目Title】&【Swift】|【C#】|【C++】|【Java】|【Python3】|难度Difficulty|
+|逆序No.|【Swift】&【题目Title】|【C#】|【C++】|【Java】|【Python3】|难度Difficulty|
 | ------------------  |  --------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 |	1032	|	[字符流 - Stream of Characters](https://www.cnblogs.com/strengthen/p/10744673.html)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/C%23/LeetCode1032.cs)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/LeetCode1032.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/LeetCode1032.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python/LeetCode1032.py)	|	Hard	|
 |	1031	|	[两个非重叠子数组的最大和 - Maximum Sum of Two Non-Overlapping Subarrays](https://www.cnblogs.com/strengthen/p/10744670.html)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/C%23/LeetCode1031.cs)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/LeetCode1031.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/LeetCode1031.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python/LeetCode1031.py)	|	Medium	|
