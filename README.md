@@ -9,8 +9,8 @@
 ### 注1：题目中含有$则为LeetCode收费题目。例:二叉树的上下颠倒 $ Binary Tree Upside Down
 ### 注2：每题2个解法 = 1个(Minimum Runtime Solutions) + 1个(Minimum Memory Usage Solutions)
 ### 注3：win:[Ctrl] + [F] / mac:[command] + [F] → 输入题号快速定位
-|No.|Swift && Title|C++|Java|Python3|C#|JavaScript|Ruby|Go|Difficulty|
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|C#|Difficulty|
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1032	|	[字符流 - Stream of Characters](https://www.cnblogs.com/strengthen/p/10744673.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/C%2B%2B/LeetCode1032.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/Java/LeetCode1032.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/Python3/LeetCode1032.py)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/C%23/LeetCode1032.cs)	|	Hard	|
 |	1031	|	[两个非重叠子数组的最大和 - Maximum Sum of Two Non-Overlapping Subarrays](https://www.cnblogs.com/strengthen/p/10744670.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/C%2B%2B/LeetCode1031.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/Java/LeetCode1031.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/Python3/LeetCode1031.py)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/C%23/LeetCode1031.cs)	|	Medium	|
 |	1030	|	[距离顺序排列矩阵单元格 - Matrix Cells in Distance Order](https://www.cnblogs.com/strengthen/p/10744606.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/C%2B%2B/LeetCode1030.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/Java/LeetCode1030.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/Python3/LeetCode1030.py)	|	[C#](https://github.com/strengthen/LeetCode/blob/master/ProgramingLanguage/C%23/LeetCode1030.cs)	|	Easy	|
