@@ -1,5 +1,10 @@
 __________________________________________________________________________________________________
-
+select dept_name, 
+count(case when student_id is not null then student_id else null end) student_number
+from student s right join department d
+on s.dept_id = d.dept_id
+group by dept_name
+order by student_number desc;
 __________________________________________________________________________________________________
 
 __________________________________________________________________________________________________
