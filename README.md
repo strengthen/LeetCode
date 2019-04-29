@@ -7,7 +7,7 @@
 ## 热烈欢迎小伙伴Fork一下，填坑之后Commit to master!
 ### Swift已完成全部更新：按照逆序题号点击表格中的题目名称。其他编程语言正在努力更新中...
 ### 注1：题目中含有$则为LeetCode收费题目。例:二叉树的上下颠倒 $ Binary Tree Upside Down
-### 注2：每题2个解法 = 1个(Minimum Runtime Solutions) + 1个(Minimum Memory Usage Solutions)
+### 注2：每题2个Solutions = (Minimum Runtime Solution) + (Minimum Memory Usage Solution)
 ### 注3：Mac:[command] + [F] / Windows:[Ctrl] + [F] → 输入题号快速定位
 |逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
