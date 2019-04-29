@@ -4,11 +4,12 @@
 ### 金主打赏时请备注微信号，即刻加您为好友！→ [金主打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html)
 ## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！
 ![Leetcode](./QR_code.png?style=centerme)
-## 热烈欢迎小伙伴Fork一下，填坑之后Commit to master!
-### Swift已完成全部更新：按照逆序题号点击表格中的题目名称。其他编程语言正在努力更新中...
+## 热烈欢迎小伙伴Fork填坑Commit to master!，期待您的加入！！！
+### 广而告之：【C++】、【Swift】已经完成更新，其他编程语言正在努力更新中...
+### 【Swift Solution】：按照逆序题号点击表格中的题目名称。每周日更新最新题目！！！
 ### 注1：题目中含有$则为LeetCode收费题目。例:二叉树的上下颠倒 $ Binary Tree Upside Down
-### 注2：每题2个Solutions = (Minimum Runtime Solution) + (Minimum Memory Usage Solution)
-### 注3：Mac:[command] + [F] / Windows:[Ctrl] + [F] → 输入题号快速定位
+### 注2：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
+### 注3：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1036	|	[逃离大迷宫 - Escape a Large Maze](https://www.cnblogs.com/strengthen/p/10783485.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1036.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1036.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1036.py)	|	Hard	|
