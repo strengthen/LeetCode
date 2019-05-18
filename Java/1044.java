@@ -402,3 +402,74 @@ class Solution {
 			for(int i = 0;i < n;i++)b[c[r[l+a[i]]]++] = a[i];
 		}
 }
+__________________________________________________________________________________________________
+sample 97 ms submission
+class Solution {
+class Node {
+		int []child = new int[26];
+		int fa;
+		int len, pos;
+		int deg, cnt;
+	}
+	Node[] nodes;
+	int last = 1, tot = 1;
+
+	void add(int c, int len) {
+		int p = last;
+		int np = ++tot;
+		last = tot;
+		nodes[np].len = nodes[np].pos = len;
+		nodes[np].cnt = 1;
+		nodes[np].deg = 0;
+		for (;p != 0 && nodes[p].child[c] == 0; p = nodes[p].fa) nodes[p].child[c] = np;
+		if (p == 0) {
+			nodes[np].fa = 1;
+		} else {
+			int q = nodes[p].child[c];
+			if (nodes[p].len + 1 == nodes[q].len) {
+				nodes[np].fa = q;
+			} else {
+				int nq = ++tot;
+				nodes[nq].cnt = 0;
+				nodes[nq].len = nodes[p].len + 1;
+				nodes[nq].pos = nodes[q].pos;
+				nodes[nq].fa = nodes[q].fa;
+				for (int i = 0; i < 26; i++) nodes[nq].child[i] = nodes[q].child[i];
+				nodes[q].fa = nodes[np].fa = nq;
+				for (;p != 0 && nodes[p].child[c] == q; p = nodes[p].fa) nodes[p].child[c] = nq;
+			}
+		}
+	}
+
+	public String longestDupSubstring(String S) {
+		int n = S.length();
+		nodes = new Node[n * 6];
+		for (int i = 0; i < n*6; i++) nodes[i] = new Node();
+		for (int i = 0; i < S.length(); i++) add(S.charAt(i) - 'a', i+1);
+		for (int i = 2; i <= tot; i++) if (nodes[i].fa != 0) {
+			nodes[nodes[i].fa].deg++;
+		}
+		List<Integer> q = new ArrayList<>();
+		for (int i = 2; i <= tot; i++) if (nodes[i].deg == 0) {
+			q.add(i);
+		}
+		for (int j = 0; j < q.size(); j++) {
+			int i = q.get(j);
+			if (nodes[i].fa != 0 ) {
+				nodes[nodes[i].fa].cnt += nodes[i].cnt;
+				if (--nodes[nodes[i].fa].deg == 0) {
+					q.add(nodes[i].fa);
+				}
+			}
+		}
+		int ans = 0;
+		int pos = 0;
+		for (int i = 2; i <= tot; i++) if (nodes[i].cnt > 1) {
+			if (nodes[i].len > ans) {
+				ans = nodes[i].len;
+				pos = nodes[i].pos;
+			}
+		}
+		return S.substring(pos - ans, pos);
+	}
+}
