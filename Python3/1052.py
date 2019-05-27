@@ -1,28 +1,75 @@
 __________________________________________________________________________________________________
+sample 56 ms submission
 class Solution:
     def maxSatisfied(self, customers: List[int], grumpy: List[int], X: int) -> int:
-        
-        # Part 1 requires counting how many customers
-        # are already satisfied, and removing them
-        # from the customer list.
-        already_satisfied = 0
-        for i in range(len(grumpy)):
-            if grumpy[i] == 0: #He's happy
-                already_satisfied += customers[i]
-                customers[i] = 0
-        
-        # Part 2 requires finding the optinal number
-        # of unhappy customers we can make happy.
-        best_we_can_make_satisfied = 0
-        current_satisfied = 0
-        for i, customers_at_time in enumerate(customers):
-            current_satisfied += customers_at_time # Add current to rolling total
-            if i >= X: # We need to remove some from the rolling total
-                current_satisfied -= customers[i - X]
-            best_we_can_make_satisfied = max(best_we_can_make_satisfied, current_satisfied)
-        
-        # The answer is the sum of the solutions for the 2 parts.
-        return already_satisfied + best_we_can_make_satisfied
-__________________________________________________________________________________________________
+        if len(customers) == X:
+            return sum(customers)
 
+        # Compute running total of currently unsatisfied customers
+        # which could be satisfied if X were used here
+        runningTotal = 0
+        satisfiedTotal = 0
+        for i in range(X):
+            if grumpy[i] == 1:
+                runningTotal += customers[i]
+            else:
+                satisfiedTotal += customers[i]
+
+        maxTotal = runningTotal
+
+        for i in range(len(customers)-X):
+            if grumpy[i] == 1:
+                runningTotal -= customers[i]
+
+            if grumpy[i+X] == 1:
+                runningTotal += customers[i+X]
+            else:
+                satisfiedTotal += customers[i+X]
+
+            if runningTotal > maxTotal:
+                maxTotal = runningTotal
+
+        return satisfiedTotal + maxTotal
 __________________________________________________________________________________________________
+sample 60 ms submission
+class Solution:
+    def maxSatisfied(self, customers: List[int], grumpy: List[int], X: int) -> int:
+        if X == 0:
+            return sum([customers[i] for i in range(len(customers)) if not grumpy[i]])
+        if X == len(grumpy):
+            return sum([customers[i] for i in range(len(customers))])
+        if X == 1:
+            return sum([customers[i] for i in range(len(customers)) if not grumpy[i]]) + max([customers[i] for i in range(len(customers)) if grumpy[i]])
+        
+        n = len(customers)
+        st = 0
+        ed = X
+        max_val = sum([customers[i] for i in range(st, ed) if grumpy[i]])
+
+        val = max_val
+        while ed < n:
+            if grumpy[st]:
+                val -= customers[st]
+            if grumpy[ed]:
+                val += customers[ed]
+            st+=1
+            ed+=1
+            if val > max_val:
+                max_val = val
+        return max_val + sum([customers[i] for i in range(len(customers)) if not grumpy[i]])
+__________________________________________________________________________________________________
+sample 64 ms submission
+class Solution:
+    def maxSatisfied(self, customers, grumpy, X):
+        good, N = 0, len(grumpy)
+        for i in range(N):
+            if grumpy[i] == 0:
+                good += customers[i]
+                customers[i] = 0
+
+        best, curr = 0, 0
+        for i, c in enumerate(customers):
+            curr += c
+            if i >= X: curr -= customers[i - X]
+            if curr > best: best = curr
+        return good + best
