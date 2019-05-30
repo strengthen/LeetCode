@@ -1,3 +1,4 @@
+# 热烈欢迎您一起填坑！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 # 技术博客(My Blog) → [山青咏芝](https://www.cnblogs.com/strengthen/)
 ### 本页仅供查找4种编程语言：【Siwft】、【C++】、【Java】、【Python3】
 ### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
@@ -7,7 +8,6 @@
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
 ## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
-## 热烈欢迎小伙伴Fork填坑Commit to master！！！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/ParticipationCourse.md)
 ### 注1：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
 ### 注2：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|Difficulty|
