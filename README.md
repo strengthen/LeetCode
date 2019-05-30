@@ -1,4 +1,4 @@
-### 请点击选择您的LeetCode刷题语言。(排名不分先后，序号按首字母顺序排序)
+### 请您选择LeetCode刷题语言。(排名不分先后，序号按首字母顺序排序)
 ## 1、[【C】](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) 2、[【C++】](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) 3、[【C#】](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) 4、[【Go】](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) 5、[【Java】](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md)
 ## 6、[【JavaScript】](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) 7、[【Kotlin】](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) 8、[【PHP】](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) 9、[【Python】](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) 10、[【Python3】](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md)
 ## 11、[【Ruby】](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) 12、[【Rust】](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) 13、[【Scala】](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) 14、[【Swift】](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md)
