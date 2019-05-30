@@ -10,3 +10,4 @@
 # 5、在本地修改项目文件后，Push到Fork的项目。可以进行多次修改。直到满意为止。
 # 6、在网页端的项目页面，选择：【Branch:master】,点击【New pull request】将修改推送给我。经过我这边确认操作后，修改的文件将合并到本项目。您将会出现在Contributors中。
 # 7、期待您的【pull request】，若有疑问，可扫码加入微信群。
+![Leetcode](./QR_code.png?style=centerme)
