@@ -8,8 +8,8 @@
 ## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
 ![Leetcode](./Image/QR_code.png?style=centerme)
 ### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
-|逆序No.|【Swift】 && 题目【Title】|
-| ------ | ------ |
+|逆序No.|【Swift】 && 题目【Title】| Difficulty |
+| ------ | ------ | ------ |
 |	1054	|	[距离相等的条形码 - Distant Barcodes](https://www.cnblogs.com/strengthen/p/10925094.html)	|	Medium	|
 |	1053	|	[交换一次的先前排列 - Previous Permutation With One Swap](https://www.cnblogs.com/strengthen/p/10925089.html)	|	Medium	|
 |	1052	|	[爱生气的书店老板 - Grumpy Bookstore Owner](https://www.cnblogs.com/strengthen/p/10925087.html)	|	Medium	|
