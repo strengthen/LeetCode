@@ -6,8 +6,8 @@
 ### 点击:[Github注册页面](https://github.com/join?return_to=%2Fstrengthen%2FLeetCode&source=login)
 # 3、在网页端Fork本项目：点击右上角的Fork图标。
 ### 本项目地址：[https://github.com/strengthen/LeetCode](https://github.com/strengthen/LeetCode)
-# 4、从GitHub Desktop种Clone刚才Fork的项目到本地。即下载Fork的项目文件到本地进行操作。
-# 5、在本地修改项目文件后，Push到Fork的项目。可以进行多次修改。直到满意为止。
-# 6、在网页端的项目页面，选择：【Branch:master】,点击【New pull request】将修改推送给我。经过我这边确认操作后，修改的文件将合并到本项目。您将会出现在Contributors中。
-# 7、期待您的【pull request】，若有疑问，可扫码加入微信群。
+# 4、从GitHub Desktop中操作Clone下载刚才Fork的项目到本地计算机进行操作。
+# 5、在本地计算机进行项目文件的修改，然后使用GitHub Desktop的Push操作，将修改同步到您Fork的项目。此时的修改并未同步到本项目master分支。
+# 6、在网页端您Fork的项目主页面，检查：【Branch:master】,然后点击【New pull request】将Fork的项目的修改推送给我。经过这边点击确认后，修改的文件将合并到本项目master分支。您将会出现在Contributors中。
+# 7、期待您的【New pull request】，若有疑问，扫码加入微信群。
 ![Leetcode](./QR_code.png?style=centerme)
