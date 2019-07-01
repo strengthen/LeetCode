@@ -5,7 +5,9 @@
 ## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
 ## ↓微信打赏↓ & ↓支付宝打赏↓ & ↓微信公众号↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
-## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
+## 群聊人数超过100人，只可以通过邀请进入群聊。
+## ↓扫码↓关注群主公众号，回复：666
+## 添加群主为好友，群主拉您入群！每周日准时更新最新题目！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注1：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
 ### 注2：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
