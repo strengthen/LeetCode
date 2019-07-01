@@ -1,4 +1,16 @@
 __________________________________________________________________________________________________
+class Solution {
+    public int twoSumLessThanK(int[] A, int K) {
+        int diff = 1000000;
+        for (int i = 0; i < A.length; i++) for (int j = i + 1; j < A.length; j++) {
+        		if (A[i] + A[j] < K && K - A[i] - A[j] < diff) {
+        			diff = K - A[i] - A[j];
+        		}
+        }
+        if (diff == 1000000) return -1;
+        return K - diff;
+    }
+}
 
 __________________________________________________________________________________________________
 
