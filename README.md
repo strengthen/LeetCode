@@ -6,7 +6,7 @@
 ## ↓微信打赏↓ & ↓支付宝打赏↓ & ↓微信公众号↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
 ## 群聊人数超过100人，只可以通过邀请进入群聊。
-## ↓扫码↓关注群主公众号，回复：666
+## ↓扫码↓关注群主公众号，公众号回复：0
 ## 添加群主为好友，群主拉您入群！每周日准时更新最新题目！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注1：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
