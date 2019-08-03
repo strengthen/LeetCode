@@ -1,6 +1,6 @@
 # 每周日更新最新题解~
 # 请【Star】,勿【Fork】。Fork后的本项目不是最新！！！
-# 点击下方对应链接直接查看题解，不需要下载本项目文件！！！
+# 点击下方对应链接直接查看题解，不需要下载本项目！！！
 ### 注1：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
 ### 注2：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位链接。
 |逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|Difficulty|
