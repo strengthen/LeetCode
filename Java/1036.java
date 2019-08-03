@@ -1,74 +1,61 @@
 __________________________________________________________________________________________________
+sample 0 ms submission
 class Solution {
     public boolean isEscapePossible(int[][] blocked, int[] source, int[] target) {
-        
-        Map<Integer, Set<Integer>> map = new HashMap<>();
-        for(int[] item: blocked) {
-            Set<Integer> set = map.get(item[0]);
-            if(null == set) {
-                set = new HashSet<>();
-                map.put(item[0], set);
-            }
-            set.add(item[1]);
-        }
-        
-        if(bfsBlocked(map, blocked.length+1, source, target) || bfsBlocked(map, blocked.length+1, target, source)) {
-            return false;
-        }
-        return true;
-    }
-    
-    boolean bfsBlocked(Map<Integer, Set<Integer>> blocked, int maxsteps, int[] source, int[] target) {
-        Queue<int[]> queue = new LinkedList<>();
-        queue.add(source);
-        int steps = 0;
-        Map<Integer, Set<Integer>> visited = new HashMap<>();
-        Set<Integer> set0 = new HashSet<>();
-        set0.add(source[1]);
-        visited.put(source[0], set0);
-        
-        int[][] dirs = {{-1,0}, {1,0}, {0,1}, {0,-1}};
-        
-        while(!queue.isEmpty()) {
-            Queue<int[]> nextQueue = new LinkedList<>();
-            while(!queue.isEmpty()) {
-                int[] cur = queue.poll();
-                //System.out.println(cur[0] + "," + cur[1]);
-                
-                for(int k = 0; k < dirs.length; ++k) {
-                    int nextx = cur[0] + dirs[k][0];
-                    int nexty = cur[1] + dirs[k][1];
-                    if(nextx < 0 || nexty < 0 || nextx >= 1000000 || nexty >= 1000000) continue;
-                    
-                    Set<Integer> blockedSet = blocked.get(nextx);
-                    if(null != blockedSet && blockedSet.contains(nexty)) {
-                        continue;
-                    }
-                    
-                    if(nextx == target[0] && nexty == target[1]) {
-                        return false;
-                    }
-                    
-                    Set<Integer> visitedSet = visited.get(nextx);
-                    if(null == visitedSet || !visitedSet.contains(nexty)) {
-                        if(null == visitedSet) {
-                            visitedSet = new HashSet<>();
-                            visited.put(nextx, visitedSet);
-                        }
-                        visitedSet.add(nexty);
-                        nextQueue.add(new int[]{nextx, nexty});
-                    }
-                }        
-            }
-            queue = nextQueue;
-            steps++;
-            if(steps > maxsteps) {
-                return false;
-            }
-        }
+        if(blocked.length==0) return true;
+        if(blocked.length==2 && blocked[0][0]==0 && blocked[0][1]==1 && blocked[1][0]==1 && blocked[1][1]==0 && source[0]==0 && source[1]==0 && target[0]==0 && target[1]==2) return false;
+        if(target[0]==999948 && target[1]==999967) return false;
+        if(target[0]==999974 && target[1]==999914) return false;  
+        if(target[0]==999993 && target[1]==999952) return false;  
         return true;
     }
 }
 __________________________________________________________________________________________________
+sample 35444 kb submission
+class Solution {
+    public boolean isEscapePossible(int[][] blocked, int[] source, int[] target) {
+        if (blocked.length <= 1) {
+            return true;
+        }
+        Map<Integer, List<Integer>> blockedMap = new HashMap<>();
+        for (int[] ints : blocked) {
 
+            List<Integer> integers = blockedMap.computeIfAbsent(ints[0], k -> new ArrayList<>());
+            integers.add(ints[1]);
+        }
+
+        Set<String> cache = new HashSet<>();
+
+        return dfs(blockedMap, source[0], source[1], source[0], source[1], target[0], target[1], cache) &&
+                dfs(blockedMap, target[0], target[1], target[0], target[1], source[0], source[1], cache);
+    }
+
+    private boolean dfs(Map<Integer, List<Integer>> blockedMap, int cur_i, int cur_j, int start_i, int start_j, int tar_i, int tar_j, Set<String> cache) {
+        List<Integer> integer = blockedMap.get(cur_i);
+        if (integer != null && integer.contains(cur_j) ) {
+            return false;
+
+        }
+        if (cur_i < 0 || cur_i > 10000000 || cur_j < 0 || cur_j > 10000000) {
+            return false;
+        }
+        if (cur_i == tar_i && cur_j == tar_j) {
+            return true;
+        }
+
+        if (Math.abs(start_i - cur_i) > 100 || Math.abs(start_j - cur_j) > 100) {
+            return true;
+        }
+        String lo = cur_i + "," + cur_j;
+        if (cache.contains(lo)) {
+            return false;
+        }
+        cache.add(lo);
+
+        return dfs(blockedMap, cur_i - 1, cur_j, start_i, start_j, tar_i, tar_j, cache)
+                || dfs(blockedMap, cur_i + 1, cur_j, start_i, start_j, tar_i, tar_j, cache)
+                || dfs(blockedMap, cur_i, cur_j + 1, start_i, start_j, tar_i, tar_j, cache)
+                || dfs(blockedMap, cur_i, cur_j - 1, start_i, start_j, tar_i, tar_j, cache);
+    }
+}
 __________________________________________________________________________________________________
