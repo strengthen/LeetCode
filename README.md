@@ -1,5 +1,6 @@
-# 请【Star】,勿【Fork】。Fork后的项目不能保持最新。
-# 点击下方链接，不需要下载本项目！！！
+# 每周日更新最新题解~
+# 请【Star】,勿【Fork】。Fork后的本项目不是最新！！！
+# 点击下方对应链接直接查看题解，不需要下载本项目文件！！！
 ### 注1：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
 ### 注2：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位链接。
 |逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|Difficulty|
@@ -1146,10 +1147,7 @@
 
 
 
-## 群聊人数超过100人，只可以通过邀请进入群聊。
-## ↓扫码↓关注群主公众号，公众号回复：0
-## 添加群主为好友，群主拉您入群！每周日准时更新最新题目！
-![Leetcode](./MD/Image/QR_code.png?style=centerme)
+
 # 热烈欢迎您一起填坑！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ### 本页仅供查找4种编程语言：【Siwft】、【C++】、【Java】、【Python3】
 ### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
@@ -1157,3 +1155,7 @@
 ## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
 ## ↓微信打赏↓ & ↓支付宝打赏↓ & ↓微信公众号↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
+## 群聊人数超过100人，只可以通过邀请进入群聊。
+## ↓扫码↓关注群主公众号，公众号回复：0
+## 添加群主为好友，群主拉您入群！每周日准时更新最新题目！
+![Leetcode](./MD/Image/QR_code.png?style=centerme)
