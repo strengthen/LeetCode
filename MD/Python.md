@@ -3,13 +3,106 @@
 ### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
 ## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md)|
 ## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md)|
-## ↓微信打赏↓ & ↓支付宝打赏↓ & ↓微信公众号↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
+## ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./Image/WX_ZFB.png?style=centerme)
 ## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
 ![Leetcode](./Image/QR_code.png?style=centerme)
 ### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】| Python | Difficulty |
 | ------ | ------ | ------ | ------ |
+|	1147	|	[段式回文 - Longest Chunked Palindrome Decomposition](https://www.cnblogs.com/strengthen/p/11297775.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1147.py)	|	Hard	|
+|	1146	|	[快照数组 - Snapshot Array](https://www.cnblogs.com/strengthen/p/11297779.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1146.py)	|	Medium	|
+|	1145	|	[二叉树着色游戏 - Binary Tree Coloring Game](https://www.cnblogs.com/strengthen/p/11297770.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1145.py)	|	Hard	|
+|	1144	|	[递减元素使数组呈锯齿状 - Decrease Elements To Make Array Zigzag](https://www.cnblogs.com/strengthen/p/11297773.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1144.py)	|	Easy	|
+|	1143	|	[最长公共子序列 - Longest Common Subsequence](https://www.cnblogs.com/strengthen/p/11297774.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1143.py)	|	Easy	|
+|	1142	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1142.py)	|	Medium	|
+|	1141	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1141.py)	|	Medium	|
+|	1140	|	[石子游戏 II - Stone Game II](https://www.cnblogs.com/strengthen/p/11258434.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1140.py)	|	Medium	|
+|	1139	|	[最大的以 1 为边界的正方形 - Largest 1-Bordered Square](https://www.cnblogs.com/strengthen/p/11258432.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1139.py)	|	Medium	|
+|	1138	|	[字母板上的路径 - Alphabet Board Path](https://www.cnblogs.com/strengthen/p/11258427.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1138.py)	|	Medium	|
+|	1137	|	[第 N 个泰波那契数 - N-th Tribonacci Number](https://www.cnblogs.com/strengthen/p/11258425.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1137.py)	|	Easy	|
+|	1136	|	[平行课程 - Parallel Courses](https://www.cnblogs.com/strengthen/p/11258424.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1136.py)	|	Hard	|
+|	1135	|	[最低成本联通所有城市 - Connecting Cities With Minimum Cost](https://www.cnblogs.com/strengthen/p/11258422.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1135.py)	|	Medium	|
+|	1134	|	[阿姆斯特朗数 - Armstrong Number](https://www.cnblogs.com/strengthen/p/11258419.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1134.py)	|	Hard	|
+|	1133	|	[最大唯一数 - Largest Unique Number](https://www.cnblogs.com/strengthen/p/11258418.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1133.py)	|	Easy	|
+|	1132	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1132.py)	|	Easy	|
+|	1131	|	[绝对值表达式的最大值 - Maximum of Absolute Value Expression](https://www.cnblogs.com/strengthen/p/11223723.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1131.py)	|	Medium	|
+|	1130	|	[叶值的最小代价生成树 - Minimum Cost Tree From Leaf Values](https://www.cnblogs.com/strengthen/p/11223721.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1130.py)	|	Medium	|
+|	1129	|	[颜色交替的最短路径 - Shortest Path with Alternating Colors](https://www.cnblogs.com/strengthen/p/11179555.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1129.py)	|	Medium	|
+|	1128	|	[等价多米诺骨牌对的数量 - Number of Equivalent Domino Pairs](https://www.cnblogs.com/strengthen/p/11179560.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1128.py)	|	Easy	|
+|	1127	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1127.py)	|	Hard	|
+|	1126	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1126.py)	|	Medium	|
+|	1125	|	[最小的必要团队 - Smallest Sufficient Team](https://www.cnblogs.com/strengthen/p/11179545.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1125.py)	|	Hard	|
+|	1124	|	[表现良好的最长时间段 - Longest Well-Performing Interval](https://www.cnblogs.com/strengthen/p/11179548.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1124.py)	|	Medium	|
+|	1123	|	[最深叶节点的最近公共祖先 - Lowest Common Ancestor of Deepest Leaves](https://www.cnblogs.com/strengthen/p/11179481.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1123.py)	|	Medium	|
+|	1122	|	[数组的相对排序 - Relative Sort Array](https://www.cnblogs.com/strengthen/p/11179476.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1122.py)	|	Easy	|
+|	1121	|	[将数组分成几个递增序列 - Divide Array Into Increasing Sequences](https://www.cnblogs.com/strengthen/p/11179565.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1121.py)	|	Hard	|
+|	1120	|	[子树的最大平均值 - Maximum Average Subtree](https://www.cnblogs.com/strengthen/p/11179550.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1120.py)	|	Medium	|
+|	1119	|	[删去字符串中的元音 - Remove Vowels from a String](https://www.cnblogs.com/strengthen/p/11179552.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1119.py)	|	Easy	|
+|	1118	|	[一月有多少天 - Number of Days in a Month](https://www.cnblogs.com/strengthen/p/11179554.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1118.py)	|	Easy	|
+|	1117	|	[H2O 生成 - Building H2O](https://www.cnblogs.com/strengthen/p/11289221.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1117.py)	|	Hard	|
+|	1116	|	[打印零与奇偶数 - Print Zero Even Odd](https://www.cnblogs.com/strengthen/p/11289223.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1116.py)	|	Medium	|
+|	1115	|	[交替打印FooBar - Print FooBar Alternately](https://www.cnblogs.com/strengthen/p/11289225.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1115.py)	|	Medium	|
+|	1114	|	[按序打印 - Print in Order](https://www.cnblogs.com/strengthen/p/11289226.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1114.py)	|	Easy	|
+|	1113	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1113.py)	|	Easy	|
+|	1112	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1112.py)	|	Medium	|
+|	1111	|	[有效括号的嵌套深度 - Maximum Nesting Depth of Two Valid Parentheses Strings](https://www.cnblogs.com/strengthen/p/11112217.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1111.py)	|	Medium	|
+|	1110	|	[删点成林 - Delete Nodes And Return Forest](https://www.cnblogs.com/strengthen/p/11112218.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1110.py)	|	Medium	|
+|	1109	|	[航班预订统计 - Corporate Flight Bookings](https://www.cnblogs.com/strengthen/p/11112219.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1109.py)	|	Medium	|
+|	1108	|	[IP 地址无效化 - Defanging an IP Address](https://www.cnblogs.com/strengthen/p/11112213.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1108.py)	|	Easy	|
+|	1107	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1107.py)	|	Medium	|
+|	1106	|	[解析布尔表达式 - Parsing A Boolean Expression](https://www.cnblogs.com/strengthen/p/11096570.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1106.py)	|	Hard	|
+|	1105	|	[填充书架 - Filling Bookcase Shelves](https://www.cnblogs.com/strengthen/p/11096572.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1105.py)	|	Medium	|
+|	1104	|	[二叉树寻路 - Path In Zigzag Labelled Binary Tree](https://www.cnblogs.com/strengthen/p/11096576.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1104.py)	|	Easy	|
+|	1103	|	[分糖果 II - Distribute Candies to People](https://www.cnblogs.com/strengthen/p/11096567.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1103.py)	|	Easy	|
+|	1102	|	[得分最高的路径 - Path With Maximum Minimum Value](https://www.cnblogs.com/strengthen/p/11096561.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1102.py)	|	Medium	|
+|	1101	|	[彼此熟识的最早时间 - The Earliest Moment When Everyone Become Friends](https://www.cnblogs.com/strengthen/p/11075289.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1101.py)	|	Medium	|
+|	1100	|	[长度为 K 的无重复字符子串 - Find K-Length Substrings With No Repeated Characters](https://www.cnblogs.com/strengthen/p/11075293.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1100.py)	|	Medium	|
+|	1099	|	[小于 K 的两数之和 - Two Sum Less Than K](https://www.cnblogs.com/strengthen/p/11075284.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1099.py)	|	Easy	|
+|	1098	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1098.py)	|	Medium	|
+|	1097	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1097.py)	|	Hard	|
+|	1096	|	[花括号展开 II - Brace Expansion II](https://www.cnblogs.com/strengthen/p/11032169.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1096.py)	|	Hard	|
+|	1095	|	[山脉数组中查找目标值 - Find in Mountain Array](https://www.cnblogs.com/strengthen/p/11032162.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1095.py)	|	Hard	|
+|	1094	|	[拼车 - Car Pooling](https://www.cnblogs.com/strengthen/p/11032164.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1094.py)	|	Medium	|
+|	1093	|	[大样本统计 - Statistics from a Large Sample](https://www.cnblogs.com/strengthen/p/11032157.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1093.py)	|	Medium	|
+|	1092	|	[最短公共超序列 - Shortest Common Supersequence](https://www.cnblogs.com/strengthen/p/11014399.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1092.py)	|	Hard	|
+|	1091	|	[二进制矩阵中的最短路径 - Shortest Path in Binary Matrix](https://www.cnblogs.com/strengthen/p/11014400.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1091.py)	|	Medium	|
+|	1090	|	[受标签影响的最大值 - Largest Values From Labels](https://www.cnblogs.com/strengthen/p/11014404.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1090.py)	|	Medium	|
+|	1089	|	[复写零 - Duplicate Zeros](https://www.cnblogs.com/strengthen/p/11014391.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1089.py)	|	Easy	|
+|	1088	|	[易混淆数 II - Confusing Number II](https://www.cnblogs.com/strengthen/p/11014408.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1088.py)	|	Hard	|
+|	1087	|	[字母切换 - Permutation of Letters](https://www.cnblogs.com/strengthen/p/11031602.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1087.py)	|	Medium	|
+|	1086	|	[前五科的均分 - High Five](https://www.cnblogs.com/strengthen/p/11014413.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1086.py)	|	Easy	|
+|	1085	|	[最小元素各数位之和 - Sum of Digits in the Minimum Number](https://www.cnblogs.com/strengthen/p/11014397.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1085.py)	|	Easy	|
+|	1084	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1084.py)	|	Easy	|
+|	1083	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1083.py)	|	Easy	|
+|	1082	|		|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1082.py)	|	Easy	|
+|	1081	|	[不同字符的最小子序列 - Smallest Subsequence of Distinct Characters](https://www.cnblogs.com/strengthen/p/10993157.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1081.py)	|	Medium	|
+|	1080	|	[根到叶路径上的不足节点 - Insufficient Nodes in Root to Leaf Paths](https://www.cnblogs.com/strengthen/p/10993155.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1080.py)	|	Medium	|
+|	1079	|	[活字印刷 - Letter Tile Possibilities](https://www.cnblogs.com/strengthen/p/10993151.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1079.py)	|	Medium	|
+|	1078	|	[Bigram 分词 - Occurrences After Bigram](https://www.cnblogs.com/strengthen/p/10993147.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1078.py)	|	Easy	|
+|	1077	|	[Project Employees III $ 项目员工 III]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1077.py)	|	Medium	|
+|	1076	|	[Project Employees II $ 项目员工 II]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1076.py)	|	Easy	|
+|	1075	|	[Project Employees I $ 项目员工 I]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1075.py)	|	Easy	|
+|	1074	|	[元素和为目标值的子矩阵数量 - Number of Submatrices That Sum to Target](https://www.cnblogs.com/strengthen/p/10962954.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1074.py)	|	Hard	|
+|	1073	|	[负二进制数相加 - Adding Two Negabinary Numbers](https://www.cnblogs.com/strengthen/p/10962909.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1073.py)	|	Medium	|
+|	1072	|	[按列翻转得到最大值等行数 - Flip Columns For Maximum Number of Equal Rows](https://www.cnblogs.com/strengthen/p/10962559.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1072.py)	|	Medium	|
+|	1071	|	[字符串的最大公因子 - Greatest Common Divisor of Strings](https://www.cnblogs.com/strengthen/p/10961687.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1071.py)	|	Easy	|
+|	1070	|	[产品销售分析III $ Product Sales Analysis III]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1070.py)	|	Medium	|
+|	1069	|	[产品销售分析II $ Product Sales Analysis II]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1069.py)	|	Easy	|
+|	1068	|	[产品销售分析I $ Product Sales Analysis I]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1068.py)	|	Easy	|
+|	1067	|	[范围内的数字计数 - Digit Count in Range](https://www.cnblogs.com/strengthen/p/10961687.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1067.py)	|	Hard	|
+|	1066	|	[校园自行车分配 II - Campus Bikes II](https://www.cnblogs.com/strengthen/p/10961684.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1066.py)	|	Medium	|
+|	1065	|	[字符串的索引对 - Index Pairs of a String](https://www.cnblogs.com/strengthen/p/10961676.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1065.py)	|	Easy	|
+|	1064	|	[不动点 - Fixed Point](https://www.cnblogs.com/strengthen/p/10961671.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1064.py)	|	Easy	|
+|	1063	|	[有效子数组数 $ Number of Valid Subarrays]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1063.py)	|	Hard	|
+|	1062	|	[最长重复子字符串 $ Longest Repeating Substring]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1062.py)	|	Medium	|
+|	1061	|	[词典最小等价字符串 $ Lexicographically Smallest Equivalent String]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1061.py)	|	Medium	|
+|	1060	|	[排序数组中缺少元素 $ Missing Element in Sorted Array]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1060.py)	|	Medium	|
+|	1059	|	[从源头到目的地的所有路径 $ All Paths from Source Lead to Destination]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1059.py)	|	Hard	|
+|	1058	|	[最小化舍入误差以达到目标 $ Minimize Rounding Error to Meet Target]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1058.py)	|	Medium	|
+|	1057	|	[校园自行车 $ Campus Bikes]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1057.py)	|	Medium	|
+|	1056	|	[混淆的数字 $ Confusing Number]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1056.py)	|	Easy	|
+|	1055	|	[形成字符串的最短方法 $ Shortest Way to Form String]	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1055.py)	|	Medium	|
 |	1054	|	[距离相等的条形码 - Distant Barcodes](https://www.cnblogs.com/strengthen/p/10925094.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1054.py)	|	Medium	|
 |	1053	|	[交换一次的先前排列 - Previous Permutation With One Swap](https://www.cnblogs.com/strengthen/p/10925089.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1053.py)	|	Medium	|
 |	1052	|	[爱生气的书店老板 - Grumpy Bookstore Owner](https://www.cnblogs.com/strengthen/p/10925087.html)	|	[Python](https://github.com/strengthen/LeetCode/tree/master/Python/1052.py)	|	Medium	|

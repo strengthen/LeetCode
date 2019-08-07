@@ -3,13 +3,106 @@
 ### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
 ## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md)|
 ## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md)|
-## ↓微信打赏↓ & ↓支付宝打赏↓ & ↓微信公众号↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
+## ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./Image/WX_ZFB.png?style=centerme)
 ## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
 ![Leetcode](./Image/QR_code.png?style=centerme)
 ### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】| PHP | Difficulty |
 | ------ | ------ | ------ | ------ |
+|	1147	|	[段式回文 - Longest Chunked Palindrome Decomposition](https://www.cnblogs.com/strengthen/p/11297775.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1147.php)	|	Hard	|
+|	1146	|	[快照数组 - Snapshot Array](https://www.cnblogs.com/strengthen/p/11297779.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1146.php)	|	Medium	|
+|	1145	|	[二叉树着色游戏 - Binary Tree Coloring Game](https://www.cnblogs.com/strengthen/p/11297770.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1145.php)	|	Hard	|
+|	1144	|	[递减元素使数组呈锯齿状 - Decrease Elements To Make Array Zigzag](https://www.cnblogs.com/strengthen/p/11297773.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1144.php)	|	Easy	|
+|	1143	|	[最长公共子序列 - Longest Common Subsequence](https://www.cnblogs.com/strengthen/p/11297774.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1143.php)	|	Easy	|
+|	1142	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1142.php)	|	Medium	|
+|	1141	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1141.php)	|	Medium	|
+|	1140	|	[石子游戏 II - Stone Game II](https://www.cnblogs.com/strengthen/p/11258434.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1140.php)	|	Medium	|
+|	1139	|	[最大的以 1 为边界的正方形 - Largest 1-Bordered Square](https://www.cnblogs.com/strengthen/p/11258432.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1139.php)	|	Medium	|
+|	1138	|	[字母板上的路径 - Alphabet Board Path](https://www.cnblogs.com/strengthen/p/11258427.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1138.php)	|	Medium	|
+|	1137	|	[第 N 个泰波那契数 - N-th Tribonacci Number](https://www.cnblogs.com/strengthen/p/11258425.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1137.php)	|	Easy	|
+|	1136	|	[平行课程 - Parallel Courses](https://www.cnblogs.com/strengthen/p/11258424.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1136.php)	|	Hard	|
+|	1135	|	[最低成本联通所有城市 - Connecting Cities With Minimum Cost](https://www.cnblogs.com/strengthen/p/11258422.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1135.php)	|	Medium	|
+|	1134	|	[阿姆斯特朗数 - Armstrong Number](https://www.cnblogs.com/strengthen/p/11258419.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1134.php)	|	Hard	|
+|	1133	|	[最大唯一数 - Largest Unique Number](https://www.cnblogs.com/strengthen/p/11258418.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1133.php)	|	Easy	|
+|	1132	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1132.php)	|	Easy	|
+|	1131	|	[绝对值表达式的最大值 - Maximum of Absolute Value Expression](https://www.cnblogs.com/strengthen/p/11223723.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1131.php)	|	Medium	|
+|	1130	|	[叶值的最小代价生成树 - Minimum Cost Tree From Leaf Values](https://www.cnblogs.com/strengthen/p/11223721.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1130.php)	|	Medium	|
+|	1129	|	[颜色交替的最短路径 - Shortest Path with Alternating Colors](https://www.cnblogs.com/strengthen/p/11179555.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1129.php)	|	Medium	|
+|	1128	|	[等价多米诺骨牌对的数量 - Number of Equivalent Domino Pairs](https://www.cnblogs.com/strengthen/p/11179560.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1128.php)	|	Easy	|
+|	1127	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1127.php)	|	Hard	|
+|	1126	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1126.php)	|	Medium	|
+|	1125	|	[最小的必要团队 - Smallest Sufficient Team](https://www.cnblogs.com/strengthen/p/11179545.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1125.php)	|	Hard	|
+|	1124	|	[表现良好的最长时间段 - Longest Well-Performing Interval](https://www.cnblogs.com/strengthen/p/11179548.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1124.php)	|	Medium	|
+|	1123	|	[最深叶节点的最近公共祖先 - Lowest Common Ancestor of Deepest Leaves](https://www.cnblogs.com/strengthen/p/11179481.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1123.php)	|	Medium	|
+|	1122	|	[数组的相对排序 - Relative Sort Array](https://www.cnblogs.com/strengthen/p/11179476.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1122.php)	|	Easy	|
+|	1121	|	[将数组分成几个递增序列 - Divide Array Into Increasing Sequences](https://www.cnblogs.com/strengthen/p/11179565.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1121.php)	|	Hard	|
+|	1120	|	[子树的最大平均值 - Maximum Average Subtree](https://www.cnblogs.com/strengthen/p/11179550.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1120.php)	|	Medium	|
+|	1119	|	[删去字符串中的元音 - Remove Vowels from a String](https://www.cnblogs.com/strengthen/p/11179552.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1119.php)	|	Easy	|
+|	1118	|	[一月有多少天 - Number of Days in a Month](https://www.cnblogs.com/strengthen/p/11179554.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1118.php)	|	Easy	|
+|	1117	|	[H2O 生成 - Building H2O](https://www.cnblogs.com/strengthen/p/11289221.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1117.php)	|	Hard	|
+|	1116	|	[打印零与奇偶数 - Print Zero Even Odd](https://www.cnblogs.com/strengthen/p/11289223.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1116.php)	|	Medium	|
+|	1115	|	[交替打印FooBar - Print FooBar Alternately](https://www.cnblogs.com/strengthen/p/11289225.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1115.php)	|	Medium	|
+|	1114	|	[按序打印 - Print in Order](https://www.cnblogs.com/strengthen/p/11289226.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1114.php)	|	Easy	|
+|	1113	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1113.php)	|	Easy	|
+|	1112	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1112.php)	|	Medium	|
+|	1111	|	[有效括号的嵌套深度 - Maximum Nesting Depth of Two Valid Parentheses Strings](https://www.cnblogs.com/strengthen/p/11112217.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1111.php)	|	Medium	|
+|	1110	|	[删点成林 - Delete Nodes And Return Forest](https://www.cnblogs.com/strengthen/p/11112218.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1110.php)	|	Medium	|
+|	1109	|	[航班预订统计 - Corporate Flight Bookings](https://www.cnblogs.com/strengthen/p/11112219.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1109.php)	|	Medium	|
+|	1108	|	[IP 地址无效化 - Defanging an IP Address](https://www.cnblogs.com/strengthen/p/11112213.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1108.php)	|	Easy	|
+|	1107	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1107.php)	|	Medium	|
+|	1106	|	[解析布尔表达式 - Parsing A Boolean Expression](https://www.cnblogs.com/strengthen/p/11096570.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1106.php)	|	Hard	|
+|	1105	|	[填充书架 - Filling Bookcase Shelves](https://www.cnblogs.com/strengthen/p/11096572.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1105.php)	|	Medium	|
+|	1104	|	[二叉树寻路 - Path In Zigzag Labelled Binary Tree](https://www.cnblogs.com/strengthen/p/11096576.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1104.php)	|	Easy	|
+|	1103	|	[分糖果 II - Distribute Candies to People](https://www.cnblogs.com/strengthen/p/11096567.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1103.php)	|	Easy	|
+|	1102	|	[得分最高的路径 - Path With Maximum Minimum Value](https://www.cnblogs.com/strengthen/p/11096561.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1102.php)	|	Medium	|
+|	1101	|	[彼此熟识的最早时间 - The Earliest Moment When Everyone Become Friends](https://www.cnblogs.com/strengthen/p/11075289.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1101.php)	|	Medium	|
+|	1100	|	[长度为 K 的无重复字符子串 - Find K-Length Substrings With No Repeated Characters](https://www.cnblogs.com/strengthen/p/11075293.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1100.php)	|	Medium	|
+|	1099	|	[小于 K 的两数之和 - Two Sum Less Than K](https://www.cnblogs.com/strengthen/p/11075284.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1099.php)	|	Easy	|
+|	1098	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1098.php)	|	Medium	|
+|	1097	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1097.php)	|	Hard	|
+|	1096	|	[花括号展开 II - Brace Expansion II](https://www.cnblogs.com/strengthen/p/11032169.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1096.php)	|	Hard	|
+|	1095	|	[山脉数组中查找目标值 - Find in Mountain Array](https://www.cnblogs.com/strengthen/p/11032162.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1095.php)	|	Hard	|
+|	1094	|	[拼车 - Car Pooling](https://www.cnblogs.com/strengthen/p/11032164.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1094.php)	|	Medium	|
+|	1093	|	[大样本统计 - Statistics from a Large Sample](https://www.cnblogs.com/strengthen/p/11032157.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1093.php)	|	Medium	|
+|	1092	|	[最短公共超序列 - Shortest Common Supersequence](https://www.cnblogs.com/strengthen/p/11014399.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1092.php)	|	Hard	|
+|	1091	|	[二进制矩阵中的最短路径 - Shortest Path in Binary Matrix](https://www.cnblogs.com/strengthen/p/11014400.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1091.php)	|	Medium	|
+|	1090	|	[受标签影响的最大值 - Largest Values From Labels](https://www.cnblogs.com/strengthen/p/11014404.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1090.php)	|	Medium	|
+|	1089	|	[复写零 - Duplicate Zeros](https://www.cnblogs.com/strengthen/p/11014391.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1089.php)	|	Easy	|
+|	1088	|	[易混淆数 II - Confusing Number II](https://www.cnblogs.com/strengthen/p/11014408.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1088.php)	|	Hard	|
+|	1087	|	[字母切换 - Permutation of Letters](https://www.cnblogs.com/strengthen/p/11031602.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1087.php)	|	Medium	|
+|	1086	|	[前五科的均分 - High Five](https://www.cnblogs.com/strengthen/p/11014413.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1086.php)	|	Easy	|
+|	1085	|	[最小元素各数位之和 - Sum of Digits in the Minimum Number](https://www.cnblogs.com/strengthen/p/11014397.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1085.php)	|	Easy	|
+|	1084	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1084.php)	|	Easy	|
+|	1083	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1083.php)	|	Easy	|
+|	1082	|		|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1082.php)	|	Easy	|
+|	1081	|	[不同字符的最小子序列 - Smallest Subsequence of Distinct Characters](https://www.cnblogs.com/strengthen/p/10993157.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1081.php)	|	Medium	|
+|	1080	|	[根到叶路径上的不足节点 - Insufficient Nodes in Root to Leaf Paths](https://www.cnblogs.com/strengthen/p/10993155.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1080.php)	|	Medium	|
+|	1079	|	[活字印刷 - Letter Tile Possibilities](https://www.cnblogs.com/strengthen/p/10993151.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1079.php)	|	Medium	|
+|	1078	|	[Bigram 分词 - Occurrences After Bigram](https://www.cnblogs.com/strengthen/p/10993147.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1078.php)	|	Easy	|
+|	1077	|	[Project Employees III $ 项目员工 III]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1077.php)	|	Medium	|
+|	1076	|	[Project Employees II $ 项目员工 II]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1076.php)	|	Easy	|
+|	1075	|	[Project Employees I $ 项目员工 I]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1075.php)	|	Easy	|
+|	1074	|	[元素和为目标值的子矩阵数量 - Number of Submatrices That Sum to Target](https://www.cnblogs.com/strengthen/p/10962954.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1074.php)	|	Hard	|
+|	1073	|	[负二进制数相加 - Adding Two Negabinary Numbers](https://www.cnblogs.com/strengthen/p/10962909.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1073.php)	|	Medium	|
+|	1072	|	[按列翻转得到最大值等行数 - Flip Columns For Maximum Number of Equal Rows](https://www.cnblogs.com/strengthen/p/10962559.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1072.php)	|	Medium	|
+|	1071	|	[字符串的最大公因子 - Greatest Common Divisor of Strings](https://www.cnblogs.com/strengthen/p/10961687.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1071.php)	|	Easy	|
+|	1070	|	[产品销售分析III $ Product Sales Analysis III]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1070.php)	|	Medium	|
+|	1069	|	[产品销售分析II $ Product Sales Analysis II]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1069.php)	|	Easy	|
+|	1068	|	[产品销售分析I $ Product Sales Analysis I]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1068.php)	|	Easy	|
+|	1067	|	[范围内的数字计数 - Digit Count in Range](https://www.cnblogs.com/strengthen/p/10961687.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1067.php)	|	Hard	|
+|	1066	|	[校园自行车分配 II - Campus Bikes II](https://www.cnblogs.com/strengthen/p/10961684.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1066.php)	|	Medium	|
+|	1065	|	[字符串的索引对 - Index Pairs of a String](https://www.cnblogs.com/strengthen/p/10961676.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1065.php)	|	Easy	|
+|	1064	|	[不动点 - Fixed Point](https://www.cnblogs.com/strengthen/p/10961671.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1064.php)	|	Easy	|
+|	1063	|	[有效子数组数 $ Number of Valid Subarrays]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1063.php)	|	Hard	|
+|	1062	|	[最长重复子字符串 $ Longest Repeating Substring]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1062.php)	|	Medium	|
+|	1061	|	[词典最小等价字符串 $ Lexicographically Smallest Equivalent String]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1061.php)	|	Medium	|
+|	1060	|	[排序数组中缺少元素 $ Missing Element in Sorted Array]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1060.php)	|	Medium	|
+|	1059	|	[从源头到目的地的所有路径 $ All Paths from Source Lead to Destination]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1059.php)	|	Hard	|
+|	1058	|	[最小化舍入误差以达到目标 $ Minimize Rounding Error to Meet Target]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1058.php)	|	Medium	|
+|	1057	|	[校园自行车 $ Campus Bikes]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1057.php)	|	Medium	|
+|	1056	|	[混淆的数字 $ Confusing Number]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1056.php)	|	Easy	|
+|	1055	|	[形成字符串的最短方法 $ Shortest Way to Form String]	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1055.php)	|	Medium	|
 |	1054	|	[距离相等的条形码 - Distant Barcodes](https://www.cnblogs.com/strengthen/p/10925094.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1054.php)	|	Medium	|
 |	1053	|	[交换一次的先前排列 - Previous Permutation With One Swap](https://www.cnblogs.com/strengthen/p/10925089.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1053.php)	|	Medium	|
 |	1052	|	[爱生气的书店老板 - Grumpy Bookstore Owner](https://www.cnblogs.com/strengthen/p/10925087.html)	|	[PHP](https://github.com/strengthen/LeetCode/tree/master/PHP/1052.php)	|	Medium	|

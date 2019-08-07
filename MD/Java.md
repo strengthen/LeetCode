@@ -3,13 +3,106 @@
 ### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
 ## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md)|
 ## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md)|
-## ↓微信打赏↓ & ↓支付宝打赏↓ & ↓微信公众号↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
+## ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./Image/WX_ZFB.png?style=centerme)
 ## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
 ![Leetcode](./Image/QR_code.png?style=centerme)
 ### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】| Java | Difficulty |
 | ------ | ------ | ------ | ------ |
+|	1147	|	[段式回文 - Longest Chunked Palindrome Decomposition](https://www.cnblogs.com/strengthen/p/11297775.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1147.java)	|	Hard	|
+|	1146	|	[快照数组 - Snapshot Array](https://www.cnblogs.com/strengthen/p/11297779.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1146.java)	|	Medium	|
+|	1145	|	[二叉树着色游戏 - Binary Tree Coloring Game](https://www.cnblogs.com/strengthen/p/11297770.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1145.java)	|	Hard	|
+|	1144	|	[递减元素使数组呈锯齿状 - Decrease Elements To Make Array Zigzag](https://www.cnblogs.com/strengthen/p/11297773.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1144.java)	|	Easy	|
+|	1143	|	[最长公共子序列 - Longest Common Subsequence](https://www.cnblogs.com/strengthen/p/11297774.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1143.java)	|	Easy	|
+|	1142	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1142.java)	|	Medium	|
+|	1141	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1141.java)	|	Medium	|
+|	1140	|	[石子游戏 II - Stone Game II](https://www.cnblogs.com/strengthen/p/11258434.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1140.java)	|	Medium	|
+|	1139	|	[最大的以 1 为边界的正方形 - Largest 1-Bordered Square](https://www.cnblogs.com/strengthen/p/11258432.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1139.java)	|	Medium	|
+|	1138	|	[字母板上的路径 - Alphabet Board Path](https://www.cnblogs.com/strengthen/p/11258427.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1138.java)	|	Medium	|
+|	1137	|	[第 N 个泰波那契数 - N-th Tribonacci Number](https://www.cnblogs.com/strengthen/p/11258425.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1137.java)	|	Easy	|
+|	1136	|	[平行课程 - Parallel Courses](https://www.cnblogs.com/strengthen/p/11258424.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1136.java)	|	Hard	|
+|	1135	|	[最低成本联通所有城市 - Connecting Cities With Minimum Cost](https://www.cnblogs.com/strengthen/p/11258422.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1135.java)	|	Medium	|
+|	1134	|	[阿姆斯特朗数 - Armstrong Number](https://www.cnblogs.com/strengthen/p/11258419.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1134.java)	|	Hard	|
+|	1133	|	[最大唯一数 - Largest Unique Number](https://www.cnblogs.com/strengthen/p/11258418.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1133.java)	|	Easy	|
+|	1132	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1132.java)	|	Easy	|
+|	1131	|	[绝对值表达式的最大值 - Maximum of Absolute Value Expression](https://www.cnblogs.com/strengthen/p/11223723.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1131.java)	|	Medium	|
+|	1130	|	[叶值的最小代价生成树 - Minimum Cost Tree From Leaf Values](https://www.cnblogs.com/strengthen/p/11223721.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1130.java)	|	Medium	|
+|	1129	|	[颜色交替的最短路径 - Shortest Path with Alternating Colors](https://www.cnblogs.com/strengthen/p/11179555.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1129.java)	|	Medium	|
+|	1128	|	[等价多米诺骨牌对的数量 - Number of Equivalent Domino Pairs](https://www.cnblogs.com/strengthen/p/11179560.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1128.java)	|	Easy	|
+|	1127	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1127.java)	|	Hard	|
+|	1126	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1126.java)	|	Medium	|
+|	1125	|	[最小的必要团队 - Smallest Sufficient Team](https://www.cnblogs.com/strengthen/p/11179545.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1125.java)	|	Hard	|
+|	1124	|	[表现良好的最长时间段 - Longest Well-Performing Interval](https://www.cnblogs.com/strengthen/p/11179548.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1124.java)	|	Medium	|
+|	1123	|	[最深叶节点的最近公共祖先 - Lowest Common Ancestor of Deepest Leaves](https://www.cnblogs.com/strengthen/p/11179481.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1123.java)	|	Medium	|
+|	1122	|	[数组的相对排序 - Relative Sort Array](https://www.cnblogs.com/strengthen/p/11179476.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1122.java)	|	Easy	|
+|	1121	|	[将数组分成几个递增序列 - Divide Array Into Increasing Sequences](https://www.cnblogs.com/strengthen/p/11179565.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1121.java)	|	Hard	|
+|	1120	|	[子树的最大平均值 - Maximum Average Subtree](https://www.cnblogs.com/strengthen/p/11179550.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1120.java)	|	Medium	|
+|	1119	|	[删去字符串中的元音 - Remove Vowels from a String](https://www.cnblogs.com/strengthen/p/11179552.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1119.java)	|	Easy	|
+|	1118	|	[一月有多少天 - Number of Days in a Month](https://www.cnblogs.com/strengthen/p/11179554.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1118.java)	|	Easy	|
+|	1117	|	[H2O 生成 - Building H2O](https://www.cnblogs.com/strengthen/p/11289221.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1117.java)	|	Hard	|
+|	1116	|	[打印零与奇偶数 - Print Zero Even Odd](https://www.cnblogs.com/strengthen/p/11289223.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1116.java)	|	Medium	|
+|	1115	|	[交替打印FooBar - Print FooBar Alternately](https://www.cnblogs.com/strengthen/p/11289225.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1115.java)	|	Medium	|
+|	1114	|	[按序打印 - Print in Order](https://www.cnblogs.com/strengthen/p/11289226.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1114.java)	|	Easy	|
+|	1113	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1113.java)	|	Easy	|
+|	1112	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1112.java)	|	Medium	|
+|	1111	|	[有效括号的嵌套深度 - Maximum Nesting Depth of Two Valid Parentheses Strings](https://www.cnblogs.com/strengthen/p/11112217.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1111.java)	|	Medium	|
+|	1110	|	[删点成林 - Delete Nodes And Return Forest](https://www.cnblogs.com/strengthen/p/11112218.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1110.java)	|	Medium	|
+|	1109	|	[航班预订统计 - Corporate Flight Bookings](https://www.cnblogs.com/strengthen/p/11112219.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1109.java)	|	Medium	|
+|	1108	|	[IP 地址无效化 - Defanging an IP Address](https://www.cnblogs.com/strengthen/p/11112213.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1108.java)	|	Easy	|
+|	1107	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1107.java)	|	Medium	|
+|	1106	|	[解析布尔表达式 - Parsing A Boolean Expression](https://www.cnblogs.com/strengthen/p/11096570.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1106.java)	|	Hard	|
+|	1105	|	[填充书架 - Filling Bookcase Shelves](https://www.cnblogs.com/strengthen/p/11096572.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1105.java)	|	Medium	|
+|	1104	|	[二叉树寻路 - Path In Zigzag Labelled Binary Tree](https://www.cnblogs.com/strengthen/p/11096576.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1104.java)	|	Easy	|
+|	1103	|	[分糖果 II - Distribute Candies to People](https://www.cnblogs.com/strengthen/p/11096567.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1103.java)	|	Easy	|
+|	1102	|	[得分最高的路径 - Path With Maximum Minimum Value](https://www.cnblogs.com/strengthen/p/11096561.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1102.java)	|	Medium	|
+|	1101	|	[彼此熟识的最早时间 - The Earliest Moment When Everyone Become Friends](https://www.cnblogs.com/strengthen/p/11075289.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1101.java)	|	Medium	|
+|	1100	|	[长度为 K 的无重复字符子串 - Find K-Length Substrings With No Repeated Characters](https://www.cnblogs.com/strengthen/p/11075293.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1100.java)	|	Medium	|
+|	1099	|	[小于 K 的两数之和 - Two Sum Less Than K](https://www.cnblogs.com/strengthen/p/11075284.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1099.java)	|	Easy	|
+|	1098	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1098.java)	|	Medium	|
+|	1097	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1097.java)	|	Hard	|
+|	1096	|	[花括号展开 II - Brace Expansion II](https://www.cnblogs.com/strengthen/p/11032169.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1096.java)	|	Hard	|
+|	1095	|	[山脉数组中查找目标值 - Find in Mountain Array](https://www.cnblogs.com/strengthen/p/11032162.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1095.java)	|	Hard	|
+|	1094	|	[拼车 - Car Pooling](https://www.cnblogs.com/strengthen/p/11032164.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1094.java)	|	Medium	|
+|	1093	|	[大样本统计 - Statistics from a Large Sample](https://www.cnblogs.com/strengthen/p/11032157.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1093.java)	|	Medium	|
+|	1092	|	[最短公共超序列 - Shortest Common Supersequence](https://www.cnblogs.com/strengthen/p/11014399.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1092.java)	|	Hard	|
+|	1091	|	[二进制矩阵中的最短路径 - Shortest Path in Binary Matrix](https://www.cnblogs.com/strengthen/p/11014400.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1091.java)	|	Medium	|
+|	1090	|	[受标签影响的最大值 - Largest Values From Labels](https://www.cnblogs.com/strengthen/p/11014404.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1090.java)	|	Medium	|
+|	1089	|	[复写零 - Duplicate Zeros](https://www.cnblogs.com/strengthen/p/11014391.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1089.java)	|	Easy	|
+|	1088	|	[易混淆数 II - Confusing Number II](https://www.cnblogs.com/strengthen/p/11014408.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1088.java)	|	Hard	|
+|	1087	|	[字母切换 - Permutation of Letters](https://www.cnblogs.com/strengthen/p/11031602.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1087.java)	|	Medium	|
+|	1086	|	[前五科的均分 - High Five](https://www.cnblogs.com/strengthen/p/11014413.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1086.java)	|	Easy	|
+|	1085	|	[最小元素各数位之和 - Sum of Digits in the Minimum Number](https://www.cnblogs.com/strengthen/p/11014397.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1085.java)	|	Easy	|
+|	1084	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1084.java)	|	Easy	|
+|	1083	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1083.java)	|	Easy	|
+|	1082	|		|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1082.java)	|	Easy	|
+|	1081	|	[不同字符的最小子序列 - Smallest Subsequence of Distinct Characters](https://www.cnblogs.com/strengthen/p/10993157.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1081.java)	|	Medium	|
+|	1080	|	[根到叶路径上的不足节点 - Insufficient Nodes in Root to Leaf Paths](https://www.cnblogs.com/strengthen/p/10993155.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1080.java)	|	Medium	|
+|	1079	|	[活字印刷 - Letter Tile Possibilities](https://www.cnblogs.com/strengthen/p/10993151.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1079.java)	|	Medium	|
+|	1078	|	[Bigram 分词 - Occurrences After Bigram](https://www.cnblogs.com/strengthen/p/10993147.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1078.java)	|	Easy	|
+|	1077	|	[Project Employees III $ 项目员工 III]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1077.java)	|	Medium	|
+|	1076	|	[Project Employees II $ 项目员工 II]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1076.java)	|	Easy	|
+|	1075	|	[Project Employees I $ 项目员工 I]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1075.java)	|	Easy	|
+|	1074	|	[元素和为目标值的子矩阵数量 - Number of Submatrices That Sum to Target](https://www.cnblogs.com/strengthen/p/10962954.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1074.java)	|	Hard	|
+|	1073	|	[负二进制数相加 - Adding Two Negabinary Numbers](https://www.cnblogs.com/strengthen/p/10962909.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1073.java)	|	Medium	|
+|	1072	|	[按列翻转得到最大值等行数 - Flip Columns For Maximum Number of Equal Rows](https://www.cnblogs.com/strengthen/p/10962559.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1072.java)	|	Medium	|
+|	1071	|	[字符串的最大公因子 - Greatest Common Divisor of Strings](https://www.cnblogs.com/strengthen/p/10961687.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1071.java)	|	Easy	|
+|	1070	|	[产品销售分析III $ Product Sales Analysis III]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1070.java)	|	Medium	|
+|	1069	|	[产品销售分析II $ Product Sales Analysis II]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1069.java)	|	Easy	|
+|	1068	|	[产品销售分析I $ Product Sales Analysis I]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1068.java)	|	Easy	|
+|	1067	|	[范围内的数字计数 - Digit Count in Range](https://www.cnblogs.com/strengthen/p/10961687.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1067.java)	|	Hard	|
+|	1066	|	[校园自行车分配 II - Campus Bikes II](https://www.cnblogs.com/strengthen/p/10961684.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1066.java)	|	Medium	|
+|	1065	|	[字符串的索引对 - Index Pairs of a String](https://www.cnblogs.com/strengthen/p/10961676.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1065.java)	|	Easy	|
+|	1064	|	[不动点 - Fixed Point](https://www.cnblogs.com/strengthen/p/10961671.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1064.java)	|	Easy	|
+|	1063	|	[有效子数组数 $ Number of Valid Subarrays]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1063.java)	|	Hard	|
+|	1062	|	[最长重复子字符串 $ Longest Repeating Substring]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1062.java)	|	Medium	|
+|	1061	|	[词典最小等价字符串 $ Lexicographically Smallest Equivalent String]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1061.java)	|	Medium	|
+|	1060	|	[排序数组中缺少元素 $ Missing Element in Sorted Array]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1060.java)	|	Medium	|
+|	1059	|	[从源头到目的地的所有路径 $ All Paths from Source Lead to Destination]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1059.java)	|	Hard	|
+|	1058	|	[最小化舍入误差以达到目标 $ Minimize Rounding Error to Meet Target]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1058.java)	|	Medium	|
+|	1057	|	[校园自行车 $ Campus Bikes]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1057.java)	|	Medium	|
+|	1056	|	[混淆的数字 $ Confusing Number]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1056.java)	|	Easy	|
+|	1055	|	[形成字符串的最短方法 $ Shortest Way to Form String]	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1055.java)	|	Medium	|
 |	1054	|	[距离相等的条形码 - Distant Barcodes](https://www.cnblogs.com/strengthen/p/10925094.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1054.java)	|	Medium	|
 |	1053	|	[交换一次的先前排列 - Previous Permutation With One Swap](https://www.cnblogs.com/strengthen/p/10925089.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1053.java)	|	Medium	|
 |	1052	|	[爱生气的书店老板 - Grumpy Bookstore Owner](https://www.cnblogs.com/strengthen/p/10925087.html)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1052.java)	|	Medium	|
