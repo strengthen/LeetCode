@@ -1,4 +1,4 @@
-# 点击下方表格对应链接直接查看Solutions，不需要下载本项目！！！
+# 点击下方表格中链接查看Solutions，不需要下载本项目！
 ## 右上角请【Star】,非【Fork】。Fork后的项目非最新！每周日更新周赛题解~
 ### 群聊人数超过100人，扫码关注公众号，公众号回复：【0】。添加群主为好友，拉您入群！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
