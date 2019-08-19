@@ -25,5 +25,18 @@ class Solution:
                     dp[k][diff] = dp[k].get(diff, 0) + dp[i][diff]
         return sum([x[k] for x in dp for k in x])
 __________________________________________________________________________________________________
-
+sample 50096 kb submission
+class Solution:
+    def numberOfArithmeticSlices(self, A: List[int]) -> int:
+        n = len(A)
+        dp = [collections.defaultdict(int) for _ in range(n)]
+        res=0
+        for i in range(1, n):
+            for j in range(i):
+                diff = A[i]-A[j]
+                dp[i][diff] += 1
+                if diff in dp[j]:
+                    dp[i][diff] += dp[j][diff] 
+                    res += dp[j][diff]
+        return res
 __________________________________________________________________________________________________
