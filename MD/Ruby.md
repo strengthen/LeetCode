@@ -11,6 +11,31 @@
 ### 注2：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】| Ruby | Difficulty |
 | ------ | ------ | ------ | ------ |
+|	1172	|	[餐盘栈 - Dinner Plate Stacks](https://www.cnblogs.com/strengthen/p/11407524.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1172.rb)	|	Hard	|
+|	1171	|	[从链表中删去总和值为零的连续节点 - Remove Zero Sum Consecutive Nodes from Linked List](https://www.cnblogs.com/strengthen/p/11407525.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1171.rb)	|	Medium	|
+|	1170	|	[比较字符串最小字母出现频次 - Compare Strings by Frequency of the Smallest Character](https://www.cnblogs.com/strengthen/p/11407520.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1170.rb)	|	Easy	|
+|	1169	|	[查询无效交易 - Invalid Transactions](https://www.cnblogs.com/strengthen/p/11407518.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1169.rb)	|	Easy	|
+|	1168	|	[水资源分配优化 - Optimize Water Distribution in a Village](https://www.cnblogs.com/strengthen/p/11407047.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1168.rb)	|	Hard	|
+|	1167	|	[连接棒材的最低费用 - Minimum Cost to Connect Sticks](https://www.cnblogs.com/strengthen/p/11407050.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1167.rb)	|	Medium	|
+|	1166	|	[设计文件系统 - Design File System](https://www.cnblogs.com/strengthen/p/11407049.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1166.rb)	|	Medium	|
+|	1165	|	[单行键盘 - Single-Row Keyboard](https://www.cnblogs.com/strengthen/p/11407048.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1165.rb)	|	Easy	|
+|	1164	|		|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1164.rb)	|	Medium	|
+|	1163	|	[按字典序排在最后的子串 - Last Substring in Lexicographical Order](https://www.cnblogs.com/strengthen/p/11371959.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1163.rb)	|	Hard	|
+|	1162	|	[地图分析 - As Far from Land as Possible](https://www.cnblogs.com/strengthen/p/11371958.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1162.rb)	|	Medium	|
+|	1161	|	[最大层内元素和 - Maximum Level Sum of a Binary Tree](https://www.cnblogs.com/strengthen/p/11371957.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1161.rb)	|	Medium	|
+|	1160	|	[拼写单词 - Find Words That Can Be Formed by Characters](https://www.cnblogs.com/strengthen/p/11371954.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1160.rb)	|	Easy	|
+|	1159	|		|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1159.rb)	|	Hard	|
+|	1158	|		|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1158.rb)	|	Medium	|
+|	1157	|	[子数组中占绝大多数的元素 - Online Majority Element In Subarray](https://www.cnblogs.com/strengthen/p/11333867.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1157.rb)	|	Hard	|
+|	1156	|	[单字符重复子串的最大长度 - Swap For Maximum Repeated Substring](https://www.cnblogs.com/strengthen/p/11333865.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1156.rb)	|	Medium	|
+|	1155	|	[掷骰子的N种方法 - Number of Dice Rolls With Target Sum](https://www.cnblogs.com/strengthen/p/11333871.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1155.rb)	|	Medium	|
+|	1154	|	[一年中的第几天 - Ordinal Number Of Date](https://www.cnblogs.com/strengthen/p/11333856.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1154.rb)	|	Easy	|
+|	1153	|	[字符串转化 - String Transforms Into Another String](https://www.cnblogs.com/strengthen/p/11333863.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1153.rb)	|	Hard	|
+|	1152	|	[用户网站访问行为分析 - Analyze User Website Visit Pattern](https://www.cnblogs.com/strengthen/p/11333855.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1152.rb)	|	Medium	|
+|	1151	|	[最少交换次数来组合所有的 1 - Minimum Swaps to Group All 1's Together](https://www.cnblogs.com/strengthen/p/11333857.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1151.rb)	|	Medium	|
+|	1150	|	[检查一个数是否在数组中占绝大多数 - Check If a Number Is Majority Element in a Sorted Array](https://www.cnblogs.com/strengthen/p/11333853.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1150.rb)	|	Easy	|
+|	1149	|		|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1149.rb)	|	Medium	|
+|	1148	|		|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1148.rb)	|	Easy	|
 |	1147	|	[段式回文 - Longest Chunked Palindrome Decomposition](https://www.cnblogs.com/strengthen/p/11297775.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1147.rb)	|	Hard	|
 |	1146	|	[快照数组 - Snapshot Array](https://www.cnblogs.com/strengthen/p/11297779.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1146.rb)	|	Medium	|
 |	1145	|	[二叉树着色游戏 - Binary Tree Coloring Game](https://www.cnblogs.com/strengthen/p/11297770.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1145.rb)	|	Hard	|

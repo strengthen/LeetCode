@@ -10,6 +10,31 @@
 ### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】| Scala | Difficulty |
 | ------ | ------ | ------ | ------ |
+|	1172	|	[餐盘栈 - Dinner Plate Stacks](https://www.cnblogs.com/strengthen/p/11407524.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1172.scala)	|	Hard	|
+|	1171	|	[从链表中删去总和值为零的连续节点 - Remove Zero Sum Consecutive Nodes from Linked List](https://www.cnblogs.com/strengthen/p/11407525.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1171.scala)	|	Medium	|
+|	1170	|	[比较字符串最小字母出现频次 - Compare Strings by Frequency of the Smallest Character](https://www.cnblogs.com/strengthen/p/11407520.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1170.scala)	|	Easy	|
+|	1169	|	[查询无效交易 - Invalid Transactions](https://www.cnblogs.com/strengthen/p/11407518.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1169.scala)	|	Easy	|
+|	1168	|	[水资源分配优化 - Optimize Water Distribution in a Village](https://www.cnblogs.com/strengthen/p/11407047.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1168.scala)	|	Hard	|
+|	1167	|	[连接棒材的最低费用 - Minimum Cost to Connect Sticks](https://www.cnblogs.com/strengthen/p/11407050.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1167.scala)	|	Medium	|
+|	1166	|	[设计文件系统 - Design File System](https://www.cnblogs.com/strengthen/p/11407049.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1166.scala)	|	Medium	|
+|	1165	|	[单行键盘 - Single-Row Keyboard](https://www.cnblogs.com/strengthen/p/11407048.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1165.scala)	|	Easy	|
+|	1164	|		|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1164.scala)	|	Medium	|
+|	1163	|	[按字典序排在最后的子串 - Last Substring in Lexicographical Order](https://www.cnblogs.com/strengthen/p/11371959.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1163.scala)	|	Hard	|
+|	1162	|	[地图分析 - As Far from Land as Possible](https://www.cnblogs.com/strengthen/p/11371958.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1162.scala)	|	Medium	|
+|	1161	|	[最大层内元素和 - Maximum Level Sum of a Binary Tree](https://www.cnblogs.com/strengthen/p/11371957.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1161.scala)	|	Medium	|
+|	1160	|	[拼写单词 - Find Words That Can Be Formed by Characters](https://www.cnblogs.com/strengthen/p/11371954.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1160.scala)	|	Easy	|
+|	1159	|		|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1159.scala)	|	Hard	|
+|	1158	|		|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1158.scala)	|	Medium	|
+|	1157	|	[子数组中占绝大多数的元素 - Online Majority Element In Subarray](https://www.cnblogs.com/strengthen/p/11333867.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1157.scala)	|	Hard	|
+|	1156	|	[单字符重复子串的最大长度 - Swap For Maximum Repeated Substring](https://www.cnblogs.com/strengthen/p/11333865.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1156.scala)	|	Medium	|
+|	1155	|	[掷骰子的N种方法 - Number of Dice Rolls With Target Sum](https://www.cnblogs.com/strengthen/p/11333871.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1155.scala)	|	Medium	|
+|	1154	|	[一年中的第几天 - Ordinal Number Of Date](https://www.cnblogs.com/strengthen/p/11333856.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1154.scala)	|	Easy	|
+|	1153	|	[字符串转化 - String Transforms Into Another String](https://www.cnblogs.com/strengthen/p/11333863.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1153.scala)	|	Hard	|
+|	1152	|	[用户网站访问行为分析 - Analyze User Website Visit Pattern](https://www.cnblogs.com/strengthen/p/11333855.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1152.scala)	|	Medium	|
+|	1151	|	[最少交换次数来组合所有的 1 - Minimum Swaps to Group All 1's Together](https://www.cnblogs.com/strengthen/p/11333857.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1151.scala)	|	Medium	|
+|	1150	|	[检查一个数是否在数组中占绝大多数 - Check If a Number Is Majority Element in a Sorted Array](https://www.cnblogs.com/strengthen/p/11333853.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1150.scala)	|	Easy	|
+|	1149	|		|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1149.scala)	|	Medium	|
+|	1148	|		|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1148.scala)	|	Easy	|
 |	1147	|	[段式回文 - Longest Chunked Palindrome Decomposition](https://www.cnblogs.com/strengthen/p/11297775.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1147.scala)	|	Hard	|
 |	1146	|	[快照数组 - Snapshot Array](https://www.cnblogs.com/strengthen/p/11297779.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1146.scala)	|	Medium	|
 |	1145	|	[二叉树着色游戏 - Binary Tree Coloring Game](https://www.cnblogs.com/strengthen/p/11297770.html)	|	[Scala](https://github.com/strengthen/LeetCode/tree/master/Scala/1145.scala)	|	Hard	|

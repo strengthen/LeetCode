@@ -10,6 +10,31 @@
 ### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
 |逆序No.|【Swift】 && 题目【Title】| Kotlin | Difficulty |
 | ------ | ------ | ------ | ------ |
+|	1172	|	[餐盘栈 - Dinner Plate Stacks](https://www.cnblogs.com/strengthen/p/11407524.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1172.kt)	|	Hard	|
+|	1171	|	[从链表中删去总和值为零的连续节点 - Remove Zero Sum Consecutive Nodes from Linked List](https://www.cnblogs.com/strengthen/p/11407525.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1171.kt)	|	Medium	|
+|	1170	|	[比较字符串最小字母出现频次 - Compare Strings by Frequency of the Smallest Character](https://www.cnblogs.com/strengthen/p/11407520.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1170.kt)	|	Easy	|
+|	1169	|	[查询无效交易 - Invalid Transactions](https://www.cnblogs.com/strengthen/p/11407518.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1169.kt)	|	Easy	|
+|	1168	|	[水资源分配优化 - Optimize Water Distribution in a Village](https://www.cnblogs.com/strengthen/p/11407047.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1168.kt)	|	Hard	|
+|	1167	|	[连接棒材的最低费用 - Minimum Cost to Connect Sticks](https://www.cnblogs.com/strengthen/p/11407050.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1167.kt)	|	Medium	|
+|	1166	|	[设计文件系统 - Design File System](https://www.cnblogs.com/strengthen/p/11407049.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1166.kt)	|	Medium	|
+|	1165	|	[单行键盘 - Single-Row Keyboard](https://www.cnblogs.com/strengthen/p/11407048.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1165.kt)	|	Easy	|
+|	1164	|		|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1164.kt)	|	Medium	|
+|	1163	|	[按字典序排在最后的子串 - Last Substring in Lexicographical Order](https://www.cnblogs.com/strengthen/p/11371959.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1163.kt)	|	Hard	|
+|	1162	|	[地图分析 - As Far from Land as Possible](https://www.cnblogs.com/strengthen/p/11371958.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1162.kt)	|	Medium	|
+|	1161	|	[最大层内元素和 - Maximum Level Sum of a Binary Tree](https://www.cnblogs.com/strengthen/p/11371957.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1161.kt)	|	Medium	|
+|	1160	|	[拼写单词 - Find Words That Can Be Formed by Characters](https://www.cnblogs.com/strengthen/p/11371954.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1160.kt)	|	Easy	|
+|	1159	|		|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1159.kt)	|	Hard	|
+|	1158	|		|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1158.kt)	|	Medium	|
+|	1157	|	[子数组中占绝大多数的元素 - Online Majority Element In Subarray](https://www.cnblogs.com/strengthen/p/11333867.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1157.kt)	|	Hard	|
+|	1156	|	[单字符重复子串的最大长度 - Swap For Maximum Repeated Substring](https://www.cnblogs.com/strengthen/p/11333865.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1156.kt)	|	Medium	|
+|	1155	|	[掷骰子的N种方法 - Number of Dice Rolls With Target Sum](https://www.cnblogs.com/strengthen/p/11333871.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1155.kt)	|	Medium	|
+|	1154	|	[一年中的第几天 - Ordinal Number Of Date](https://www.cnblogs.com/strengthen/p/11333856.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1154.kt)	|	Easy	|
+|	1153	|	[字符串转化 - String Transforms Into Another String](https://www.cnblogs.com/strengthen/p/11333863.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1153.kt)	|	Hard	|
+|	1152	|	[用户网站访问行为分析 - Analyze User Website Visit Pattern](https://www.cnblogs.com/strengthen/p/11333855.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1152.kt)	|	Medium	|
+|	1151	|	[最少交换次数来组合所有的 1 - Minimum Swaps to Group All 1's Together](https://www.cnblogs.com/strengthen/p/11333857.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1151.kt)	|	Medium	|
+|	1150	|	[检查一个数是否在数组中占绝大多数 - Check If a Number Is Majority Element in a Sorted Array](https://www.cnblogs.com/strengthen/p/11333853.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1150.kt)	|	Easy	|
+|	1149	|		|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1149.kt)	|	Medium	|
+|	1148	|		|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1148.kt)	|	Easy	|
 |	1147	|	[段式回文 - Longest Chunked Palindrome Decomposition](https://www.cnblogs.com/strengthen/p/11297775.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1147.kt)	|	Hard	|
 |	1146	|	[快照数组 - Snapshot Array](https://www.cnblogs.com/strengthen/p/11297779.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1146.kt)	|	Medium	|
 |	1145	|	[二叉树着色游戏 - Binary Tree Coloring Game](https://www.cnblogs.com/strengthen/p/11297770.html)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1145.kt)	|	Hard	|
