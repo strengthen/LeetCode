@@ -1,7 +1,8 @@
-# 点击下方表格中链接查看Solutions，不需要下载本项目！
-## 右上角请【Star】,非【Fork】。Fork后的项目非最新！每周日更新周赛题解~
-### 扫一扫右侧二维码，添加群主为好友，拉您进入LeetCode大神刷题群！
-### 扫一扫左侧二维码，关注群主个人公众号！
+### 热烈欢迎您一起填坑！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+# 点击下方表格中的链接查看Solutions，不需要下载本项目！
+## 右上角请【Star】,注意【Fork】后的项目非最新！每周日更新周赛题解~
+### 扫一扫左侧二维码，关注群主个人公众号！获取最新信息！
+### 扫一扫右侧二维码，添加群主为好友，拉您加入LeetCode大神刷题群！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注1：根据列选择编程语言和对应题号。支持14种编程语言。见本页底部！
 ### 注2：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
@@ -1210,9 +1211,6 @@
 |	3	|	[无重复字符的最长子串 - Longest Substring Without Repeating Characters](https://www.cnblogs.com/strengthen/p/9858659.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/3.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/3.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/3.py)	|	Medium	|
 |	2	|	[两数相加 - Add Two Numbers](https://www.cnblogs.com/strengthen/p/9697862.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/2.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/2.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/2.py)	|	Medium	|
 |	1	|	[两数之和 - Two Sum](https://www.cnblogs.com/strengthen/p/9697856.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1.py)	|	Easy	|
-
-
-# 热烈欢迎您一起填坑！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ### 本页仅供查找4种编程语言：【Siwft】、【C++】、【Java】、【Python3】
 ### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
 ## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
