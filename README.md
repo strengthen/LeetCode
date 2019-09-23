@@ -1,6 +1,7 @@
 # 点击下方表格中链接查看Solutions，不需要下载本项目！
 ## 右上角请【Star】,非【Fork】。Fork后的项目非最新！每周日更新周赛题解~
-### 群聊人数超过100人，扫码关注公众号，公众号回复：【0】。添加群主为好友，拉您入群！
+### 扫一扫右侧二维码，添加群主为好友，拉您进入LeetCode大神刷题群！
+### 扫一扫左侧二维码，关注群主个人公众号！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注1：根据列选择编程语言和对应题号。支持14种编程语言。见本页底部！
 ### 注2：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
