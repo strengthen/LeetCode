@@ -1,14 +1,18 @@
 ### 热烈欢迎您一起填坑！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 # 点击下方表格中的链接查看Solutions，不需要下载本项目！
 ## 右上角请【Star】,注意【Fork】后的项目非最新！每周日更新周赛题解~
-### 扫一扫左侧二维码，关注群主个人公众号！获取最新信息！
-### 扫一扫右侧二维码，添加群主为好友，拉您加入LeetCode大神刷题群！
+### 扫左侧二维码，关注群主个人公众号！获取最新信息！
+### 扫右侧二维码，添加群主为好友，拉您加入LeetCode大神刷题群！
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注1：根据列选择编程语言和对应题号。支持14种编程语言。见本页底部！
 ### 注2：每题2个解法 = 【Minimum Runtime Solution】 + 【Minimum Memory Usage Solution】
 ### 注3：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位链接。
 |逆序No.|【Swift】 && 题目【Title】|C++|Java|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
+|	1220	|	[统计元音字母序列的数目 - Count Vowels Permutation](https://www.cnblogs.com/strengthen/p/11626363.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1220.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1220.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1220.py)	|	Hard	|
+|	1219	|	[黄金矿工 - Path with Maximum Gold](https://www.cnblogs.com/strengthen/p/11626364.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1219.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1219.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1219.py)	|	Medium	|
+|	1218	|	[最长定差子序列 - Longest Arithmetic Subsequence of Given Difference](https://www.cnblogs.com/strengthen/p/11626362.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1218.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1218.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1218.py)	|	Medium	|
+|	1217	|	[玩筹码 - Play with Chips](https://www.cnblogs.com/strengthen/p/11626362.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1217.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1217.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1217.py)	|	Easy	|
 |	1216	|	[验证回文字符串 III - Valid Palindrome III](https://www.cnblogs.com/strengthen/p/11608028.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1216.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1216.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1216.py)	|	Hard	|
 |	1215	|	[步进数 - Stepping Numbers](https://www.cnblogs.com/strengthen/p/11608029.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1215.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1215.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1215.py)	|	Medium	|
 |	1214	|	[查找两棵二叉搜索树之和 - Two Sum BSTs](https://www.cnblogs.com/strengthen/p/11608025.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1214.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1214.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1214.py)	|	Medium	|
