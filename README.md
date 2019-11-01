@@ -4,8 +4,9 @@
 ![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)
 ![](https://img.shields.io/badge/Language-Swift-yellow)
 ![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
-![Leetcode](./MD/Image/QR_code.png?style=centerme)
+
 ### Welcome to participation in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### Note：Supports 14 programming languages. See bottom of this page!
 |No.|Swift && Title|C++|Java|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
