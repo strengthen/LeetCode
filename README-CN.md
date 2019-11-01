@@ -1,10 +1,12 @@
 # [English](./README.md) | 简体中文
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)![](https://img.shields.io/badge/Language-Java-green)![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)![](https://img.shields.io/badge/Language-Swift-yellow)![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
-
-### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
-## 点击下方表格中的链接查看Solutions，不需要下载本项目！
+![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
+![](https://img.shields.io/badge/Language-Java-green)
+![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)
+![](https://img.shields.io/badge/Language-Swift-yellow)
+![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
-### 注：根据列选择编程语言和对应题号。支持14种编程语言。见本页底部！
+### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+### 注：根据列选择编程语言和对应题号。
 |序号|Swift && 题名|C++|Java|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 1220	|	[统计元音字母序列的数目](https://www.cnblogs.com/strengthen/p/11626363.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1220.cpp)	|	[Java](https://github.com/strengthen/LeetCode/blob/master/Java/1220.java)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1220.py)	|	Hard	|
