@@ -1,11 +1,13 @@
 # English | [简体中文](./README-CN.md) 
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
-![](https://img.shields.io/badge/Language-Java-green)
-![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)
-![](https://img.shields.io/badge/Language-Swift-yellow)
-![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
-
-### Welcome to participation in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+![](https://img.shields.io/badge/C-C%2B%2B-brightgreen)
+![](https://img.shields.io/badge/Python3-Swift-green)
+![](https://img.shields.io/badge/C%23-Go-yellowgreen)
+![](https://img.shields.io/badge/Java-JavaScript-yellow)
+![](https://img.shields.io/badge/Kotlin-PHP-orange)
+![](https://img.shields.io/badge/Python-Python3-red)
+![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
+![](https://img.shields.io/badge/Scala-Swift-blue)
+### Welcome to participate in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### Note：Supports 14 programming languages. See bottom of this page!
 |No.|Swift && Title|C++|Java|Python3|Difficulty|
