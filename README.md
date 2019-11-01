@@ -1,10 +1,5 @@
 # English | [简体中文](./README-CN.md) 
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
-![](https://img.shields.io/badge/Language-Java-green)
-![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)
-![](https://img.shields.io/badge/Language-Swift-yellow)
-![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
-
+![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)![](https://img.shields.io/badge/Language-Java-green)![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)![](https://img.shields.io/badge/Language-Swift-yellow)![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
 ### Welcome to participation in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### Note：Select the programming language and the corresponding question number according to the column. Supports 14 programming languages. See bottom of this page!

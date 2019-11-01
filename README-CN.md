@@ -1,9 +1,5 @@
 # [English](./README.md) | 简体中文
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
-![](https://img.shields.io/badge/Language-Java-green)
-![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)
-![](https://img.shields.io/badge/Language-Swift-yellow)
-![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
+![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)![](https://img.shields.io/badge/Language-Java-green)![](https://img.shields.io/badge/Language-Pyhon3-yellowgreen)![](https://img.shields.io/badge/Language-Swift-yellow)![](https://img.shields.io/badge/Algorithm-LeetCode-orange)
 
 ### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ## 点击下方表格中的链接查看Solutions，不需要下载本项目！
