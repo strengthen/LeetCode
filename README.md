@@ -1,6 +1,6 @@
 # English | [简体中文](./README-CN.md) 
+![](https://img.shields.io/badge/Algorithm-LeetCode-green)
 ![](https://img.shields.io/badge/C-C%2B%2B-brightgreen)
-![](https://img.shields.io/badge/Python3-Swift-green)
 ![](https://img.shields.io/badge/C%23-Go-yellowgreen)
 ![](https://img.shields.io/badge/Java-JavaScript-yellow)
 ![](https://img.shields.io/badge/Kotlin-PHP-orange)
