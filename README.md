@@ -10,7 +10,7 @@
 ### Welcome to participate in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### Note：Supports 14 programming languages. See bottom of this page!
-|No.|Swift && Title|C++|Java|Python3|Difficulty|
+|No.|Swift && Title|C++|Kotlin|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1320	|	[Minimum Distance to Type a Word Using Two Fingers](https://www.cnblogs.com/strengthen/p/12185599.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1320.cpp)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1320.kt)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1320.py)	|	Hard	|
 |	1319	|	[Number of Operations to Make Network Connected](https://www.cnblogs.com/strengthen/p/12185585.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1319.cpp)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1319.kt)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1319.py)	|	Medium	|

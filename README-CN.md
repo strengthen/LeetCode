@@ -10,7 +10,7 @@
 ### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注：支持14种编程语言。见本页底部！
-|序号|Swift && 题名|C++|Java|Python3|Difficulty|
+|序号|Swift && 题名|C++|Kotlin|Python3|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1320	|	[二指输入的的最小距离](https://www.cnblogs.com/strengthen/p/12185599.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1320.cpp)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1320.kt)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1320.py)	|	Hard	|
 |	1319	|	[连通网络的操作次数](https://www.cnblogs.com/strengthen/p/12185585.html)	|	[C++](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1319.cpp)	|	[Kotlin](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1319.kt)	|	[Python3](https://github.com/strengthen/LeetCode/blob/master/Python3/1319.py)	|	Medium	|
