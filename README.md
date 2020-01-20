@@ -10,7 +10,7 @@
 ### Welcome to participate in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### Note：Supports 14 programming languages. See bottom of this page!
-|序号|Swift && 题名|C++|Java|Python3|Kotlin|Difficulty|
+|No.|Swift && Title|C++|Java|Python3|Kotlin|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1326	|	[Minimum Number of Taps to Open to Water a Garden ](https://www.cnblogs.com/strengthen/p/12213419.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1326.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Java/1326.java)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1326.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1326.kt)	|	Hard	|
 |	1325	|	[Delete Leaves With a Given Value](https://www.cnblogs.com/strengthen/p/12213394.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1325.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Java/1325.java)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1325.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1325.kt)	|	Medium	|
