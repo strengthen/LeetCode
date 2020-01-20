@@ -10,8 +10,8 @@
 ### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ### 注：支持14种编程语言。见本页底部！
-|序号|Swift && 题名|C++|Kotlin|Python3|Difficulty|
-| ------ | ------ | ------ | ------ | ------ | ------ |
+|序号|Swift && 题名|C++|Java|Python3|Kotlin|Difficulty|
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1326	|	[灌溉花园的最少水龙头数目](https://www.cnblogs.com/strengthen/p/12213419.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1326.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Java/1326.java)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1326.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1326.kt)	|	Hard	|
 |	1325	|	[删除给定值的叶子节点](https://www.cnblogs.com/strengthen/p/12213394.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1325.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Java/1325.java)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1325.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1325.kt)	|	Medium	|
 |	1324	|	[竖直打印单词](https://www.cnblogs.com/strengthen/p/12213371.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1324.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Java/1324.java)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1324.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1324.kt)	|	Medium	|
