@@ -7,9 +7,12 @@
 ![](https://img.shields.io/badge/Python-Python3-red)
 ![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
 ![](https://img.shields.io/badge/Scala-Swift-blue)
-### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
-![Leetcode](./MD/Image/QR_code.png?style=centerme)
-### 注：支持14种编程语言。见本页底部！
+### 支持14种编程语言,按首字母顺序排序。
+### | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
+### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
+### ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
+![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
+
 |序号|Swift && 题名|C++|Python3|Kotlin|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1326	|	[灌溉花园的最少水龙头数目](https://www.cnblogs.com/strengthen/p/12213419.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1326.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1326.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1326.kt)	|	Hard	|
@@ -1337,10 +1340,7 @@
 |	3	|	[无重复字符的最长子串](https://www.cnblogs.com/strengthen/p/9858659.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/3.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/3.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/3.kt)	|	Medium	|
 |	2	|	[两数相加](https://www.cnblogs.com/strengthen/p/9697862.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/2.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/2.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/2.kt)	|	Medium	|
 |	1	|	[两数之和](https://www.cnblogs.com/strengthen/p/9697856.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1.kt)	|	Easy	|
-### 按首字母顺序排序，不分先后。
-## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
-## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
-## ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
-![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
+### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ## License
 This is under an MIT license. See the [LICENSE](LICENSE) for more information.
