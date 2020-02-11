@@ -7,9 +7,11 @@
 ![](https://img.shields.io/badge/Python-Python3-red)
 ![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
 ![](https://img.shields.io/badge/Scala-Swift-blue)
-### Welcome to participate in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
-![Leetcode](./MD/Image/QR_code.png?style=centerme)
-### Note：Supports 14 programming languages. See bottom of this page!
+### ↓WeChat reward↓ & ↓Alipay reward↓ → [Reward](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.zengqiang.org)
+![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
+### Supports 14 programming languages.Sort alphabetically, regardless of order.
+### | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
+### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
 |No.|Swift && Title|C++|Python3|Kotlin|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |	1326	|	[Minimum Number of Taps to Open to Water a Garden ](https://www.cnblogs.com/strengthen/p/12213419.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1326.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1326.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1326.kt)	|	Hard	|
@@ -1337,10 +1339,7 @@
 |	3	|	[Longest Substring Without Repeating Characters](https://www.cnblogs.com/strengthen/p/9858659.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/3.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/3.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/3.kt)	|	Medium	|
 |	2	|	[Add Two Numbers](https://www.cnblogs.com/strengthen/p/9697862.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/2.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/2.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/2.kt)	|	Medium	|
 |	1	|	[Two Sum](https://www.cnblogs.com/strengthen/p/9697856.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1.kt)	|	Easy	|
-### Sort alphabetically, regardless of order
-## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
-## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
-## ↓WeChat reward↓ & ↓Alipay reward↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
-![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
+### Welcome to participate in the project！→ [Course](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ## License
 This is under an MIT license. See the [LICENSE](LICENSE) for more information.
