@@ -7,8 +7,8 @@
 ![](https://img.shields.io/badge/Python-Python3-red)
 ![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
 ![](https://img.shields.io/badge/Scala-Swift-blue)
-### 支持14种编程语言,按首字母顺序排序。
-### | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
+### 支持15种编程语言,按首字母顺序排序。
+### | [Bash](https://github.com/strengthen/LeetCode/blob/master/MD/Bash.md) | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
 ### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
 ### ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)

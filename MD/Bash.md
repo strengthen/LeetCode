@@ -7,14 +7,14 @@
 ![](https://img.shields.io/badge/Python-Python3-red)
 ![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
 ![](https://img.shields.io/badge/Scala-Swift-blue)
-### 支持14种编程语言,按首字母顺序排序。
-### | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
+### 支持15种编程语言,按首字母顺序排序。
+### | [Bash](https://github.com/strengthen/LeetCode/blob/master/MD/Bash.md) | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
 ### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
 ### ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
 ### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
 ![Leetcode](./MD/Image/QR_code.png?style=centerme)
-|逆序No.|【Swift】 && 题目【Title】| C | Difficulty |
+|逆序No.|【Swift】 && 题目【Title】| Bash | Difficulty |
 | ------ | ------ | ------ | ------ |
 |	1326	|	[灌溉花园的最少水龙头数目](https://www.cnblogs.com/strengthen/p/12213419.html)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/C/1326.c)	|	Hard	|
 |	1325	|	[删除给定值的叶子节点](https://www.cnblogs.com/strengthen/p/12213394.html)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/C/1325.c)	|	Medium	|
