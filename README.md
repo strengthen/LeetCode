@@ -10,7 +10,7 @@
 ### Supports 14 programming languages, sorted alphabetically.
 ### | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
 ### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
-### ↓WeChat reward↓ & ↓Alipay reward↓ → [Reward](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.zengqiang.org)
+### ↓WeChat reward↓ & ↓Alipay reward↓ → [Reward List](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.zengqiang.org)
 ![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
 |No.|Swift && Title|C++|Python3|Kotlin|Difficulty|
 | ------ | ------ | ------ | ------ | ------ | ------ |
