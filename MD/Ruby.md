@@ -1,14 +1,19 @@
-# 热烈欢迎您一起填坑！→ [参与本项目图文教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
-### 本页仅供查找编程语言：【Siwft】、【Ruby】
-### 请您↓点击↓选择刷题语言，以查找对应编程语言的Solutions。(按首字母顺序排序，不分先后)
-## | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md)|
-## | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md)|
-## ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
-![Leetcode](./Image/WX_ZFB.png?style=centerme)
-## 扫码↓↓↓加入LeetCode微信群，一起LeetCode！每周日更新最新题目！！！
-![Leetcode](./Image/QR_code.png?style=centerme)
-### 注：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。ion】
-### 注2：Mac:【command + F】 / Windows:【Ctrl + F】 → 输入题号或题名快速定位。
+# [English](./README.md) | 简体中文
+![](https://img.shields.io/badge/Algorithm-LeetCode-green)
+![](https://img.shields.io/badge/C-C%2B%2B-brightgreen)
+![](https://img.shields.io/badge/C%23-Go-yellowgreen)
+![](https://img.shields.io/badge/Java-JavaScript-yellow)
+![](https://img.shields.io/badge/Kotlin-PHP-orange)
+![](https://img.shields.io/badge/Python-Python3-red)
+![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
+![](https://img.shields.io/badge/Scala-Swift-blue)
+### 支持14种编程语言,按首字母顺序排序。
+### | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
+### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
+### ↓微信打赏↓ & ↓支付宝打赏↓ → [打赏榜](https://www.cnblogs.com/strengthen/p/10470993.html) | [山青咏芝](https://www.cnblogs.com/strengthen/)
+![Leetcode](./MD/Image/WX_ZFB.png?style=centerme)
+### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
+![Leetcode](./MD/Image/QR_code.png?style=centerme)
 |逆序No.|【Swift】 && 题目【Title】| Ruby | Difficulty |
 | ------ | ------ | ------ | ------ |
 |	1172	|	[餐盘栈 - Dinner Plate Stacks](https://www.cnblogs.com/strengthen/p/11407524.html)	|	[Ruby](https://github.com/strengthen/LeetCode/tree/master/Ruby/1172.rb)	|	Hard	|
