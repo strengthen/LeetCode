@@ -1,4 +1,4 @@
-# [Telegram Group](https://t.me/joinchat/Pbpq4xeAVSUDOo_PldYnFw): https://t.me/joinchat/Pbpq4xeAVSUDOo_PldYnFw
+## [Telegram Group](https://t.me/joinchat/Pbpq4xeAVSUDOo_PldYnFw): https://t.me/joinchat/Pbpq4xeAVSUDOo_PldYnFw
 # English | [简体中文](./README-CN.md) 
 ![](https://img.shields.io/badge/Algorithm-LeetCode-green)
 ![](https://img.shields.io/badge/C-C%2B%2B-brightgreen)
