@@ -7,8 +7,8 @@
 ![](https://img.shields.io/badge/Python-Python3-red)
 ![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
 ![](https://img.shields.io/badge/Scala-Swift-blue)
-### [更多体验，请从App Store下载](https://apps.apple.com/us/app/id1555981466)：[Mind Draft](https://apps.apple.com/us/app/id1555981466)
-### [Telegram群](https://t.me/joinchat/Pbpq4xeAVSUDOo_PldYnFw): https://t.me/joinchat/Pbpq4xeAVSUDOo_PldYnFw
+## [请直接点击，进入我的App Store主页，下载使用各个作品！](https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397)
+### [注：本人坚持每月上线一款新app！](https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397)
 ### 支持15种编程语言,按首字母顺序排序。
 ### | [Bash](https://github.com/strengthen/LeetCode/blob/master/MD/Bash.md) | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
 ### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
