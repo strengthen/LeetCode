@@ -1,3 +1,12 @@
+# English | [简体中文](./README-CN.md)
+![](https://img.shields.io/badge/Algorithm-LeetCode-green)
+![](https://img.shields.io/badge/C-C%2B%2B-brightgreen)
+![](https://img.shields.io/badge/C%23-Go-yellowgreen)
+![](https://img.shields.io/badge/Java-JavaScript-yellow)
+![](https://img.shields.io/badge/Kotlin-PHP-orange)
+![](https://img.shields.io/badge/Python-Python3-red)
+![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
+![](https://img.shields.io/badge/Scala-Swift-blue)
 ## 自己研发自己推广。欢迎点击跳转App Store安装。
 ### 一、iPhone/iPad端安装
 >[1、iTelevision （更好用的直播流播放器/手机电视）](https://apps.apple.com/cn/app/itelevision/id6443470500)
@@ -22,7 +31,6 @@
 >[3、Touch Bar Brickout （打砖块小游戏）](https://apps.apple.com/cn/app/touch-bar-brickout/id1582094533?mt=12)
 
 >[4、Redis Pro （后端Redis工具）](https://apps.apple.com/cn/app/redis-pro/id1576996455?mt=12b)
-
 ### Supports 15 programming languages, sorted alphabetically.
 ### | [Bash](https://github.com/strengthen/LeetCode/blob/master/MD/Bash.md) | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
 ### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
