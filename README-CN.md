@@ -1,22 +1,3 @@
-## 自己研发自己推广，几个无广告的App。欢迎点击跳转App Store安装。
-### 一、iPhone/iPad端安装
->[1、iTelevision （更好用的直播流播放器/手机电视）](https://apps.apple.com/cn/app/itelevision/id6443470500)
-
->[2、iNFC （读写NFC标签，复制门禁卡）](https://apps.apple.com/cn/app/infc/id1562054959)
-
->[3、iSMS （AI离线智能拦截垃圾短信）](https://apps.apple.com/cn/app/isms/id1610118657)
-
->[4、iDraft (电子绘图、电子草稿)](https://apps.apple.com/cn/app/idraft/id1555981466)
-
->[5、iBlog （博客园客户端，开发者的网上家园）](https://apps.apple.com/cn/app/iblog/id1571216825)
-### 二、iMac、MacBook等安装：
->[1、iSpider （复原windows端的蜘蛛纸牌）](https://apps.apple.com/cn/app/spider-card/id1579985010?mt=12)
-
->[2、Minesweeper+（复原windows端的扫雷）](https://apps.apple.com/cn/app/minesweeper/id1576828278?mt=12)
-
->[3、Touch Bar Brickout （打砖块小游戏）](https://apps.apple.com/cn/app/touch-bar-brickout/id1582094533?mt=12)
-
->[4、Redis Pro （后端Redis工具）](https://apps.apple.com/cn/app/redis-pro/id1576996455?mt=12b)
 # [English](./README.md) | 简体中文
 ![](https://img.shields.io/badge/Algorithm-LeetCode-green)
 ![](https://img.shields.io/badge/C-C%2B%2B-brightgreen)
@@ -26,6 +7,30 @@
 ![](https://img.shields.io/badge/Python-Python3-red)
 ![](https://img.shields.io/badge/Ruby-Rust-lightgrey)
 ![](https://img.shields.io/badge/Scala-Swift-blue)
+## 自己研发自己推广。欢迎点击跳转App Store安装。
+### 一、iPhone/iPad端安装
+>[1、iTelevision （更好用的直播流播放器/手机电视）](https://apps.apple.com/cn/app/itelevision/id6443470500)
+> iTelevision群：[https://t.me/iTelevisions](https://t.me/iTelevisions)
+
+>[2、iNFC （读写NFC标签，复制门禁卡）](https://apps.apple.com/cn/app/infc/id1562054959)
+> iNFC群：[https://t.me/NFCMaster](https://t.me/NFCMaster)
+
+>[3、iSMS （AI离线智能拦截垃圾短信）](https://apps.apple.com/cn/app/isms/id1610118657)
+> iSMS群：[https://t.me/iSMS_iContact](https://t.me/iSMS_iContact)
+
+>[4、iDraft (电子绘图、电子草稿)](https://apps.apple.com/cn/app/idraft/id1555981466)
+> iDraft群：[https://t.me/iDrafts](https://t.me/iDrafts)
+
+>[5、iBlog （博客园客户端，开发者的网上家园）](https://apps.apple.com/cn/app/iblog/id1571216825)
+> iNetwork群:[https://t.me/iNetworka](https://t.me/iNetworka)
+### 二、iMac、MacBook等安装：
+>[1、iSpider （复原windows端的蜘蛛纸牌）](https://apps.apple.com/cn/app/spider-card/id1579985010?mt=12)
+
+>[2、Minesweeper+（复原windows端的扫雷）](https://apps.apple.com/cn/app/minesweeper/id1576828278?mt=12)
+
+>[3、Touch Bar Brickout （打砖块小游戏）](https://apps.apple.com/cn/app/touch-bar-brickout/id1582094533?mt=12)
+
+>[4、Redis Pro （后端Redis工具）](https://apps.apple.com/cn/app/redis-pro/id1576996455?mt=12b)
 ### 支持15种编程语言,按首字母顺序排序。
 ### | [Bash](https://github.com/strengthen/LeetCode/blob/master/MD/Bash.md) | [C](https://github.com/strengthen/LeetCode/blob/master/MD/C.md) | [C++](https://github.com/strengthen/LeetCode/blob/master/MD/C%2B%2B.md) | [C#](https://github.com/strengthen/LeetCode/blob/master/MD/C%23.md) | [Go](https://github.com/strengthen/LeetCode/blob/master/MD/Go.md) | [Java](https://github.com/strengthen/LeetCode/blob/master/MD/Java.md) | [JavaScript](https://github.com/strengthen/LeetCode/blob/master/MD/JavaScript.md) | [Kotlin](https://github.com/strengthen/LeetCode/blob/master/MD/Kotlin.md) |
 ### | [PHP](https://github.com/strengthen/LeetCode/blob/master/MD/PHP.md) | [Python](https://github.com/strengthen/LeetCode/blob/master/MD/Python.md) | [Python3](https://github.com/strengthen/LeetCode/blob/master/MD/Python3.md) | [Ruby](https://github.com/strengthen/LeetCode/blob/master/MD/Ruby.md) | [Rust](https://github.com/strengthen/LeetCode/blob/master/MD/Rust.md) | [Scala](https://github.com/strengthen/LeetCode/blob/master/MD/Scala.md) | [Swift](https://github.com/strengthen/LeetCode/blob/master/MD/Swift.md) |
