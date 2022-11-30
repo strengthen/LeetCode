@@ -22,7 +22,10 @@
 > iDraft群：[https://t.me/iDrafts](https://t.me/iDrafts)
 
 >[5、iBlog （博客园客户端，开发者的网上家园）](https://apps.apple.com/cn/app/iblog/id1571216825)
-> iNetwork群:[https://t.me/iNetworka](https://t.me/iNetworka)
+> iBlog群：[https://t.me/iCnblog](https://t.me/iCnblog)
+
+>[6、iNetwork](https://t.me/iNetworka)
+> iNetwork群：[https://t.me/iNetworka](https://t.me/iNetworka)
 ### 二、iMac、MacBook等安装：
 >[1、iSpider （复原windows端的蜘蛛纸牌）](https://apps.apple.com/cn/app/spider-card/id1579985010?mt=12)
 
