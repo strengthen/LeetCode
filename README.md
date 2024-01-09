@@ -28,7 +28,7 @@
 > [https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc](https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc)
 ## 9. Download Gitee firmware in mainland China:
 > [https://gitee.com/newsagency/iNFCAmiibo/tree/master/Firmware/Pixl](https://gitee.com/newsagency/iNFCAmiibo/tree/master/Firmware/Pixl)
-## 10. Gitub firmware download for non-mainland areas:
+## 10. Github firmware download for non-mainland areas:
 > [https://github.com/strengthen/iNFCAmiibo/tree/main/Firmware/Pixl](https://github.com/strengthen/iNFCAmiibo/tree/main/Firmware/Pixl)
 ## 11. DFU web page upgrade:
 > [https://thegecko.github.io/web-bluetooth-dfu/examples/web.html](https://thegecko.github.io/web-bluetooth-dfu/examples/web.html)
