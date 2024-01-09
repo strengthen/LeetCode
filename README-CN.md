@@ -28,7 +28,7 @@
 > [https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc](https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc)
 ## 9、大陆区Gitee固件下载：
 > [https://gitee.com/newsagency/iNFCAmiibo/tree/master/Firmware/Pixl](https://gitee.com/newsagency/iNFCAmiibo/tree/master/Firmware/Pixl)
-## 10、非大陆区Gitub固件下载： 
+## 10、非大陆区Github固件下载： 
 > [https://github.com/strengthen/iNFCAmiibo/tree/main/Firmware/Pixl](https://github.com/strengthen/iNFCAmiibo/tree/main/Firmware/Pixl)
 ## 11、DFU网页升级： 
 > [https://thegecko.github.io/web-bluetooth-dfu/examples/web.html](https://thegecko.github.io/web-bluetooth-dfu/examples/web.html)
