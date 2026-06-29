@@ -1343,7 +1343,5 @@
 |	3	|	[无重复字符的最长子串](https://www.cnblogs.com/strengthen/p/9858659.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/3.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/3.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/3.kt)	|	Medium	|
 |	2	|	[两数相加](https://www.cnblogs.com/strengthen/p/9697862.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/2.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/2.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/2.kt)	|	Medium	|
 |	1	|	[两数之和](https://www.cnblogs.com/strengthen/p/9697856.html)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/C%2B%2B/1.cpp)	|	[✓](https://github.com/strengthen/LeetCode/blob/master/Python3/1.py)	|	[✓](https://github.com/strengthen/LeetCode/tree/master/Kotlin/1.kt)	|	Easy	|
-### 热烈欢迎参与本项目！→ [教程](https://github.com/strengthen/LeetCode/blob/master/MD/Image/ParticipationCourse.md)
-![Leetcode](./MD/Image/QR_code.png?style=centerme)
 ## License
 This is under an MIT license. See the [LICENSE](LICENSE) for more information.
